@@ -1,0 +1,16 @@
+
+/* Eisenfels V12: Gesetzeskarten + CMS Paragraphenformular */
+.law-description{margin-bottom:18px}
+.law-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:18px}
+.law-card{transition:transform .18s ease,border-color .18s ease,background .18s ease}
+.law-card:hover{transform:translateY(-3px);border-color:rgba(255,138,29,.55);background:rgba(255,255,255,.075)}
+.law-topline{display:flex;justify-content:space-between;gap:10px;align-items:center}
+.law-points{padding:5px 9px;border-radius:999px;background:rgba(45,140,255,.14);border:1px solid rgba(45,140,255,.35);color:#cfe5ff;font-size:12px;font-weight:800}
+.law-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+.law-meta div{background:rgba(255,255,255,.045);border:1px solid rgba(255,255,255,.075);border-radius:12px;padding:10px}
+.paragraph-editor{display:grid;grid-template-columns:280px 1fr;gap:16px;margin-top:12px}
+.paragraph-list{border:1px solid var(--line);border-radius:16px;padding:10px;max-height:420px;overflow:auto;background:rgba(0,0,0,.15)}
+.paragraph-list button{display:block;width:100%;text-align:left;border:0;background:transparent;color:var(--text);padding:10px;border-radius:10px;cursor:pointer;overflow-wrap:anywhere}
+.paragraph-list button:hover,.paragraph-list button.active{background:rgba(255,255,255,.1)}
+.paragraph-form{border:1px solid var(--line);border-radius:16px;padding:16px;background:rgba(0,0,0,.12)}
+@media(max-width:900px){.paragraph-editor{grid-template-columns:1fr}}
