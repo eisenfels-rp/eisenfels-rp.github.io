@@ -1,0 +1,1183 @@
+{
+  "settings": {
+    "serverName": "Eisenfels RP",
+    "discordUrl": "https://discord.gg/6kYZAfKSc5",
+    "logo": "/assets/images/eisenfels-logo.png",
+    "theme": "dark",
+    "accentColors": [
+      "red",
+      "orange",
+      "blue"
+    ],
+    "disclaimer": "Eisenfels RP ist ein fiktiver FiveM Roleplay Server. Alle Inhalte dienen ausschließlich dem Roleplay und stellen keine offiziellen Behördeninformationen dar."
+  },
+  "pages": [
+    {
+      "id": "startseite",
+      "slug": "startseite",
+      "title": "Startseite",
+      "parentId": "",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Willkommen in Eisenfels RP\n\nEisenfels RP ist ein fiktiver FiveM-Roleplay-Server mit moderner Behördenstruktur, eigener Stadtgeschichte und klar getrennten Fraktionen.\n\nDiese Website dient als offizielles RP-Portal für Informationen, Behörden, Gesetzbücher, Preislisten, Termine und Ausbildungen.\n\n> Hinweis: Alle Inhalte sind fiktiv und dienen ausschließlich dem Roleplay."
+    },
+    {
+      "id": "stadtgeschichte",
+      "slug": "stadtgeschichte",
+      "title": "Stadtgeschichte",
+      "parentId": "",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Stadtgeschichte Eisenfels\n\nEisenfels begann um 1420 an den Ufern des Trübsees. Erste Siedler, Fischer, Jäger und Erzsucher prägten das Land. Im Jahr 1438 entstand Schloss Eisenfels mitten im See und wurde zum Ursprung der Macht.\n\nSpäter gewann Eisenfurt durch Handel und Seewege an Bedeutung. 1721 wurde Eisenfurt zur Hauptstadt, während der Name Eisenfels als Bezeichnung des gesamten Landes bestehen blieb.\n\nWeitere Regionen wie Bruchweide, Glutheim, Klippenruh, Hohenriff, Nordwacht, Wolkenstieg und das Kalte Ende geben dem Land seine besondere Identität. Auch verborgene Orte wie die verlassene Heilanstalt, das abgeschirmte Gefängnis und Station Dämmergrat gehören zur Geschichte.\n\nHier kannst du später Bilder, Videos und weitere Chronik-Kapitel ergänzen."
+    },
+    {
+      "id": "staat",
+      "slug": "staat-behoerden",
+      "title": "Staat & Behörden",
+      "parentId": "",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "group",
+      "accent": "blue",
+      "body": "# Staat & Behörden\n\nÜbersicht aller staatlichen Einrichtungen und Fraktionen von Eisenfels RP."
+    },
+    {
+      "id": "stadtverwaltung",
+      "slug": "stadtverwaltung",
+      "title": "Stadtverwaltung",
+      "parentId": "staat",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "orange",
+      "body": "# Stadtverwaltung\n\nDie Stadtverwaltung bildet das organisatorische Zentrum von Eisenfels. Sie koordiniert öffentliche Anliegen, interne Verwaltungsprozesse, Genehmigungen und behördliche Abläufe."
+    },
+    {
+      "id": "justiz",
+      "slug": "justiz",
+      "title": "Justiz",
+      "parentId": "staat",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "orange",
+      "body": "# Justiz\n\nDie Justiz Eisenfels wahrt die rechtliche Ordnung, führt Verfahren, prüft Anträge und sorgt für rechtsstaatliche Abläufe im Roleplay."
+    },
+    {
+      "id": "gesetzbuecher",
+      "slug": "gesetzbuecher",
+      "title": "Gesetzbücher",
+      "parentId": "justiz",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "laws-index",
+      "accent": "orange",
+      "body": "# Gesetzbücher\n\nDie Gesetzessammlung ist nach Rechtsgebieten gruppiert. Die Inhalte werden im CMS gepflegt."
+    },
+    {
+      "id": "justiz-fachabteilungen",
+      "slug": "justiz-fachabteilungen",
+      "title": "Fachabteilungen",
+      "parentId": "justiz",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "justiz",
+      "accent": "orange",
+      "body": "# Fachabteilungen der Justiz\n\nHier werden die Abteilungen der Justiz dargestellt."
+    },
+    {
+      "id": "polizei",
+      "slug": "polizei",
+      "title": "Polizei",
+      "parentId": "staat",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "blue",
+      "body": "# Polizei\n\nDie Polizei sorgt für Sicherheit, Gefahrenabwehr und Strafverfolgung im Stadtgebiet Eisenfels."
+    },
+    {
+      "id": "polizei-fachabteilungen",
+      "slug": "polizei-fachabteilungen",
+      "title": "Fachabteilungen",
+      "parentId": "polizei",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "polizei",
+      "accent": "blue",
+      "body": "# Fachabteilungen der Polizei\n\nPlatzhalter für Abteilungen, Zuständigkeiten und Ansprechpartner."
+    },
+    {
+      "id": "feuerwehr",
+      "slug": "feuerwehr",
+      "title": "Feuerwehr",
+      "parentId": "staat",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "group",
+      "accent": "orange",
+      "body": "# Feuerwehr\n\nDie Feuerwehr Eisenfels besteht aus Berufsfeuerwehr und Freiwilliger Feuerwehr."
+    },
+    {
+      "id": "berufsfeuerwehr",
+      "slug": "berufsfeuerwehr",
+      "title": "Berufsfeuerwehr",
+      "parentId": "feuerwehr",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "orange",
+      "body": "# Berufsfeuerwehr\n\nDie Berufsfeuerwehr übernimmt professionelle Brandbekämpfung, technische Hilfeleistung und Gefahrenabwehr."
+    },
+    {
+      "id": "freiwillige-feuerwehr",
+      "slug": "freiwillige-feuerwehr",
+      "title": "Freiwillige Feuerwehr",
+      "parentId": "feuerwehr",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "orange",
+      "body": "# Freiwillige Feuerwehr\n\nDie Freiwillige Feuerwehr unterstützt bei Einsätzen, Ausbildung und Katastrophenschutz."
+    },
+    {
+      "id": "klinikum",
+      "slug": "klinikum",
+      "title": "Klinikum",
+      "parentId": "staat",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "blue",
+      "body": "# Klinikum\n\nDas Klinikum Eisenfels übernimmt stationäre Behandlungen, Operationen, Fachbereiche und medizinische Versorgung."
+    },
+    {
+      "id": "rettungsdienst",
+      "slug": "rettungsdienst",
+      "title": "Rettungsdienst",
+      "parentId": "staat",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "red",
+      "body": "# Rettungsdienst\n\nDer Rettungsdienst Eisenfels leistet Notfallversorgung, Transporte, Erste Hilfe und medizinische Einsätze außerhalb des Klinikums."
+    },
+    {
+      "id": "bauhof",
+      "slug": "bauhof",
+      "title": "Bauhof",
+      "parentId": "staat",
+      "order": 7,
+      "showInSidebar": true,
+      "type": "faction",
+      "accent": "orange",
+      "body": "# Bauhof\n\nDer Bauhof verwaltet kommunale Arbeiten, Standorte, Reparaturen, Infrastruktur und Dienstleistungen."
+    },
+    {
+      "id": "stadtverwaltung-fachbereiche",
+      "slug": "stadtverwaltung-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "stadtverwaltung",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "stadtverwaltung",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "stadtverwaltung-preisliste",
+      "slug": "stadtverwaltung-preisliste",
+      "title": "Preisliste",
+      "parentId": "stadtverwaltung",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "stadtverwaltung",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "stadtverwaltung-termine",
+      "slug": "stadtverwaltung-termine",
+      "title": "Termine",
+      "parentId": "stadtverwaltung",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "stadtverwaltung",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "stadtverwaltung-ausbildungen",
+      "slug": "stadtverwaltung-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "stadtverwaltung",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "stadtverwaltung",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "stadtverwaltung-kontakt",
+      "slug": "stadtverwaltung-kontakt",
+      "title": "Kontakt",
+      "parentId": "stadtverwaltung",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "stadtverwaltung",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "justiz-preisliste",
+      "slug": "justiz-preisliste",
+      "title": "Preisliste",
+      "parentId": "justiz",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "justiz",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "justiz-termine",
+      "slug": "justiz-termine",
+      "title": "Termine",
+      "parentId": "justiz",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "justiz",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "justiz-ausbildungen",
+      "slug": "justiz-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "justiz",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "justiz",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "justiz-kontakt",
+      "slug": "justiz-kontakt",
+      "title": "Kontakt",
+      "parentId": "justiz",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "justiz",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "polizei-preisliste",
+      "slug": "polizei-preisliste",
+      "title": "Preisliste",
+      "parentId": "polizei",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "polizei",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "polizei-termine",
+      "slug": "polizei-termine",
+      "title": "Termine",
+      "parentId": "polizei",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "polizei",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "polizei-ausbildungen",
+      "slug": "polizei-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "polizei",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "polizei",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "polizei-kontakt",
+      "slug": "polizei-kontakt",
+      "title": "Kontakt",
+      "parentId": "polizei",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "polizei",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "berufsfeuerwehr-fachbereiche",
+      "slug": "berufsfeuerwehr-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "berufsfeuerwehr",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "berufsfeuerwehr",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "berufsfeuerwehr-preisliste",
+      "slug": "berufsfeuerwehr-preisliste",
+      "title": "Preisliste",
+      "parentId": "berufsfeuerwehr",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "berufsfeuerwehr",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "berufsfeuerwehr-termine",
+      "slug": "berufsfeuerwehr-termine",
+      "title": "Termine",
+      "parentId": "berufsfeuerwehr",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "berufsfeuerwehr",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "berufsfeuerwehr-ausbildungen",
+      "slug": "berufsfeuerwehr-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "berufsfeuerwehr",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "berufsfeuerwehr",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "berufsfeuerwehr-kontakt",
+      "slug": "berufsfeuerwehr-kontakt",
+      "title": "Kontakt",
+      "parentId": "berufsfeuerwehr",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "berufsfeuerwehr",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "freiwillige-feuerwehr-fachbereiche",
+      "slug": "freiwillige-feuerwehr-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "freiwillige-feuerwehr",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "freiwillige-feuerwehr",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "freiwillige-feuerwehr-preisliste",
+      "slug": "freiwillige-feuerwehr-preisliste",
+      "title": "Preisliste",
+      "parentId": "freiwillige-feuerwehr",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "freiwillige-feuerwehr",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "freiwillige-feuerwehr-termine",
+      "slug": "freiwillige-feuerwehr-termine",
+      "title": "Termine",
+      "parentId": "freiwillige-feuerwehr",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "freiwillige-feuerwehr",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "freiwillige-feuerwehr-ausbildungen",
+      "slug": "freiwillige-feuerwehr-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "freiwillige-feuerwehr",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "freiwillige-feuerwehr",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "freiwillige-feuerwehr-kontakt",
+      "slug": "freiwillige-feuerwehr-kontakt",
+      "title": "Kontakt",
+      "parentId": "freiwillige-feuerwehr",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "freiwillige-feuerwehr",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "klinikum-fachbereiche",
+      "slug": "klinikum-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "klinikum",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "klinikum",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "klinikum-preisliste",
+      "slug": "klinikum-preisliste",
+      "title": "Preisliste",
+      "parentId": "klinikum",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "klinikum",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "klinikum-termine",
+      "slug": "klinikum-termine",
+      "title": "Termine",
+      "parentId": "klinikum",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "klinikum",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "klinikum-ausbildungen",
+      "slug": "klinikum-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "klinikum",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "klinikum",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "klinikum-kontakt",
+      "slug": "klinikum-kontakt",
+      "title": "Kontakt",
+      "parentId": "klinikum",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "klinikum",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "rettungsdienst-fachbereiche",
+      "slug": "rettungsdienst-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "rettungsdienst",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "rettungsdienst",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "rettungsdienst-preisliste",
+      "slug": "rettungsdienst-preisliste",
+      "title": "Preisliste",
+      "parentId": "rettungsdienst",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "rettungsdienst",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "rettungsdienst-termine",
+      "slug": "rettungsdienst-termine",
+      "title": "Termine",
+      "parentId": "rettungsdienst",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "rettungsdienst",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "rettungsdienst-ausbildungen",
+      "slug": "rettungsdienst-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "rettungsdienst",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "rettungsdienst",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "rettungsdienst-kontakt",
+      "slug": "rettungsdienst-kontakt",
+      "title": "Kontakt",
+      "parentId": "rettungsdienst",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "rettungsdienst",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    },
+    {
+      "id": "bauhof-fachbereiche",
+      "slug": "bauhof-fachbereiche",
+      "title": "Fachbereiche",
+      "parentId": "bauhof",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "departments",
+      "factionId": "bauhof",
+      "accent": "blue",
+      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+    },
+    {
+      "id": "bauhof-preisliste",
+      "slug": "bauhof-preisliste",
+      "title": "Preisliste",
+      "parentId": "bauhof",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "price-list",
+      "factionId": "bauhof",
+      "accent": "orange",
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+    },
+    {
+      "id": "bauhof-termine",
+      "slug": "bauhof-termine",
+      "title": "Termine",
+      "parentId": "bauhof",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "events-list",
+      "factionId": "bauhof",
+      "accent": "blue",
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "bauhof-ausbildungen",
+      "slug": "bauhof-ausbildungen",
+      "title": "Ausbildungen",
+      "parentId": "bauhof",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "factionId": "bauhof",
+      "accent": "red",
+      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
+    },
+    {
+      "id": "bauhof-kontakt",
+      "slug": "bauhof-kontakt",
+      "title": "Kontakt",
+      "parentId": "bauhof",
+      "order": 6,
+      "showInSidebar": true,
+      "type": "contact",
+      "factionId": "bauhof",
+      "accent": "orange",
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+    }
+  ],
+  "lawGroups": [
+    {
+      "id": "grundordnung",
+      "title": "Grundordnung & Verfassung",
+      "laws": [
+        {
+          "slug": "konstitution-eisenfeld",
+          "title": "Konstitution Eisenfeld",
+          "body": "# Konstitution Eisenfeld\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "stadtverordnung",
+          "title": "Stadtverordnung",
+          "body": "# Stadtverordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "beamtenrecht",
+          "title": "Beamtenrecht",
+          "body": "# Beamtenrecht\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    },
+    {
+      "id": "prozessrecht",
+      "title": "Gerichts- & Prozessrecht",
+      "laws": [
+        {
+          "slug": "strafprozessordnung",
+          "title": "Strafprozessordnung",
+          "body": "# Strafprozessordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "zivilprozessordnung",
+          "title": "Zivilprozessordnung",
+          "body": "# Zivilprozessordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "verwaltungsgerichtsordnung",
+          "title": "Verwaltungsgerichtsordnung",
+          "body": "# Verwaltungsgerichtsordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    },
+    {
+      "id": "straf-ordnungsrecht",
+      "title": "Straf- & Ordnungsrecht",
+      "laws": [
+        {
+          "slug": "strafgesetzbuch",
+          "title": "Strafgesetzbuch",
+          "body": "# Strafgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "ordnungswidrigkeitengesetz",
+          "title": "Ordnungswidrigkeitengesetz",
+          "body": "# Ordnungswidrigkeitengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "betaeubungsmittelgesetz",
+          "title": "Betäubungsmittelgesetz",
+          "body": "# Betäubungsmittelgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    },
+    {
+      "id": "sicherheitsrecht",
+      "title": "Sicherheits- & Behördenrecht",
+      "laws": [
+        {
+          "slug": "polizeigesetz",
+          "title": "Polizeigesetz",
+          "body": "# Polizeigesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "bundessicherheitsgesetz",
+          "title": "Bundessicherheitsgesetz",
+          "body": "# Bundessicherheitsgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "zoll-handelsueberwachungsgesetz",
+          "title": "Zoll- & Handelsüberwachungsgesetz",
+          "body": "# Zoll- & Handelsüberwachungsgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "grenzschutzgesetz",
+          "title": "Grenzschutzgesetz",
+          "body": "# Grenzschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "waffengesetz",
+          "title": "Waffengesetz",
+          "body": "# Waffengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    },
+    {
+      "id": "natur-verkehr-infrastruktur",
+      "title": "Natur, Verkehr & Infrastruktur",
+      "laws": [
+        {
+          "slug": "natur-wildschutzgesetz",
+          "title": "Natur- & Wildschutzgesetz",
+          "body": "# Natur- & Wildschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "wasserschutzgesetz",
+          "title": "Wasserschutzgesetz",
+          "body": "# Wasserschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "luftraumgesetz",
+          "title": "Luftraumgesetz",
+          "body": "# Luftraumgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "verkehrsgesetzbuch",
+          "title": "Verkehrsgesetzbuch",
+          "body": "# Verkehrsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    },
+    {
+      "id": "versorgung-wirtschaft",
+      "title": "Versorgung, Gesundheit & Wirtschaft",
+      "laws": [
+        {
+          "slug": "feuerwehr-rettungsdienst-katastrophenschutzgesetz",
+          "title": "Feuerwehr-, Rettungsdienst- und Katastrophenschutzgesetz",
+          "body": "# Feuerwehr-, Rettungsdienst- und Katastrophenschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "krankenhausgesetz",
+          "title": "Krankenhausgesetz",
+          "body": "# Krankenhausgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "gewerbeordnung",
+          "title": "Gewerbeordnung",
+          "body": "# Gewerbeordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "handelsgesetzbuch",
+          "title": "Handelsgesetzbuch",
+          "body": "# Handelsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "gaststaettenordnung",
+          "title": "Gaststättenordnung",
+          "body": "# Gaststättenordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "lebensmittelueberwachungsgesetz",
+          "title": "Lebensmittelüberwachungsgesetz",
+          "body": "# Lebensmittelüberwachungsgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        },
+        {
+          "slug": "buergerliches-gesetzbuch",
+          "title": "Bürgerliches Gesetzbuch",
+          "body": "# Bürgerliches Gesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "media": []
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "factionId": "justiz",
+      "name": "Justizverwaltung",
+      "description": "Organisation, Verwaltung und interne Koordination der Justiz.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Amtsgericht",
+      "description": "Zuständig für einfache Verfahren, Anträge und Erstentscheidungen.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Landgericht",
+      "description": "Zuständig für schwerere Verfahren und Berufungen.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Oberlandesgericht",
+      "description": "Höhere Instanz für besonders wichtige Verfahren.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Richter",
+      "description": "Leiten Verfahren, treffen Entscheidungen und sprechen Urteile.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Staatsanwälte",
+      "description": "Vertreten die Anklage und prüfen strafrechtliche Vorgänge.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Anwälte",
+      "description": "Vertreten Bürger, Beschuldigte und Parteien in Verfahren.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Gerichtsvollzieher",
+      "description": "Vollstrecken gerichtliche Entscheidungen und Bescheide.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Justizbeamte",
+      "description": "Unterstützen Gerichtsbetrieb, Sicherheit und Verwaltung.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Vollzugsdienst Naturschutz",
+      "description": "Kontrolliert Naturschutz, Wildschutz und Umweltvorgaben.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Ordnungsbehörde",
+      "description": "Ahndet Ordnungsverstöße und überwacht kommunale Regelungen.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Gewerbeaufsicht",
+      "description": "Überwacht gewerbliche Tätigkeit und Auflagen.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "justiz",
+      "name": "Lebensmittelaufsicht",
+      "description": "Kontrolliert Hygiene, Gaststätten und Lebensmittelbetriebe.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "polizei",
+      "name": "Streifendienst",
+      "description": "Allgemeiner Einsatzdienst und Präsenz im Stadtgebiet.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "polizei",
+      "name": "Kriminalpolizei",
+      "description": "Ermittlungen, Beweissicherung und Fallbearbeitung.",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "polizei",
+      "name": "Verkehrsdienst",
+      "description": "Verkehrskontrollen, Unfallaufnahme und Verkehrsmaßnahmen.",
+      "logo": "",
+      "banner": ""
+    }
+  ],
+  "priceLists": [
+    {
+      "factionId": "rettungsdienst",
+      "title": "Rettungsdienst Preisliste",
+      "items": [
+        {
+          "name": "Einsatzpauschale Standard",
+          "price": "€1.200",
+          "note": "Wird bei jedem Einsatz berechnet."
+        },
+        {
+          "name": "Priorität 1 / Lebensgefahr",
+          "price": "€2.000",
+          "note": "Akute Lebensgefahr."
+        },
+        {
+          "name": "Erste Hilfe vor Ort",
+          "price": "€500",
+          "note": "Basic-Versorgung."
+        },
+        {
+          "name": "Schwerverletztenversorgung",
+          "price": "€2.500",
+          "note": "Stabilisierung und Versorgung."
+        },
+        {
+          "name": "Reanimation inkl. Defibrillator",
+          "price": "€4.500",
+          "note": "CPR + Defi."
+        },
+        {
+          "name": "Standardtransport",
+          "price": "€1.000",
+          "note": "Transport ins Klinikum."
+        },
+        {
+          "name": "Intensivtransport",
+          "price": "€2.800",
+          "note": "Überwachungspflichtiger Transport."
+        },
+        {
+          "name": "Luftrettung",
+          "price": "€6.000 – €8.000",
+          "note": "Falls verfügbar."
+        }
+      ]
+    },
+    {
+      "factionId": "klinikum",
+      "title": "Klinikum Preisliste",
+      "items": [
+        {
+          "name": "Notaufnahme Standard",
+          "price": "€800",
+          "note": "Aufnahme und Erstkontakt."
+        },
+        {
+          "name": "Notaufnahme kritisch",
+          "price": "€1.500",
+          "note": "Kritische Aufnahme."
+        },
+        {
+          "name": "Normalstation / 10 Minuten",
+          "price": "€900",
+          "note": "Stationärer Aufenthalt."
+        },
+        {
+          "name": "Intensivstation / 10 Minuten",
+          "price": "€1.800",
+          "note": "Intensivüberwachung."
+        },
+        {
+          "name": "Kleine OP",
+          "price": "€4.000",
+          "note": "Einfacher Eingriff."
+        },
+        {
+          "name": "Mittlere OP",
+          "price": "€6.500",
+          "note": "Mittlerer Eingriff."
+        },
+        {
+          "name": "Große OP",
+          "price": "€9.000 – €12.000",
+          "note": "Komplexer Eingriff."
+        },
+        {
+          "name": "Not-OP",
+          "price": "€12.000 – €15.000",
+          "note": "Akuter Eingriff."
+        }
+      ]
+    },
+    {
+      "factionId": "berufsfeuerwehr",
+      "title": "Berufsfeuerwehr Preisliste",
+      "items": [
+        {
+          "name": "Brandbekämpfung Standard",
+          "price": "€2.500",
+          "note": "Standard Einsatz."
+        },
+        {
+          "name": "Technische Hilfeleistung",
+          "price": "€1.800",
+          "note": "Absicherung, Bergung, Hilfeleistung."
+        },
+        {
+          "name": "Gefahrgut-Einsatz",
+          "price": "€5.000",
+          "note": "Spezialmaterial erforderlich."
+        }
+      ]
+    },
+    {
+      "factionId": "freiwillige-feuerwehr",
+      "title": "Freiwillige Feuerwehr Preisliste",
+      "items": [
+        {
+          "name": "Unterstützungseinsatz",
+          "price": "€1.200",
+          "note": "Unterstützende Maßnahmen."
+        },
+        {
+          "name": "Brandsicherheitswache",
+          "price": "€2.000 / Stunde",
+          "note": "Event- oder Objektabsicherung."
+        }
+      ]
+    },
+    {
+      "factionId": "bauhof",
+      "title": "Bauhof Preisliste",
+      "items": [
+        {
+          "name": "Kleine Reparatur",
+          "price": "€750",
+          "note": "Kommunale Kleinleistung."
+        },
+        {
+          "name": "Absperrung / Sicherung",
+          "price": "€1.250",
+          "note": "Material + Personal."
+        },
+        {
+          "name": "Standortpflege",
+          "price": "€2.000",
+          "note": "Platzhalter für Standortdienst."
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "factionId": "rettungsdienst",
+      "slug": "dienstbesprechung-rettungsdienst",
+      "title": "Dienstbesprechung Rettungsdienst",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "location": "Rettungswache Eisenfurt",
+      "summary": "Platzhalter-Termin.",
+      "body": "Details können im CMS ergänzt werden."
+    }
+  ],
+  "trainings": [
+    {
+      "factionId": "rettungsdienst",
+      "slug": "grundausbildung-ems",
+      "title": "Grundausbildung EMS",
+      "date": "2026-05-12",
+      "time": "19:30",
+      "location": "Rettungswache Eisenfurt",
+      "summary": "Platzhalter-Ausbildung.",
+      "body": "Inhalte, Voraussetzungen und Ablauf können im CMS gepflegt werden."
+    }
+  ],
+  "contacts": [
+    {
+      "factionId": "stadtverwaltung",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "justiz",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "polizei",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "berufsfeuerwehr",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "freiwillige-feuerwehr",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "klinikum",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "rettungsdienst",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "bauhof",
+      "name": "Kontakt folgt",
+      "role": "Ansprechpartner",
+      "discord": "",
+      "email": "",
+      "note": "Kann im CMS geändert werden."
+    }
+  ]
+}

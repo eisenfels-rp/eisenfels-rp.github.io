@@ -1,0 +1,134 @@
+
+:root{
+  --bg:#060a12; --panel:#0c1320; --panel2:#121b2b; --text:#e8eef8; --muted:#aebbd0;
+  --red:#e4382f; --orange:#ff8a1d; --blue:#2d8cff; --line:rgba(255,255,255,.11);
+}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(circle at 20% 10%,rgba(228,56,47,.18),transparent 25%),radial-gradient(circle at 80% 20%,rgba(45,140,255,.18),transparent 30%),var(--bg);color:var(--text);font-family:Inter,system-ui,Segoe UI,Arial,sans-serif}
+.app{display:grid;grid-template-columns:340px 1fr;min-height:100vh}
+.sidebar{position:sticky;top:0;height:100vh;background:linear-gradient(180deg,rgba(10,16,27,.96),rgba(6,10,18,.96));border-right:1px solid var(--line);padding:18px;overflow:auto}
+.brand{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.brand img{width:58px;height:58px;object-fit:contain}
+.brand h1{font-size:20px;margin:0;letter-spacing:.4px}
+.brand p{margin:2px 0 0;color:var(--muted);font-size:12px}
+.search{width:100%;padding:12px;border:1px solid var(--line);border-radius:12px;background:#070b13;color:var(--text);margin:10px 0 12px}
+.discord{display:block;text-align:center;text-decoration:none;color:white;background:linear-gradient(135deg,var(--red),var(--orange));padding:11px;border-radius:14px;font-weight:700;margin-bottom:14px}
+.tree{font-size:14px}
+.tree ul{list-style:none;padding-left:16px;margin:6px 0;border-left:1px solid rgba(255,255,255,.08)}
+.tree>ul{padding-left:0;border-left:0}
+.tree a{display:block;color:var(--text);text-decoration:none;padding:9px 10px;border-radius:10px;margin:2px 0}
+.tree a:hover,.tree a.active{background:rgba(255,255,255,.09)}
+.tree .group-label{color:#fff;font-weight:800;margin-top:10px;padding:9px 10px}
+.main{padding:28px;max-width:1180px;width:100%;margin:0 auto}
+.header{display:flex;align-items:center;gap:20px;background:rgba(12,19,32,.78);border:1px solid var(--line);border-radius:24px;padding:22px;box-shadow:0 20px 60px rgba(0,0,0,.28)}
+.header img{width:110px;height:110px;object-fit:contain}
+.header h2{font-size:34px;margin:0}
+.header p{color:var(--muted);margin:6px 0 0}
+.content{margin-top:22px;background:rgba(12,19,32,.72);border:1px solid var(--line);border-radius:24px;padding:28px;line-height:1.72}
+.content h1,.content h2,.content h3{line-height:1.2}
+.content h1{font-size:34px}
+.content a{color:#7db7ff}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:18px}
+.card{background:rgba(255,255,255,.055);border:1px solid var(--line);border-radius:18px;padding:18px}
+.card h3{margin-top:0}
+.badge{display:inline-block;padding:5px 9px;border-radius:999px;background:rgba(255,138,29,.16);border:1px solid rgba(255,138,29,.35);font-size:12px;color:#ffd0a1;margin-bottom:8px}
+.price{display:flex;justify-content:space-between;gap:14px;border-bottom:1px solid var(--line);padding:12px 0}
+.price strong:last-child{color:#ffb45d;white-space:nowrap}
+.media{margin:18px 0;border-radius:18px;overflow:hidden;border:1px solid var(--line)}
+.media img,.media iframe{width:100%;display:block}
+.floating-discord{position:fixed;right:20px;bottom:20px;background:linear-gradient(135deg,var(--blue),var(--red));color:white;text-decoration:none;padding:13px 16px;border-radius:999px;font-weight:800;box-shadow:0 14px 40px rgba(0,0,0,.4)}
+.footer{color:var(--muted);font-size:12px;margin:22px 0;text-align:center}
+@media(max-width:900px){.app{grid-template-columns:1fr}.sidebar{position:relative;height:auto}.main{padding:16px}.header{flex-direction:column;text-align:center}.floating-discord{display:none}}
+
+
+/* V4 UX fixes */
+.tree button.tree-toggle{
+  width:100%;
+  border:0;
+  background:transparent;
+  color:var(--text);
+  text-align:left;
+  padding:9px 10px;
+  border-radius:10px;
+  cursor:pointer;
+  font:inherit;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.tree button.tree-toggle:hover{background:rgba(255,255,255,.08)}
+.tree button.tree-toggle .chev{display:inline-block;width:16px;color:var(--muted)}
+.tree li.collapsed > ul{display:none}
+.tree li.active-branch > button.tree-toggle,
+.tree li.active-branch > a{background:rgba(255,255,255,.055)}
+.card, .content, .price, .tree a{
+  overflow-wrap:anywhere;
+  word-break:break-word;
+}
+.card a, .content a{overflow-wrap:anywhere;word-break:break-word}
+.page-tools{
+  display:flex;
+  justify-content:space-between;
+  gap:14px;
+  align-items:center;
+  margin:0 0 14px;
+  flex-wrap:wrap;
+}
+.back-btn{
+  border:1px solid var(--line);
+  color:var(--text);
+  background:rgba(255,255,255,.06);
+  border-radius:999px;
+  padding:9px 13px;
+  cursor:pointer;
+  font-weight:700;
+}
+.back-btn:hover{background:rgba(255,255,255,.11)}
+.breadcrumbs{
+  color:var(--muted);
+  font-size:13px;
+}
+.breadcrumbs a{
+  color:#9bc8ff;
+  text-decoration:none;
+}
+.breadcrumbs a:hover{text-decoration:underline}
+.admin-shell{
+  min-height:100vh;
+  background:radial-gradient(circle at 20% 10%,rgba(228,56,47,.18),transparent 25%),radial-gradient(circle at 80% 20%,rgba(45,140,255,.18),transparent 30%),var(--bg);
+  color:var(--text);
+  font-family:Inter,system-ui,Segoe UI,Arial,sans-serif;
+  padding:28px;
+}
+.admin-box{
+  max-width:980px;
+  margin:0 auto;
+  background:rgba(12,19,32,.85);
+  border:1px solid var(--line);
+  border-radius:24px;
+  padding:24px;
+}
+.admin-box input,.admin-box textarea,.admin-box select{
+  width:100%;
+  background:#070b13;
+  color:var(--text);
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:11px;
+  margin:6px 0 12px;
+}
+.admin-box textarea{min-height:220px;font-family:ui-monospace,Consolas,monospace}
+.admin-actions{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.admin-actions button,.admin-primary{
+  border:0;
+  background:linear-gradient(135deg,var(--red),var(--orange));
+  color:white;
+  padding:11px 15px;
+  border-radius:12px;
+  cursor:pointer;
+  font-weight:800;
+}
+.admin-actions button.secondary{background:rgba(255,255,255,.1)}
+.admin-note{color:var(--muted);font-size:13px;line-height:1.5}
+.status-ok{color:#7dffae}
+.status-bad{color:#ff8a8a}

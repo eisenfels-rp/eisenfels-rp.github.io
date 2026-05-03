@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Eisenfels Verwaltung</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<div class="admin-shell">
+  <div class="admin-box">
+    <h1>Eisenfels Verwaltung</h1>
+    <p class="admin-note">Geschützter Verwaltungsbereich. Änderungen werden direkt in <code>content/content.json</code> deines GitHub-Repositories gespeichert.</p>
+
+    <section id="loginBox">
+      <h2>Login</h2>
+      <label>Passwort</label>
+      <input id="password" type="password" placeholder="Passwort eingeben">
+      <button class="admin-primary" id="loginBtn">Einloggen</button>
+      <p class="admin-note">Standard-Passwort: <strong>Eisenfels2026!</strong>. Bitte nach dem ersten Login ändern.</p>
+      <p id="loginStatus"></p>
+    </section>
+
+    <section id="cmsBox" style="display:none">
+      <h2>CMS</h2>
+      <p class="admin-note">
+        GitHub Token eintragen: Er muss Schreibrechte für dieses Repository haben.
+        Der Token wird nur lokal in deinem Browser gespeichert.
+      </p>
+      <label>GitHub Personal Access Token</label>
+      <input id="token" type="password" placeholder="github_pat_...">
+      <div class="admin-actions">
+        <button id="saveToken">Token lokal speichern</button>
+        <button class="secondary" id="loadContent">Inhalte laden</button>
+        <button class="secondary" id="downloadContent">JSON herunterladen</button>
+      </div>
+
+      <h3>Content JSON bearbeiten</h3>
+      <p class="admin-note">
+        Technisch sauber und flexibel: Alle Seiten, Unterseiten, Logos, Medien, Termine, Ausbildungen, Gesetzesgruppen und Preislisten liegen hier.
+        Du kannst später komfortablere Masken ergänzen lassen; diese Version ist bewusst vollständig und direkt wartbar.
+      </p>
+      <textarea id="editor" spellcheck="false"></textarea>
+      <div class="admin-actions">
+        <button id="formatJson">JSON formatieren & prüfen</button>
+        <button id="saveGithub">Auf GitHub speichern</button>
+      </div>
+
+      <h3>Passwort ändern</h3>
+      <p class="admin-note">
+        Das Passwort wird als SHA-256 Hash in <code>/MephMK/admin-config.js</code> gespeichert.
+        Wenn du es vergisst: Datei im GitHub-Repo öffnen und den Hash zurücksetzen oder diese ZIP erneut hochladen.
+      </p>
+      <label>Neues Passwort</label>
+      <input id="newPassword" type="password" placeholder="Neues Passwort">
+      <div class="admin-actions">
+        <button id="changePassword">Passwort auf GitHub ändern</button>
+        <button class="secondary" id="logout">Ausloggen</button>
+      </div>
+      <p id="status"></p>
+    </section>
+  </div>
+</div>
+<script src="/MephMK/admin-config.js"></script>
+<script src="/MephMK/admin.js"></script>
+</body>
+</html>

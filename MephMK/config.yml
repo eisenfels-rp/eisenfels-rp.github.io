@@ -1,0 +1,138 @@
+
+backend:
+  name: github
+  repo: eisengels-rp/eisengels-rp.github.io
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+publish_mode: simple
+
+collections:
+  - name: "site_data"
+    label: "Eisenfels Inhalte"
+    files:
+      - name: "content"
+        label: "Gesamte Website-Daten"
+        file: "content/content.json"
+        format: "json"
+        fields:
+          - label: "Einstellungen"
+            name: "settings"
+            widget: "object"
+            fields:
+              - {label: "Servername", name: "serverName", widget: "string"}
+              - {label: "Discord-Link", name: "discordUrl", widget: "string"}
+              - {label: "Logo", name: "logo", widget: "image", required: false}
+              - {label: "Disclaimer", name: "disclaimer", widget: "text"}
+          - label: "Seitenbaum"
+            name: "pages"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "ID", name: "id", widget: "string"}
+              - {label: "URL / Slug", name: "slug", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Übergeordnete Seite ID", name: "parentId", widget: "string", required: false}
+              - {label: "Reihenfolge", name: "order", widget: "number", default: 10}
+              - {label: "In Seitenleiste anzeigen", name: "showInSidebar", widget: "boolean", default: true}
+              - {label: "Seitentyp", name: "type", widget: "select", options: ["page","group","faction","laws-index","departments","price-list","events-list","trainings-list","contact"], default: "page"}
+              - {label: "Fraktions-ID", name: "factionId", widget: "string", required: false}
+              - {label: "Akzentfarbe", name: "accent", widget: "select", options: ["red","orange","blue"], default: "orange"}
+              - {label: "Logo/Wappen", name: "logo", widget: "image", required: false}
+              - {label: "Bannerbild", name: "banner", widget: "image", required: false}
+              - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+              - label: "Medien"
+                name: "media"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "Typ", name: "type", widget: "select", options: ["image","video"], default: "image"}
+                  - {label: "URL oder Bild", name: "url", widget: "string"}
+                  - {label: "Beschriftung", name: "caption", widget: "string", required: false}
+          - label: "Gesetzbücher nach Gruppen"
+            name: "lawGroups"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Gruppen-ID", name: "id", widget: "string"}
+              - {label: "Gruppentitel", name: "title", widget: "string"}
+              - label: "Gesetze"
+                name: "laws"
+                widget: "list"
+                summary: "{{fields.title}}"
+                fields:
+                  - {label: "URL / Slug", name: "slug", widget: "string"}
+                  - {label: "Titel", name: "title", widget: "string"}
+                  - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+                  - label: "Medien"
+                    name: "media"
+                    widget: "list"
+                    required: false
+                    fields:
+                      - {label: "Typ", name: "type", widget: "select", options: ["image","video"], default: "image"}
+                      - {label: "URL oder Bild", name: "url", widget: "string"}
+                      - {label: "Beschriftung", name: "caption", widget: "string", required: false}
+          - label: "Fachabteilungen"
+            name: "departments"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Fraktions-ID", name: "factionId", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Beschreibung", name: "description", widget: "text", required: false}
+              - {label: "Logo", name: "logo", widget: "image", required: false}
+              - {label: "Banner", name: "banner", widget: "image", required: false}
+          - label: "Preislisten"
+            name: "priceLists"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Fraktions-ID", name: "factionId", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
+              - label: "Positionen"
+                name: "items"
+                widget: "list"
+                fields:
+                  - {label: "Leistung", name: "name", widget: "string"}
+                  - {label: "Preis", name: "price", widget: "string"}
+                  - {label: "Hinweis", name: "note", widget: "string", required: false}
+          - label: "Termine"
+            name: "events"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Fraktions-ID", name: "factionId", widget: "string"}
+              - {label: "URL / Slug", name: "slug", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Uhrzeit", name: "time", widget: "string", required: false}
+              - {label: "Ort", name: "location", widget: "string", required: false}
+              - {label: "Kurztext", name: "summary", widget: "text", required: false}
+              - {label: "Detailtext", name: "body", widget: "markdown", required: false}
+          - label: "Ausbildungen"
+            name: "trainings"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Fraktions-ID", name: "factionId", widget: "string"}
+              - {label: "URL / Slug", name: "slug", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Uhrzeit", name: "time", widget: "string", required: false}
+              - {label: "Ort", name: "location", widget: "string", required: false}
+              - {label: "Kurztext", name: "summary", widget: "text", required: false}
+              - {label: "Detailtext", name: "body", widget: "markdown", required: false}
+          - label: "Kontakte"
+            name: "contacts"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Fraktions-ID", name: "factionId", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Rolle", name: "role", widget: "string", required: false}
+              - {label: "Discord", name: "discord", widget: "string", required: false}
+              - {label: "E-Mail", name: "email", widget: "string", required: false}
+              - {label: "Notiz", name: "note", widget: "text", required: false}
