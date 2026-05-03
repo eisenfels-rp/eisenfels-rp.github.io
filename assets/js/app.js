@@ -186,11 +186,52 @@ function renderLaw(slug){
     const law = g.laws.find(l=>l.slug===slug);
     if(law){
       header(law.title, g.title);
-      $('#content').innerHTML = `<div class="page-tools"><button class="back-btn" id="backBtn">← Zurück</button><div class="breadcrumbs"><a href="#/startseite">Startseite</a> › <a href="#/gesetzbuecher">Gesetzbücher</a> › <span>${law.title}</span></div></div>` + md(law.body||'') + renderMedia(law.media||[]);
-      $('#backBtn').onclick = ()=>{ location.hash = '#/gesetzbuecher'; };
+
+      let html = `
+        <div class="page-tools">
+          <button class="back-btn" onclick="location.hash='#/gesetzbuecher'">← Zurück</button>
+        </div>
+      `;
+
+      if(law.description){
+        html += `
+          <div class="card">
+            <h2>Allgemeine Beschreibung</h2>
+            <p>${law.description}</p>
+          </div>
+        `;
+      }
+
+      if(!law.paragraphs || !law.paragraphs.length){
+        html += `<div class="card">Keine Paragraphen vorhanden.</div>`;
+      } else {
+        html += `<div class="law-grid">`;
+
+        html += law.paragraphs.map(p=>{
+          const fine = p.minFine && p.maxFine
+            ? `${p.minFine} – ${p.maxFine}`
+            : (p.minFine || p.maxFine || '');
+
+          return `
+            <div class="card">
+              <h3>${p.paragraph} ${p.title}</h3>
+              <p>${p.description || ''}</p>
+
+              ${fine ? `<p><strong>Geldstrafe:</strong> ${fine}</p>` : ''}
+              ${p.jailMinutes ? `<p><strong>Haft:</strong> ${p.jailMinutes} Minuten</p>` : ''}
+              ${p.points ? `<p><strong>Punkte:</strong> ${p.points}</p>` : ''}
+            </div>
+          `;
+        }).join('');
+
+        html += `</div>`;
+      }
+
+      $('#content').innerHTML = html;
       return;
     }
   }
+
   notFound();
 }
 function renderDepartments(fid){
