@@ -700,8 +700,8 @@
               "paragraph": "§1",
               "title": "Testparagraf",
               "description": "test test test test test test test test ",
-              "minFine": "50",
-              "maxFine": "100",
+              "minFine": "50 €",
+              "maxFine": "100 €",
               "jailMinutes": "25",
               "points": "1"
             }
