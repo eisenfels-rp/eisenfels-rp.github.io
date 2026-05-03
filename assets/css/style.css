@@ -132,3 +132,19 @@ body{margin:0;background:radial-gradient(circle at 20% 10%,rgba(228,56,47,.18),t
 .admin-note{color:var(--muted);font-size:13px;line-height:1.5}
 .status-ok{color:#7dffae}
 .status-bad{color:#ff8a8a}
+
+
+/* V6 interactive CMS */
+.cms-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}
+.cms-tab{border:1px solid var(--line);background:rgba(255,255,255,.08);color:var(--text);padding:10px 12px;border-radius:12px;cursor:pointer;font-weight:800}
+.cms-tab.active{background:linear-gradient(135deg,var(--red),var(--orange));border-color:transparent}
+.cms-layout{display:grid;grid-template-columns:280px 1fr;gap:16px;margin-top:12px}
+.cms-list{border:1px solid var(--line);border-radius:16px;padding:10px;max-height:560px;overflow:auto;background:rgba(0,0,0,.15)}
+.cms-list button{display:block;width:100%;text-align:left;border:0;background:transparent;color:var(--text);padding:10px;border-radius:10px;cursor:pointer;overflow-wrap:anywhere}
+.cms-list button:hover,.cms-list button.active{background:rgba(255,255,255,.1)}
+.cms-form{border:1px solid var(--line);border-radius:16px;padding:16px;background:rgba(0,0,0,.12)}
+.cms-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cms-small{font-size:12px;color:var(--muted)}
+.cms-danger{background:#b42318!important}
+.cms-help{background:rgba(45,140,255,.12);border:1px solid rgba(45,140,255,.3);border-radius:14px;padding:12px;margin:12px 0;color:#d8e9ff}
+@media(max-width:900px){.cms-layout{grid-template-columns:1fr}.cms-row{grid-template-columns:1fr}}
