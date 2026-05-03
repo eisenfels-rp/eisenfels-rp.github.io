@@ -1,3 +1,4 @@
+/* Eisenfels admin.js SAFE FIX: Login repariert, Medienposition/Fachabteilungsfelder integriert. */
 
 (function(){
 'use strict';
@@ -64,8 +65,7 @@ function esc(v){ return String(v ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','
 function val(id){ return document.getElementById(id)?.value || ''; }
 function checked(id){ return !!document.getElementById(id)?.checked; }
 function parseMedia(text){
-  return String(text||'').split('
-').map(l=>l.trim()).filter(Boolean).map(l=>{
+  return String(text||'').split('\n').map(l=>l.trim()).filter(Boolean).map(l=>{
     const parts = l.split('|');
     return {type:parts[0] || 'image', url:parts[1] || '', caption:parts[2] || '', position:parts[3] || 'bottom'};
   });
@@ -187,42 +187,14 @@ function bindLaws(){
 
 function renderItems(kind,label){
   const arr=data[kind]||[]; const idx=selected[kind]||0; const it=arr[idx]||{};
-  const isTraining = kind === 'trainings';
   const list=arr.map((x,i)=>'<button type="button" data-sel="'+i+'" class="'+(i===idx?'active':'')+'">'+esc(x.title)+'<br><span class="cms-small">'+esc(x.factionId)+' · '+esc(x.date||'')+'</span></button>').join('');
-  const trainingFields = isTraining ? `
-    <div class="cms-row">
-      <div><label>Dauer</label><input id="i_duration" value="${esc(it.duration||'')}"></div>
-      <div><label>Leitung</label><input id="i_lead" value="${esc(it.lead||'')}"></div>
-    </div>
-    <label>Voraussetzungen</label><textarea id="i_requirements">${esc(it.requirements||'')}</textarea>
-  ` : '';
-  const form=it.slug?`
-    <div class="cms-row"><div><label>Titel</label><input id="i_title" value="${esc(it.title)}"></div><div><label>Slug</label><input id="i_slug" value="${esc(it.slug)}"></div></div>
-    <div class="cms-row"><div><label>Fraktion</label><select id="i_faction">${factionOptions(it.factionId)}</select></div><div><label>Ort</label><input id="i_location" value="${esc(it.location||'')}"></div></div>
-    <div class="cms-row"><div><label>Datum</label><input id="i_date" value="${esc(it.date||'')}"></div><div><label>Uhrzeit</label><input id="i_time" value="${esc(it.time||'')}"></div></div>
-    ${trainingFields}
-    <label>Beschreibung / Kurztext</label><textarea id="i_summary">${esc(it.summary||'')}</textarea>
-    <label>Detailtext</label><textarea id="i_body">${esc(it.body||'')}</textarea>
-    <div class="admin-actions"><button id="saveItem" type="button">Übernehmen</button><button class="cms-danger" id="deleteItem" type="button">Löschen</button></div>`:'<p>Kein Eintrag ausgewählt.</p>';
+  const form=it.slug?`<div class="cms-row"><div><label>Titel</label><input id="i_title" value="${esc(it.title)}"></div><div><label>Slug</label><input id="i_slug" value="${esc(it.slug)}"></div></div><div class="cms-row"><div><label>Fraktion</label><select id="i_faction">${factionOptions(it.factionId)}</select></div><div><label>Ort</label><input id="i_location" value="${esc(it.location||'')}"></div></div><div class="cms-row"><div><label>Datum</label><input id="i_date" value="${esc(it.date||'')}"></div><div><label>Uhrzeit</label><input id="i_time" value="${esc(it.time||'')}"></div></div><label>Kurztext</label><textarea id="i_summary">${esc(it.summary||'')}</textarea><label>Detailtext</label><textarea id="i_body">${esc(it.body||'')}</textarea><div class="admin-actions"><button id="saveItem" type="button">Übernehmen</button><button class="cms-danger" id="deleteItem" type="button">Löschen</button></div>`:'<p>Kein Eintrag ausgewählt.</p>';
   return listLayout(label+' verwalten','Neu: '+label,list,form);
 }
 function bindItems(kind){
   $$('.cms-list button[data-sel]').forEach(b=>b.onclick=()=>{selected[kind]=+b.dataset.sel;renderTab();});
-  $('#addItem').onclick=()=>{
-    const base={factionId:'rettungsdienst',slug:uid(kind),title:'Neuer Eintrag',date:'2026-01-01',time:'20:00',location:'',summary:'',body:''};
-    if(kind==='trainings'){ base.duration=''; base.requirements=''; base.lead=''; }
-    data[kind].push(base);selected[kind]=data[kind].length-1;renderTab();
-  };
-  if($('#saveItem')) $('#saveItem').onclick=()=>{
-    const it=data[kind][selected[kind]||0];
-    Object.assign(it,{title:val('i_title'),slug:val('i_slug'),factionId:val('i_faction'),location:val('i_location'),date:val('i_date'),time:val('i_time'),summary:val('i_summary'),body:val('i_body')});
-    if(kind==='trainings'){
-      it.duration=val('i_duration');
-      it.requirements=val('i_requirements');
-      it.lead=val('i_lead');
-    }
-    renderTab();
-  };
+  $('#addItem').onclick=()=>{data[kind].push({factionId:'rettungsdienst',slug:uid(kind),title:'Neuer Eintrag',date:'2026-01-01',time:'20:00',location:'',summary:'',body:''});selected[kind]=data[kind].length-1;renderTab();};
+  if($('#saveItem')) $('#saveItem').onclick=()=>{const it=data[kind][selected[kind]||0];Object.assign(it,{title:val('i_title'),slug:val('i_slug'),factionId:val('i_faction'),location:val('i_location'),date:val('i_date'),time:val('i_time'),summary:val('i_summary'),body:val('i_body')});renderTab();};
   if($('#deleteItem')) $('#deleteItem').onclick=()=>{if(confirm('Eintrag löschen?')){data[kind].splice(selected[kind]||0,1);selected[kind]=0;renderTab();}};
 }
 
