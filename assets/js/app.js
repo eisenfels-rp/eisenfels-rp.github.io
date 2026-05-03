@@ -181,59 +181,143 @@ function renderPage(page){
 function renderLawGroups(){
   return `<div class="grid">${DATA.lawGroups.map(g=>`<div class="card"><span class="badge">Gesetzesgruppe</span><h3>${g.title}</h3>${g.laws.map(l=>`<p><a href="#/gesetz/${l.slug}">§ ${l.title}</a></p>`).join('')}</div>`).join('')}</div>`;
 }
+
 function renderLaw(slug){
+  function paragraphSortValue(value){
+    const raw = String(value || '').replace('§','').trim().toLowerCase();
+    const match = raw.match(/^(\d+)\s*([a-z]*)/i);
+    if(!match) return { num: 999999, suffix: raw };
+    return { num: parseInt(match[1], 10), suffix: match[2] || '' };
+  }
+
+  function sortParagraphs(paragraphs){
+    return [...(paragraphs || [])].sort((a,b)=>{
+      const pa = paragraphSortValue(a.paragraph);
+      const pb = paragraphSortValue(b.paragraph);
+      if(pa.num !== pb.num) return pa.num - pb.num;
+      return pa.suffix.localeCompare(pb.suffix, 'de');
+    });
+  }
+
+  function moneyText(min, max){
+    min = String(min || '').trim();
+    max = String(max || '').trim();
+    if(min && max) return min + ' – ' + max;
+    if(min) return min;
+    if(max) return max;
+    return '';
+  }
+
+  function lawCard(p){
+    const fine = moneyText(p.minFine, p.maxFine);
+
+    return `
+      <div class="card law-card" data-search="${[
+        p.paragraph,
+        p.title,
+        p.description,
+        p.minFine,
+        p.maxFine,
+        p.jailMinutes,
+        p.points
+      ].join(' ').toLowerCase()}">
+        <div class="law-topline">
+          <span class="badge">${p.paragraph || '§'}</span>
+          ${p.points ? `<span class="law-points">${p.points} Punkt(e)</span>` : ''}
+        </div>
+        <h3>${p.title || 'Ohne Titel'}</h3>
+        ${p.description ? `<p>${String(p.description).replace(/\n/g,'<br>')}</p>` : ''}
+        <div class="law-meta">
+          ${fine ? `<div><strong>Geldstrafe:</strong><br>${fine}</div>` : ''}
+          ${p.jailMinutes ? `<div><strong>Haft:</strong><br>${p.jailMinutes} Minuten</div>` : ''}
+        </div>
+      </div>
+    `;
+  }
+
   for(const g of DATA.lawGroups){
     const law = g.laws.find(l=>l.slug===slug);
     if(law){
       header(law.title, g.title);
 
+      const paragraphs = sortParagraphs(law.paragraphs || []);
+
       let html = `
         <div class="page-tools">
-          <button class="back-btn" onclick="location.hash='#/gesetzbuecher'">← Zurück</button>
+          <button class="back-btn" id="backBtn">← Zurück</button>
+          <div class="breadcrumbs">
+            <a href="#/startseite">Startseite</a> ›
+            <a href="#/gesetzbuecher">Gesetzbücher</a> ›
+            <span>${law.title}</span>
+          </div>
         </div>
       `;
 
-      if(law.description){
+      if(typeof renderMediaByPosition === 'function'){
+        html += renderMediaByPosition(law.media || [], 'top');
+      }
+
+      if(law.description || law.body){
         html += `
-          <div class="card">
+          <div class="card law-description">
             <h2>Allgemeine Beschreibung</h2>
-            <p>${law.description}</p>
+            <p>${String(law.description || law.body || '').replace(/\n/g,'<br>')}</p>
           </div>
         `;
       }
 
-      if(!law.paragraphs || !law.paragraphs.length){
-        html += `<div class="card">Keine Paragraphen vorhanden.</div>`;
+      html += `
+        <div class="law-search-wrap">
+          <input id="lawSearch" class="law-search" placeholder="Paragraph, Titel, Text, Strafe, Haft oder Punkte suchen...">
+        </div>
+      `;
+
+      if(!paragraphs.length){
+        html += `<div class="card">Noch keine Paragraphen vorhanden.</div>`;
       } else {
-        html += `<div class="law-grid">`;
-
-        html += law.paragraphs.map(p=>{
-          const fine = p.minFine && p.maxFine
-            ? `${p.minFine} – ${p.maxFine}`
-            : (p.minFine || p.maxFine || '');
-
-          return `
-            <div class="card">
-              <h3>${p.paragraph} ${p.title}</h3>
-              <p>${p.description || ''}</p>
-
-              ${fine ? `<p><strong>Geldstrafe:</strong> ${fine}</p>` : ''}
-              ${p.jailMinutes ? `<p><strong>Haft:</strong> ${p.jailMinutes} Minuten</p>` : ''}
-              ${p.points ? `<p><strong>Punkte:</strong> ${p.points}</p>` : ''}
-            </div>
-          `;
-        }).join('');
-
+        html += `<div id="lawGrid" class="law-grid">`;
+        html += paragraphs.map(lawCard).join('');
         html += `</div>`;
+        html += `<div id="lawNoResults" class="card" style="display:none">Keine passenden Paragraphen gefunden.</div>`;
+      }
+
+      if(typeof renderMediaByPosition === 'function'){
+        html += renderMediaByPosition(law.media || [], 'bottom');
+      } else if(typeof renderMedia === 'function'){
+        html += renderMedia(law.media || []);
       }
 
       $('#content').innerHTML = html;
+
+      const backBtn = $('#backBtn');
+      if(backBtn) backBtn.onclick = ()=>{ location.hash = '#/gesetzbuecher'; };
+
+      const search = $('#lawSearch');
+      if(search){
+        search.addEventListener('input', ()=>{
+          const q = search.value.trim().toLowerCase();
+          const cards = Array.from(document.querySelectorAll('.law-card'));
+          let visible = 0;
+
+          cards.forEach(card=>{
+            const haystack = card.dataset.search || '';
+            const match = !q || haystack.includes(q);
+            card.style.display = match ? '' : 'none';
+            if(match) visible++;
+          });
+
+          const noResults = $('#lawNoResults');
+          if(noResults) noResults.style.display = visible ? 'none' : '';
+        });
+      }
+
       return;
     }
   }
 
   notFound();
 }
+
 function renderDepartments(fid){
   const items=DATA.departments.filter(d=>d.factionId===fid);
   if(!items.length) return `<div class="card">Noch keine Fachabteilungen eingetragen.</div>`;
