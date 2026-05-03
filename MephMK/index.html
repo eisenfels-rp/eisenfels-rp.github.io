@@ -28,10 +28,12 @@
         GitHub Token eintragen: Er muss Schreibrechte für dieses Repository haben.
         Der Token wird nur lokal in deinem Browser gespeichert.
       </p>
+      <div class="admin-note"><strong>Aktuelles Ziel-Repository:</strong> <code id="repoTarget"></code></div>
       <label>GitHub Personal Access Token</label>
       <input id="token" type="password" placeholder="github_pat_...">
       <div class="admin-actions">
         <button id="saveToken">Token lokal speichern</button>
+        <button class="secondary" id="testAccess">Zugriff testen</button>
         <button class="secondary" id="loadContent">Inhalte laden</button>
         <button class="secondary" id="downloadContent">JSON herunterladen</button>
       </div>
