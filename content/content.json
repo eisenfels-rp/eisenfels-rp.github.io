@@ -667,6 +667,21 @@
       "logo": "",
       "banner": "",
       "media": []
+    },
+    {
+      "id": "seite-0pczxl",
+      "slug": "staatsanwaelte",
+      "title": "Staatsanwälte",
+      "parentId": "justiz-fachabteilungen",
+      "order": 10,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Neue Seite\nefv\nardvads\nvedvds\nc\nxvxc\nv xc\nv \nxcv x\ncv \nxcv\nxv\ndx\nv",
+      "factionId": "",
+      "logo": "",
+      "banner": "",
+      "media": []
     }
   ],
   "lawGroups": [
