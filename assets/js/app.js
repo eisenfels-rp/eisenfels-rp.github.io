@@ -131,9 +131,41 @@ function attachBack(page){
   };
 }
 
+
+function toEmbedUrl(url){
+  if(!url) return "";
+  try{
+    const u = new URL(url);
+    if(u.hostname.includes("youtube.com")){
+      if(u.pathname === "/watch" && u.searchParams.get("v")) return "https://www.youtube.com/embed/" + u.searchParams.get("v");
+      if(u.pathname.startsWith("/shorts/")) return "https://www.youtube.com/embed/" + u.pathname.split("/shorts/")[1].split("/")[0];
+      if(u.pathname.startsWith("/embed/")) return "https://www.youtube.com/embed/" + u.pathname.split("/embed/")[1].split(/[?#]/)[0];
+    }
+    if(u.hostname.includes("youtu.be")) return "https://www.youtube.com/embed/" + u.pathname.replace("/","");
+    return url;
+  }catch(e){ return url; }
+}
+function renderMediaByPosition(media, position){
+  if(!media || !media.length) return '';
+  return media
+    .filter(m => (m.position || 'bottom') === position)
+    .map(m=>{
+      if(m.type==='video'){
+        return `<div class="media"><iframe height="420" src="${toEmbedUrl(m.url)}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><p>${m.caption||''}</p>`;
+      }
+      return `<div class="media"><img src="${m.url}" alt="${m.caption||''}"></div><p>${m.caption||''}</p>`;
+    }).join('');
+}
+function pageExistsBySlug(slug){
+  return !!slug && (DATA.pages || []).some(p => p.slug === slug);
+}
+
 function renderPage(page){
   header(page.title, page.type==='faction'?'Fraktion / Behörde Eisenfels RP':'Eisenfels RP Portal', page.logo);
-  let body = renderTools(page) + md(page.body||'');
+  let body = '';
+  if(typeof renderTools === 'function') body += renderTools(page);
+  body += renderMediaByPosition(page.media||[], 'top');
+  body += md(page.body||'');
 
   if(page.type==='laws-index') body += renderLawGroups();
   if(page.type==='departments') body += renderDepartments(page.factionId);
@@ -142,9 +174,9 @@ function renderPage(page){
   if(page.type==='trainings-list') body += renderItems('trainings', page.factionId, 'ausbildung');
   if(page.type==='contact') body += renderContacts(page.factionId);
 
-  body += renderMedia(page.media||[]);
+  body += renderMediaByPosition(page.media||[], 'bottom');
   $('#content').innerHTML = body;
-  attachBack(page);
+  if(typeof attachBack === 'function') attachBack(page);
 }
 function renderLawGroups(){
   return `<div class="grid">${DATA.lawGroups.map(g=>`<div class="card"><span class="badge">Gesetzesgruppe</span><h3>${g.title}</h3>${g.laws.map(l=>`<p><a href="#/gesetz/${l.slug}">§ ${l.title}</a></p>`).join('')}</div>`).join('')}</div>`;
@@ -164,7 +196,16 @@ function renderLaw(slug){
 function renderDepartments(fid){
   const items=DATA.departments.filter(d=>d.factionId===fid);
   if(!items.length) return `<div class="card">Noch keine Fachabteilungen eingetragen.</div>`;
-  return `<div class="grid">${items.map(d=>`<div class="card">${d.logo?`<img src="${d.logo}" style="max-height:70px">`:''}<h3>${d.name}</h3><p>${d.description||''}</p></div>`).join('')}</div>`;
+  return `<div class="grid">${items.map(d=>{
+    const hasPage = pageExistsBySlug(d.slug);
+    return `<div class="card department-card">
+      ${d.icon ? `<div class="department-icon">${d.icon}</div>` : ''}
+      ${d.logo ? `<img src="${d.logo}" class="department-logo" alt="">` : ''}
+      <h3>${d.name}</h3>
+      <p>${d.description||''}</p>
+      ${hasPage ? `<p><a class="details-btn" href="#/${d.slug}">Details öffnen</a></p>` : ''}
+    </div>`;
+  }).join('')}</div>`;
 }
 function renderPrices(fid){
   const lists=DATA.priceLists.filter(p=>p.factionId===fid);
@@ -174,7 +215,6 @@ function renderPrices(fid){
 function renderItems(kind, fid, route){
   const items=DATA[kind].filter(i=>i.factionId===fid).sort((a,b)=>(a.date||'').localeCompare(b.date||''));
   if(!items.length) return `<div class="card">Noch keine Einträge vorhanden.</div>`;
-
   const isTraining = kind === 'trainings';
   return `<div class="grid">${items.map(i=>`
     <div class="card event-card">
@@ -204,6 +244,7 @@ function renderDetail(kind, slug){
         <span>${item.title}</span>
       </div>
     </div>
+    ${renderMediaByPosition(item.media||[], 'top')}
     <div class="card">
       <span class="badge">${isTraining ? 'Ausbildung' : 'Termin'}</span>
       <h2>${item.title}</h2>
@@ -213,7 +254,7 @@ function renderDetail(kind, slug){
       ${isTraining && item.requirements ? `<p><strong>Voraussetzungen:</strong> ${item.requirements}</p>` : ''}
       ${isTraining && item.lead ? `<p><strong>Leitung:</strong> ${item.lead}</p>` : ''}
     </div>
-  ` + md(item.body||item.summary||'') + renderMedia(item.media||[]);
+  ` + md(item.body||item.summary||'') + renderMediaByPosition(item.media||[], 'bottom');
   $('#backBtn').onclick = ()=>history.length>1?history.back():location.hash=(faction ? '#/'+faction.slug : '#/startseite');
 }
 function renderContacts(fid){
@@ -221,11 +262,7 @@ function renderContacts(fid){
   return `<div class="grid">${items.map(c=>`<div class="card"><h3>${c.name}</h3><p>${c.role||''}</p><p>${c.discord||''}</p><p>${c.email||''}</p><p>${c.note||''}</p></div>`).join('')}</div>`;
 }
 function renderMedia(media){
-  if(!media || !media.length) return '';
-  return media.map(m=>{
-    if(m.type==='video') return `<div class="media"><iframe height="420" src="${m.url}" frameborder="0" allowfullscreen></iframe></div><p>${m.caption||''}</p>`;
-    return `<div class="media"><img src="${m.url}" alt="${m.caption||''}"></div><p>${m.caption||''}</p>`;
-  }).join('');
+  return renderMediaByPosition(media, 'bottom');
 }
 function notFound(){
   header('404','Seite nicht gefunden');
