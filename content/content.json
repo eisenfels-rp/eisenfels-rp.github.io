@@ -265,7 +265,10 @@
       "type": "events-list",
       "factionId": "justiz",
       "accent": "blue",
-      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
+      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt.\n\n**Ausbildung Test**\nDatum xx.xx.xxxx\nUhrzeit xx.xx.xxxx\nOrt Ausbildungsraum Amtsgericht",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "justiz-ausbildungen",
