@@ -174,15 +174,47 @@ function renderPrices(fid){
 function renderItems(kind, fid, route){
   const items=DATA[kind].filter(i=>i.factionId===fid).sort((a,b)=>(a.date||'').localeCompare(b.date||''));
   if(!items.length) return `<div class="card">Noch keine Einträge vorhanden.</div>`;
-  return `<div class="grid">${items.map(i=>`<div class="card"><span class="badge">${i.date||''} ${i.time||''}</span><h3>${i.title}</h3><p>${i.summary||''}</p><p><strong>Ort:</strong> ${i.location||'folgt'}</p><a href="#/${route}/${i.slug}">Details öffnen</a></div>`).join('')}</div>`;
+
+  const isTraining = kind === 'trainings';
+  return `<div class="grid">${items.map(i=>`
+    <div class="card event-card">
+      <span class="badge">${isTraining ? 'Ausbildung' : 'Termin'}</span>
+      <h3>${i.title}</h3>
+      <p><strong>Datum:</strong> ${i.date || 'folgt'} ${i.time ? '· ' + i.time : ''}</p>
+      <p><strong>Ort:</strong> ${i.location || 'folgt'}</p>
+      ${isTraining && i.duration ? `<p><strong>Dauer:</strong> ${i.duration}</p>` : ''}
+      ${isTraining && i.requirements ? `<p><strong>Voraussetzungen:</strong> ${i.requirements}</p>` : ''}
+      ${isTraining && i.lead ? `<p><strong>Leitung:</strong> ${i.lead}</p>` : ''}
+      <p>${i.summary || ''}</p>
+      <p><a class="details-btn" href="#/${route}/${i.slug}">Details öffnen</a></p>
+    </div>`).join('')}</div>`;
 }
 function renderDetail(kind, slug){
   const item=DATA[kind].find(i=>i.slug===slug);
   if(!item) return notFound();
   const faction=pageById(item.factionId);
-  header(item.title, `${faction?.title || 'Eisenfels'} · ${item.date||''} ${item.time||''}`);
-  $('#content').innerHTML = `<div class="page-tools"><button class="back-btn" id="backBtn">← Zurück</button><div class="breadcrumbs"><a href="#/startseite">Startseite</a> › <span>${item.title}</span></div></div><p><strong>Ort:</strong> ${item.location||'folgt'}</p>` + md(item.body||item.summary||'') + renderMedia(item.media||[]);
-  $('#backBtn').onclick = ()=>history.length>1?history.back():location.hash='#/startseite';
+  const isTraining = kind === 'trainings';
+  header(item.title, `${faction?.title || 'Eisenfels'} · ${isTraining ? 'Ausbildung' : 'Termin'} · ${item.date||''} ${item.time||''}`);
+  $('#content').innerHTML = `
+    <div class="page-tools">
+      <button class="back-btn" id="backBtn">← Zurück</button>
+      <div class="breadcrumbs">
+        <a href="#/startseite">Startseite</a> ›
+        ${faction ? `<a href="#/${faction.slug}">${faction.title}</a> ›` : ''}
+        <span>${item.title}</span>
+      </div>
+    </div>
+    <div class="card">
+      <span class="badge">${isTraining ? 'Ausbildung' : 'Termin'}</span>
+      <h2>${item.title}</h2>
+      <p><strong>Datum:</strong> ${item.date || 'folgt'} ${item.time ? '· ' + item.time : ''}</p>
+      <p><strong>Ort:</strong> ${item.location || 'folgt'}</p>
+      ${isTraining && item.duration ? `<p><strong>Dauer:</strong> ${item.duration}</p>` : ''}
+      ${isTraining && item.requirements ? `<p><strong>Voraussetzungen:</strong> ${item.requirements}</p>` : ''}
+      ${isTraining && item.lead ? `<p><strong>Leitung:</strong> ${item.lead}</p>` : ''}
+    </div>
+  ` + md(item.body||item.summary||'') + renderMedia(item.media||[]);
+  $('#backBtn').onclick = ()=>history.length>1?history.back():location.hash=(faction ? '#/'+faction.slug : '#/startseite');
 }
 function renderContacts(fid){
   const items=DATA.contacts.filter(c=>c.factionId===fid);
