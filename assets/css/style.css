@@ -36,6 +36,13 @@ body{margin:0;background:radial-gradient(circle at 20% 10%,rgba(228,56,47,.18),t
 .price strong:last-child{color:#ffb45d;white-space:nowrap}
 .media{margin:18px 0;border-radius:18px;overflow:hidden;border:1px solid var(--line)}
 .media img,.media iframe{width:100%;display:block}
+
+.media iframe {
+  aspect-ratio: 16 / 9;
+  height: auto;
+  min-height: 520px;
+}
+
 .floating-discord{position:fixed;right:20px;bottom:20px;background:linear-gradient(135deg,var(--blue),var(--red));color:white;text-decoration:none;padding:13px 16px;border-radius:999px;font-weight:800;box-shadow:0 14px 40px rgba(0,0,0,.4)}
 .footer{color:var(--muted);font-size:12px;margin:22px 0;text-align:center}
 @media(max-width:900px){.app{grid-template-columns:1fr}.sidebar{position:relative;height:auto}.main{padding:16px}.header{flex-direction:column;text-align:center}.floating-discord{display:none}}
