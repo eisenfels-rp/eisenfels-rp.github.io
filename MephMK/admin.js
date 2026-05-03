@@ -64,9 +64,10 @@ function esc(v){ return String(v ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','
 function val(id){ return document.getElementById(id)?.value || ''; }
 function checked(id){ return !!document.getElementById(id)?.checked; }
 function parseMedia(text){
-  return String(text||'').split('\n').map(l=>l.trim()).filter(Boolean).map(l=>{
+  return String(text||'').split('
+').map(l=>l.trim()).filter(Boolean).map(l=>{
     const parts = l.split('|');
-    return {type:parts[0] || 'image', url:parts[1] || '', caption:parts.slice(2).join('|') || ''};
+    return {type:parts[0] || 'image', url:parts[1] || '', caption:parts[2] || '', position:parts[3] || 'bottom'};
   });
 }
 
@@ -136,7 +137,7 @@ function renderTab(){
     const renderers = {
       pages: renderPages, laws: renderLaws, events: () => renderItems('events','Termin'),
       trainings: () => renderItems('trainings','Ausbildung'), prices: renderPrices,
-      departments: () => renderSimple('departments','Fachabteilungen',['factionId','name','description','logo','banner']),
+      departments: () => renderSimple('departments','Fachabteilungen',['factionId','name','description','slug','icon','logo','banner']),
       contacts: () => renderSimple('contacts','Kontakte',['factionId','name','role','discord','email','note']),
       settings: renderSettings, password: renderPassword
     };
@@ -156,7 +157,7 @@ function renderPages(){
     <label><input id="p_show" type="checkbox" ${p.showInSidebar!==false?'checked':''}> In Seitenleiste anzeigen</label>
     <div class="cms-row"><div><label>Logo/Wappen URL</label><input id="p_logo" value="${esc(p.logo||'')}"></div><div><label>Banner URL</label><input id="p_banner" value="${esc(p.banner||'')}"></div></div>
     <label>Inhalt</label><textarea id="p_body">${esc(p.body||'')}</textarea>
-    <label>Medien: image|URL|Beschriftung oder video|URL|Beschriftung</label><textarea id="p_media">${esc((p.media||[]).map(m=>`${m.type||'image'}|${m.url||''}|${m.caption||''}`).join('\n'))}</textarea>
+    <label>Medien: image|URL|Beschriftung|top/bottom oder video|URL|Beschriftung|top/bottom</label><textarea id="p_media">${esc((p.media||[]).map(m=>`${m.type||'image'}|${m.url||''}|${m.caption||''}|${m.position||'bottom'}`).join('\n'))}</textarea>
     <div class="admin-actions"><button id="savePage" type="button">Seite übernehmen</button><button class="cms-danger" id="deletePage" type="button">Seite löschen</button></div>` : '<p>Keine Seite ausgewählt.</p>';
   return listLayout('Seiten & Unterseiten','Neue Seite',list,form);
 }
@@ -171,7 +172,7 @@ function renderLaws(){
   const groups=data.lawGroups||[]; const gi=selected.lawGroup||0; const li=selected.law||0; const g=groups[gi]||{laws:[]}; const law=(g.laws||[])[li]||{};
   const list=groups.map((g,i)=>'<button type="button" data-g="'+i+'" class="'+(i===gi?'active':'')+'">'+esc(g.title)+'<br><span class="cms-small">'+((g.laws||[]).length)+' Gesetze</span></button>').join('');
   const laws=(g.laws||[]).map((l,i)=>'<button type="button" data-l="'+i+'" class="'+(i===li?'active':'')+'">§ '+esc(l.title)+'</button>').join('');
-  const form=`<h3>Gruppe</h3><div class="cms-row"><div><label>Gruppentitel</label><input id="g_title" value="${esc(g.title||'')}"></div><div><label>Gruppen-ID</label><input id="g_id" value="${esc(g.id||'')}"></div></div><div class="admin-actions"><button id="saveGroup" type="button">Gruppe übernehmen</button><button id="addLaw" type="button">Neues Gesetz</button></div><h3>Gesetze dieser Gruppe</h3><div class="cms-list">${laws}</div>${law.slug?`<h3>Gesetz bearbeiten</h3><div class="cms-row"><div><label>Titel</label><input id="l_title" value="${esc(law.title)}"></div><div><label>Slug</label><input id="l_slug" value="${esc(law.slug)}"></div></div><label>Inhalt</label><textarea id="l_body">${esc(law.body||'')}</textarea><label>Medien</label><textarea id="l_media">${esc((law.media||[]).map(m=>`${m.type||'image'}|${m.url||''}|${m.caption||''}`).join('\n'))}</textarea><div class="admin-actions"><button id="saveLaw" type="button">Gesetz übernehmen</button><button class="cms-danger" id="deleteLaw" type="button">Gesetz löschen</button></div>`:'<p>Kein Gesetz ausgewählt.</p>'}`;
+  const form=`<h3>Gruppe</h3><div class="cms-row"><div><label>Gruppentitel</label><input id="g_title" value="${esc(g.title||'')}"></div><div><label>Gruppen-ID</label><input id="g_id" value="${esc(g.id||'')}"></div></div><div class="admin-actions"><button id="saveGroup" type="button">Gruppe übernehmen</button><button id="addLaw" type="button">Neues Gesetz</button></div><h3>Gesetze dieser Gruppe</h3><div class="cms-list">${laws}</div>${law.slug?`<h3>Gesetz bearbeiten</h3><div class="cms-row"><div><label>Titel</label><input id="l_title" value="${esc(law.title)}"></div><div><label>Slug</label><input id="l_slug" value="${esc(law.slug)}"></div></div><label>Inhalt</label><textarea id="l_body">${esc(law.body||'')}</textarea><label>Medien</label><textarea id="l_media">${esc((law.media||[]).map(m=>`${m.type||'image'}|${m.url||''}|${m.caption||''}|${m.position||'bottom'}`).join('\n'))}</textarea><div class="admin-actions"><button id="saveLaw" type="button">Gesetz übernehmen</button><button class="cms-danger" id="deleteLaw" type="button">Gesetz löschen</button></div>`:'<p>Kein Gesetz ausgewählt.</p>'}`;
   return listLayout('Gesetzbücher nach Gruppen','Neue Gesetzesgruppe',list,form);
 }
 function bindLaws(){
@@ -186,42 +187,14 @@ function bindLaws(){
 
 function renderItems(kind,label){
   const arr=data[kind]||[]; const idx=selected[kind]||0; const it=arr[idx]||{};
-  const isTraining = kind === 'trainings';
   const list=arr.map((x,i)=>'<button type="button" data-sel="'+i+'" class="'+(i===idx?'active':'')+'">'+esc(x.title)+'<br><span class="cms-small">'+esc(x.factionId)+' · '+esc(x.date||'')+'</span></button>').join('');
-  const trainingFields = isTraining ? `
-    <div class="cms-row">
-      <div><label>Dauer</label><input id="i_duration" value="${esc(it.duration||'')}"></div>
-      <div><label>Leitung</label><input id="i_lead" value="${esc(it.lead||'')}"></div>
-    </div>
-    <label>Voraussetzungen</label><textarea id="i_requirements">${esc(it.requirements||'')}</textarea>
-  ` : '';
-  const form=it.slug?`
-    <div class="cms-row"><div><label>Titel</label><input id="i_title" value="${esc(it.title)}"></div><div><label>Slug</label><input id="i_slug" value="${esc(it.slug)}"></div></div>
-    <div class="cms-row"><div><label>Fraktion</label><select id="i_faction">${factionOptions(it.factionId)}</select></div><div><label>Ort</label><input id="i_location" value="${esc(it.location||'')}"></div></div>
-    <div class="cms-row"><div><label>Datum</label><input id="i_date" value="${esc(it.date||'')}"></div><div><label>Uhrzeit</label><input id="i_time" value="${esc(it.time||'')}"></div></div>
-    ${trainingFields}
-    <label>Beschreibung / Kurztext</label><textarea id="i_summary">${esc(it.summary||'')}</textarea>
-    <label>Detailtext</label><textarea id="i_body">${esc(it.body||'')}</textarea>
-    <div class="admin-actions"><button id="saveItem" type="button">Übernehmen</button><button class="cms-danger" id="deleteItem" type="button">Löschen</button></div>`:'<p>Kein Eintrag ausgewählt.</p>';
+  const form=it.slug?`<div class="cms-row"><div><label>Titel</label><input id="i_title" value="${esc(it.title)}"></div><div><label>Slug</label><input id="i_slug" value="${esc(it.slug)}"></div></div><div class="cms-row"><div><label>Fraktion</label><select id="i_faction">${factionOptions(it.factionId)}</select></div><div><label>Ort</label><input id="i_location" value="${esc(it.location||'')}"></div></div><div class="cms-row"><div><label>Datum</label><input id="i_date" value="${esc(it.date||'')}"></div><div><label>Uhrzeit</label><input id="i_time" value="${esc(it.time||'')}"></div></div><label>Kurztext</label><textarea id="i_summary">${esc(it.summary||'')}</textarea><label>Detailtext</label><textarea id="i_body">${esc(it.body||'')}</textarea><div class="admin-actions"><button id="saveItem" type="button">Übernehmen</button><button class="cms-danger" id="deleteItem" type="button">Löschen</button></div>`:'<p>Kein Eintrag ausgewählt.</p>';
   return listLayout(label+' verwalten','Neu: '+label,list,form);
 }
 function bindItems(kind){
   $$('.cms-list button[data-sel]').forEach(b=>b.onclick=()=>{selected[kind]=+b.dataset.sel;renderTab();});
-  $('#addItem').onclick=()=>{
-    const base={factionId:'rettungsdienst',slug:uid(kind),title:'Neuer Eintrag',date:'2026-01-01',time:'20:00',location:'',summary:'',body:''};
-    if(kind==='trainings'){ base.duration=''; base.requirements=''; base.lead=''; }
-    data[kind].push(base);selected[kind]=data[kind].length-1;renderTab();
-  };
-  if($('#saveItem')) $('#saveItem').onclick=()=>{
-    const it=data[kind][selected[kind]||0];
-    Object.assign(it,{title:val('i_title'),slug:val('i_slug'),factionId:val('i_faction'),location:val('i_location'),date:val('i_date'),time:val('i_time'),summary:val('i_summary'),body:val('i_body')});
-    if(kind==='trainings'){
-      it.duration=val('i_duration');
-      it.requirements=val('i_requirements');
-      it.lead=val('i_lead');
-    }
-    renderTab();
-  };
+  $('#addItem').onclick=()=>{data[kind].push({factionId:'rettungsdienst',slug:uid(kind),title:'Neuer Eintrag',date:'2026-01-01',time:'20:00',location:'',summary:'',body:''});selected[kind]=data[kind].length-1;renderTab();};
+  if($('#saveItem')) $('#saveItem').onclick=()=>{const it=data[kind][selected[kind]||0];Object.assign(it,{title:val('i_title'),slug:val('i_slug'),factionId:val('i_faction'),location:val('i_location'),date:val('i_date'),time:val('i_time'),summary:val('i_summary'),body:val('i_body')});renderTab();};
   if($('#deleteItem')) $('#deleteItem').onclick=()=>{if(confirm('Eintrag löschen?')){data[kind].splice(selected[kind]||0,1);selected[kind]=0;renderTab();}};
 }
 
@@ -264,7 +237,7 @@ function bindTab(){
   if(activeTab==='events') bindItems('events');
   if(activeTab==='trainings') bindItems('trainings');
   if(activeTab==='prices') bindPrices();
-  if(activeTab==='departments') bindSimple('departments',['factionId','name','description','logo','banner']);
+  if(activeTab==='departments') bindSimple('departments',['factionId','name','description','slug','icon','logo','banner']);
   if(activeTab==='contacts') bindSimple('contacts',['factionId','name','role','discord','email','note']);
   if(activeTab==='settings') bindSettings();
   if(activeTab==='password') bindPassword();
