@@ -32,7 +32,17 @@
       "showInSidebar": true,
       "type": "page",
       "accent": "orange",
-      "body": "# Stadtgeschichte Eisenfels\n\nEisenfels begann um 1420 an den Ufern des Trübsees. Erste Siedler, Fischer, Jäger und Erzsucher prägten das Land. Im Jahr 1438 entstand Schloss Eisenfels mitten im See und wurde zum Ursprung der Macht.\n\nSpäter gewann Eisenfurt durch Handel und Seewege an Bedeutung. 1721 wurde Eisenfurt zur Hauptstadt, während der Name Eisenfels als Bezeichnung des gesamten Landes bestehen blieb.\n\nWeitere Regionen wie Bruchweide, Glutheim, Klippenruh, Hohenriff, Nordwacht, Wolkenstieg und das Kalte Ende geben dem Land seine besondere Identität. Auch verborgene Orte wie die verlassene Heilanstalt, das abgeschirmte Gefängnis und Station Dämmergrat gehören zur Geschichte.\n\nHier kannst du später Bilder, Videos und weitere Chronik-Kapitel ergänzen."
+      "body": "# Stadtgeschichte Eisenfels\n\nEisenfels begann um 1420 an den Ufern des Trübsees. Erste Siedler, Fischer, Jäger und Erzsucher prägten das Land. Im Jahr 1438 entstand Schloss Eisenfels mitten im See und wurde zum Ursprung der Macht.\n\nSpäter gewann Eisenfurt durch Handel und Seewege an Bedeutung. 1721 wurde Eisenfurt zur Hauptstadt, während der Name Eisenfels als Bezeichnung des gesamten Landes bestehen blieb.\n\nWeitere Regionen wie Bruchweide, Glutheim, Klippenruh, Hohenriff, Nordwacht, Wolkenstieg und das Kalte Ende geben dem Land seine besondere Identität. Auch verborgene Orte wie die verlassene Heilanstalt, das abgeschirmte Gefängnis und Station Dämmergrat gehören zur Geschichte.\n\nHier kannst du später Bilder, Videos und weitere Chronik-Kapitel ergänzen.",
+      "factionId": "",
+      "logo": "",
+      "banner": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://youtu.be/yDy0ULFINHM",
+          "caption": "Tauche ein in eine lebendige Welt voller Geschichten, Charaktere und Möglichkeiten. Egal ob Gesetzeshüter, Zivilist oder Schattenfigur – deine Geschichte beginnt hier."
+        }
+      ]
     },
     {
       "id": "staat",
