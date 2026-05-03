@@ -2,6 +2,7 @@
 const cfg = window.EISENFELS_ADMIN_CONFIG;
 const $ = s => document.querySelector(s);
 let currentSha = null;
+window.addEventListener('DOMContentLoaded',()=>{ const r=document.querySelector('#repoTarget'); if(r) r.textContent=`${cfg.repoOwner}/${cfg.repoName} · ${cfg.branch} · ${cfg.contentPath}`; });
 
 async function sha256(text){
   const data = new TextEncoder().encode(text);
@@ -47,6 +48,26 @@ async function login(){
     $('#loginStatus').className='status-bad';
   }
 }
+
+async function testAccess(){
+  try{
+    if(!token()) throw new Error('GitHub Token fehlt.');
+    const repoRes = await fetch(`https://api.github.com/repos/${cfg.repoOwner}/${cfg.repoName}`, {
+      headers: { Authorization: `Bearer ${token()}`, Accept:'application/vnd.github+json' }
+    });
+    const repoText = await repoRes.text();
+    if(!repoRes.ok) throw new Error(`Repository nicht erreichbar (${repoRes.status}): ${repoText}`);
+
+    const fileRes = await fetch(repoApi(cfg.contentPath) + `?ref=${cfg.branch}`, {
+      headers: { Authorization: `Bearer ${token()}`, Accept:'application/vnd.github+json' }
+    });
+    const fileText = await fileRes.text();
+    if(!fileRes.ok) throw new Error(`content.json nicht erreichbar (${fileRes.status}): ${fileText}`);
+
+    setStatus('Zugriff OK: Repository und content/content.json erreichbar.');
+  }catch(e){ setStatus('Diagnose: '+e.message, false); }
+}
+
 async function loadContent(){
   try{
     if(!token()) throw new Error('GitHub Token fehlt.');
@@ -99,6 +120,7 @@ function formatJson(){
 }
 $('#loginBtn').onclick = login;
 $('#password').addEventListener('keydown', e=>{ if(e.key==='Enter') login(); });
+$('#testAccess').onclick = testAccess;
 $('#saveToken').onclick = ()=>{ localStorage.setItem('ef_github_token', $('#token').value.trim()); setStatus('Token lokal gespeichert.'); };
 $('#loadContent').onclick = loadContent;
 $('#saveGithub').onclick = saveGithub;
