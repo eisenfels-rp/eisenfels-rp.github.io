@@ -898,7 +898,9 @@
       "name": "Staatsanwälte",
       "description": "Vertreten die Anklage und prüfen strafrechtliche Vorgänge.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "staatsanwaelte",
+      "icon": ""
     },
     {
       "factionId": "justiz",
