@@ -65,10 +65,19 @@ function esc(v){ return String(v ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','
 function val(id){ return document.getElementById(id)?.value || ''; }
 function checked(id){ return !!document.getElementById(id)?.checked; }
 function parseMedia(text){
-  return String(text||'').split('\n').map(l=>l.trim()).filter(Boolean).map(l=>{
-    const parts = l.split('|');
-    return {type:parts[0] || 'image', url:parts[1] || '', caption:parts[2] || '', position:parts[3] || 'bottom'};
-  });
+  return String(text || '')
+    .split(/\r?\n/)
+    .map(function(l){ return l.trim(); })
+    .filter(Boolean)
+    .map(function(l){
+      const parts = l.split('|');
+      return {
+        type: parts[0] || 'image',
+        url: parts[1] || '',
+        caption: parts[2] || '',
+        position: parts[3] || 'bottom'
+      };
+    });
 }
 
 async function login(){
