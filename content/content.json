@@ -21,7 +21,18 @@
       "showInSidebar": true,
       "type": "page",
       "accent": "orange",
-      "body": "# Willkommen in Eisenfels RP\n\nEisenfels RP ist ein fiktiver FiveM-Roleplay-Server mit moderner Behördenstruktur, eigener Stadtgeschichte und klar getrennten Fraktionen.\n\nDiese Website dient als offizielles RP-Portal für Informationen, Behörden, Gesetzbücher, Preislisten, Termine und Ausbildungen.\n\n> Hinweis: Alle Inhalte sind fiktiv und dienen ausschließlich dem Roleplay."
+      "body": "# Willkommen in Eisenfels RP\n\nEisenfels RP ist ein fiktiver FiveM-Roleplay-Server mit moderner Behördenstruktur, eigener Stadtgeschichte und klar getrennten Fraktionen.\n\nDiese Website dient als offizielles RP-Portal für Informationen, Behörden, Gesetzbücher, Preislisten, Termine und Ausbildungen.\n\n> Hinweis: Alle Inhalte sind fiktiv und dienen ausschließlich dem Roleplay.",
+      "factionId": "",
+      "logo": "",
+      "banner": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://youtube.com/embed/yDy0ULFINHM",
+          "caption": "Tauche ein in eine lebendige Welt voller Geschichten, Charaktere und Möglichkeiten. Egal ob Gesetzeshüter, Zivilist oder Schattenfigur – deine Geschichte beginnt hier.",
+          "position": "bottom"
+        }
+      ]
     },
     {
       "id": "stadtgeschichte",
