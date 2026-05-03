@@ -59,7 +59,7 @@ function renderSidebar(){
       const cls = `${current===p.slug?'active':''} ${activeIds.has(p.id)?'active-branch':''} ${!open?'collapsed':''}`;
       if(hasChildren){
         return `<li class="${cls}">
-          <button class="tree-toggle" data-id="${p.id}" data-slug="${p.slug}">
+          <button class="tree-toggle" data-id="${p.id}" data-slug="${p.slug}" title="${p.title}">
             <span class="chev">${open?'▾':'▸'}</span><span>${p.title}</span>
           </button>
           ${branch(p.id)}
@@ -68,20 +68,24 @@ function renderSidebar(){
       return `<li class="${cls}"><a class="${current===p.slug?'active':''}" href="#/${p.slug}">${p.title}</a></li>`;
     }).join('')}</ul>`;
   }
+
   $('#tree').innerHTML = branch('');
 
   document.querySelectorAll('.tree-toggle').forEach(btn=>{
-    btn.addEventListener('click', (ev)=>{
+    btn.addEventListener('click', ()=>{
       const id = btn.dataset.id;
+      const slug = btn.dataset.slug;
       const li = btn.closest('li');
       const willOpen = li.classList.contains('collapsed');
+
+      // Ein Klick macht beides:
+      // 1. Seite öffnen
+      // 2. Unterseiten auf-/zuklappen
       localStorage.setItem('tree-open-'+id, willOpen ? '1' : '0');
       li.classList.toggle('collapsed', !willOpen);
       const chev = btn.querySelector('.chev');
       if(chev) chev.textContent = willOpen ? '▾' : '▸';
-    });
-    btn.addEventListener('dblclick', ()=>{
-      location.hash = '#/' + btn.dataset.slug;
+      location.hash = '#/' + slug;
     });
   });
 }
