@@ -170,3 +170,61 @@ body{margin:0;background:radial-gradient(circle at 20% 10%,rgba(228,56,47,.18),t
   font-weight:800;
 }
 .details-btn:hover{filter:brightness(1.12)}
+
+/* Gesetzbuch Suche + sortierte Paragraphen */
+.law-search-wrap{
+  margin:18px 0;
+}
+.law-search{
+  width:100%;
+  padding:13px 14px;
+  border-radius:14px;
+  border:1px solid var(--line);
+  background:#070b13;
+  color:var(--text);
+  font-size:15px;
+}
+.law-description{margin-bottom:18px}
+.law-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:16px;
+  margin-top:18px;
+}
+.law-card{
+  transition:transform .18s ease,border-color .18s ease,background .18s ease;
+}
+.law-card:hover{
+  transform:translateY(-3px);
+  border-color:rgba(255,138,29,.55);
+  background:rgba(255,255,255,.075);
+}
+.law-topline{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  align-items:center;
+}
+.law-points{
+  padding:5px 9px;
+  border-radius:999px;
+  background:rgba(45,140,255,.14);
+  border:1px solid rgba(45,140,255,.35);
+  color:#cfe5ff;
+  font-size:12px;
+  font-weight:800;
+}
+.law-meta{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
+  gap:10px;
+  margin-top:14px;
+  padding-top:12px;
+  border-top:1px solid var(--line);
+}
+.law-meta div{
+  background:rgba(255,255,255,.045);
+  border:1px solid rgba(255,255,255,.075);
+  border-radius:12px;
+  padding:10px;
+}
