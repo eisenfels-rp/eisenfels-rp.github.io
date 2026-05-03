@@ -65,7 +65,11 @@
       "showInSidebar": true,
       "type": "faction",
       "accent": "orange",
-      "body": "# Justiz\n\nDie Justiz Eisenfels wahrt die rechtliche Ordnung, führt Verfahren, prüft Anträge und sorgt für rechtsstaatliche Abläufe im Roleplay."
+      "body": "# Justiz\n\nDie Justiz Eisenfels wahrt die rechtliche Ordnung, führt Verfahren, prüft Anträge und sorgt für rechtsstaatliche Abläufe im Roleplay.",
+      "factionId": "",
+      "logo": "https://i.ibb.co/0yLrmfcz/logo-ost-west.png",
+      "banner": "",
+      "media": []
     },
     {
       "id": "gesetzbuecher",
