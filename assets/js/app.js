@@ -259,7 +259,7 @@ function renderLaw(slug){
   for(const g of DATA.lawGroups){
     const law = g.laws.find(l=>l.slug===slug);
     if(law){
-      header(law.title, g.title);
+      header(law.title, g.title, law.logo || DATA.settings.logo);
 
       const paragraphs = sortParagraphs(law.paragraphs || []);
 
