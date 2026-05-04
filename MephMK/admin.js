@@ -424,8 +424,8 @@
 
     const lawForm = law.slug ? [
       '<h3>Gesetzbuch bearbeiten</h3>',
-      <div class="cms-row"><div><label>Titel</label><input id="l_title" value="${esc(law.title)}"></div><div><label>Slug</label><input id="l_slug" value="${esc(law.slug)}"></div></div>,
-      <label>Logo URL</label><input id="l_logo" value="${esc(law.logo||'')}">,
+      '<div class="cms-row"><div><label>Titel</label><input id="l_title" value="'+esc(law.title)+'"></div><div><label>Slug</label><input id="l_slug" value="'+esc(law.slug)+'"></div></div>',
+      '<label>Logo URL</label><input id="l_logo" value="'+esc(law.logo||'')+'">',
       '<label>Allgemeine Beschreibung des Gesetzbuches</label><textarea id="l_description">' + esc(law.description || law.body || "") + '</textarea>',
       '<label>Medien</label><textarea id="l_media">' + esc(mediaToText(law.media)) + '</textarea>',
       '<div class="admin-actions"><button id="saveLaw" type="button">Gesetzbuch übernehmen</button><button class="cms-danger" id="deleteLaw" type="button">Gesetzbuch löschen</button></div>',
