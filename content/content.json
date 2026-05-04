@@ -904,40 +904,16 @@
       ]
     },
     {
-      "id": "natur-verkehr-infrastruktur",
-      "title": "Natur, Verkehr & Infrastruktur",
+      "id": "oeffentliche-dienste",
+      "title": "🚒 Öffentliche Dienste & Gefahrenabwehr",
       "laws": [
         {
-          "slug": "natur-wildschutzgesetz",
-          "title": "Natur- & Wildschutzgesetz",
-          "body": "# Natur- & Wildschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "slug": "frkg",
+          "title": "Feuerwehr-, Rettungsdienst- & Katastrophenschutzgesetz",
+          "description": "",
+          "paragraphs": [],
           "media": [],
-          "description": "# Natur- & Wildschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "wasserschutzgesetz",
-          "title": "Wasserschutzgesetz",
-          "body": "# Wasserschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Wasserschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "luftraumgesetz",
-          "title": "Luftraumgesetz",
-          "body": "# Luftraumgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Luftraumgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "verkehrsgesetzbuch",
-          "title": "Verkehrsgesetzbuch",
-          "body": "# Verkehrsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Verkehrsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "body": ""
         }
       ]
     },
