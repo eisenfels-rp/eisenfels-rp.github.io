@@ -740,9 +740,9 @@
               "paragraph": "§1",
               "title": "Persönlichkeitsrecht",
               "description": "Jeder Mensch hat das Recht auf freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt oder gegen geltende Gesetze verstößt.\n",
-              "minFine": "",
-              "maxFine": "",
-              "jailMinutes": "",
+              "minFine": "0",
+              "maxFine": "0",
+              "jailMinutes": "0",
               "points": ""
             },
             {
