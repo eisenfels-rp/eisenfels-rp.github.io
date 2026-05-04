@@ -744,6 +744,123 @@
               "maxFine": "",
               "jailMinutes": "",
               "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Recht auf Leben und Unversehrtheit",
+              "description": "Jeder hat das Recht auf Leben, körperliche Unversehrtheit und Schutz vor willkürlicher Gewalt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Meinungsfreiheit",
+              "description": "Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Eigentumsschutz",
+              "description": "Eigentum ist geschützt. Enteignungen sind nur aufgrund eines Gesetzes und gegen Entschädigung zulässig.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Gleichbehandlung",
+              "description": "Niemand darf wegen Geschlecht, Herkunft, Sprache, Ethnie, Religion, Weltanschauung oder sozialem Status benachteiligt oder bevorzugt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Glaubensfreiheit",
+              "description": "Die Freiheit des Glaubens, des weltanschaulichen Bekenntnisses und der religiösen Ausübung ist gewährleistet.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Rechtliches Gehör & Rechtsweg",
+              "description": "Jeder hat Anspruch auf rechtliches Gehör und eine faire, gesetzeskonforme Behandlung durch alle staatlichen Stellen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Bindung an das Recht",
+              "description": "Grundrechte sind für alle Behörden und Organe bindend. Einschränkungen dürfen nur durch ein formell beschlossenes Gesetz erfolgen, das dem Grundsatz der Verhältnismäßigkeit genügt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Die Justizverwaltung Eisenfurt",
+              "description": "Die Justizverwaltung ist die höchste juristische Instanz und besteht aus:\n- Gerichten (Amtsgericht, Landgericht, Oberlandesgericht)\n- Staatsanwaltschaft\n- Justizvollzug\n- Vollzugsdienst Naturschutz\n- Ordnungsbehörde\n- Gewerbeaufsicht\n- Lebensmittelaufsicht\n- Anwaltskammer\n- und weiteren\nEntscheidungen in der Justizverwaltung werden durch richterliche Beschlüsse gefällt. Bei unklaren Zuständigkeiten oder strukturellen Konflikten entscheidet das Rechtsamt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Rechtsverwaltung",
+              "description": "Die Justizverwaltung Eisenfurt ist oberste juristische Verwaltungsbehörde.\nSie wacht über Gesetzgebung, Rechtsauslegung, Disziplinarverfahren und Verfassungstreue.Entscheidungen der Justizverwaltung sind verbindlich, sofern keine höhere richterliche Instanz angerufen wird.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Die Strafverfolgungsbehörden",
+              "description": "Die Polizeibehörden und die Justizbehörden, in Zusammenarbeit mit der Staatsanwaltschaft, führen Ermittlungen nach geltender Strafprozessordnung durch.\nBei Gefahr im Verzug dürfen sie Maßnahmen auch ohne richterlichen Beschluss einleiten, müssen diesen aber unverzüglich zur Prüfung nachreichen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Jedermann-Festnahme",
+              "description": "Jede Person ist berechtigt, eine andere Person, die auf frischer Tat bei der Begehung einer Straftat betroffen oder verfolgt wird, vorläufig festzunehmen und unverzüglich den Behörden zu übergeben.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Waffenrecht",
+              "description": "Das Recht auf Waffenbesitz wird im Rahmen der Gesetze gewährleistet. Einschränkungen sind nur im Interesse der öffentlichen Sicherheit durch förmliches Gesetz zulässig (z. B. Waffengesetz).",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Schutz vor willkürlichem Eingriff",
+              "description": "Wohnung, Eigentum und persönliche Daten sind geschützt vor willkürlicher Durchsuchung, Festnahme oder Beschlagnahmung. Solche Maßnahmen sind nur auf gesetzlicher Grundlage und mit richterlicher Anordnung erlaubt, es sei denn, es liegt Gefahr im Verzug vor.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
             }
           ]
         },
