@@ -862,12 +862,12 @@
           "paragraphs": []
         },
         {
-          "slug": "waffengesetz",
-          "title": "Waffengesetz",
-          "body": "# Waffengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "slug": "grenzschutzgesetz",
+          "title": "Grenzschutzgesetz",
+          "description": "",
+          "paragraphs": [],
           "media": [],
-          "description": "# Waffengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "body": ""
         }
       ]
     },
