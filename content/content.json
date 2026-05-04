@@ -946,6 +946,20 @@
           "body": ""
         }
       ]
+    },
+    {
+      "id": "zivilrecht",
+      "title": "🧍 Zivilrecht",
+      "laws": [
+        {
+          "slug": "buergerliches-gesetzbuch",
+          "title": "Bürgerliches Gesetzbuch",
+          "description": "",
+          "paragraphs": [],
+          "media": [],
+          "body": ""
+        }
+      ]
     }
   ],
   "departments": [
