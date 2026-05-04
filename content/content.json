@@ -738,12 +738,12 @@
           "paragraphs": [
             {
               "paragraph": "§1",
-              "title": "Testparagraf",
-              "description": "test test test test test test test test ",
-              "minFine": "50 €",
-              "maxFine": "100 €",
-              "jailMinutes": "25",
-              "points": "1"
+              "title": "Persönlichkeitsrecht",
+              "description": "Jeder Mensch hat das Recht auf freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt oder gegen geltende Gesetze verstößt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
             }
           ]
         },
