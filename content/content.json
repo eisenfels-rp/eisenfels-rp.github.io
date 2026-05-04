@@ -2853,6 +2853,456 @@
               "maxFine": "3750 €",
               "jailMinutes": "15",
               "points": ""
+            },
+            {
+              "paragraph": "§51",
+              "title": "Hehlerei",
+              "description": "Wer eine durch eine rechtswidrige Tat erlangte Sache sich oder einem Dritten verschafft, sie absetzt oder dabei hilft, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§52",
+              "title": "Bestechung",
+              "description": "Wer einem Amtsträger oder einem für den öffentlichen Dienst besonders Verpflichteten einen Vorteil als Gegenleistung dafür anbietet, verspricht oder gewährt, dass dieser eine pflichtwidrige Diensthandlung vornimmt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§53",
+              "title": "Bestechlichkeit",
+              "description": "Ein Amtsträger oder besonders Verpflichteter, der einen Vorteil fordert, sich versprechen lässt oder annimmt, um eine pflichtwidrige Diensthandlung vorzunehmen, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§54",
+              "title": "Körperverletzung im Amt",
+              "description": "Ein Amtsträger, der in Ausübung seines Dienstes eine Körperverletzung begeht oder duldet, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§55",
+              "title": "Verletzung von Privatgeheimnissen",
+              "description": "Wer ein fremdes Geheimnis, das ihm beruflich oder amtlich anvertraut wurde, unbefugt offenbart, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§56",
+              "title": "Rechtsbeugung",
+              "description": "Ein Richter oder Amtsträger, der sich bei der Entscheidung einer Rechtssache zugunsten oder zum Nachteil einer Partei des Rechts beugt, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§57",
+              "title": "Verfolgung Unschuldiger",
+              "description": "Ein Amtsträger, der wissentlich oder absichtlich eine unschuldige Person verfolgt oder deren Verfolgung veranlasst, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§58",
+              "title": "Datenveränderung",
+              "description": "Wer unbefugt Daten in einem amtlichen System verändert, löscht oder unbrauchbar macht, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§59",
+              "title": "Amtsanmaßung",
+              "description": "Wer sich unbefugt mit der Ausübung eines öffentlichen Amtes befasst oder hoheitliche Handlungen vornimmt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§60",
+              "title": "Landfriedensbruch",
+              "description": "Wer sich an einer Menschenmenge beteiligt, die Gewalttätigkeiten gegen Personen oder Sachen begeht oder mit einer solchen Gewalt droht, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§61",
+              "title": "Störung öffentlicher Betriebe",
+              "description": "Wer vorsätzlich oder grob fahrlässig den Betrieb öffentlicher Einrichtungen wie Krankenhäuser, Schulen, Polizei oder Justiz behindert, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§62",
+              "title": "Vortäuschung einer Gefahr",
+              "description": "Wer absichtlich einen Notfall, eine Gefahrensituation oder eine Straftat vortäuscht und dadurch öffentliche Stellen wie Polizei oder Rettungsdienste alarmiert, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§63",
+              "title": "Aufruf zu Straftaten",
+              "description": "Wer öffentlich zu einer rechtswidrigen Tat auffordert, wird mit Geldstrafe bis zu 5000€ oder mit Freiheitsstrafe und/oder zu 20 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§64",
+              "title": "Störung des Hausfriedens",
+              "description": "Wer vorsätzlich oder wiederholt den Ablauf in öffentlichen oder privaten Einrichtungen durch unbefugtes Eindringen, Lärm oder andere Störungen beeinträchtigt, wird mit Geldstrafe bis zu 2500€ und/oder Freiheitsstrafe bis zu 10 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§65",
+              "title": "Verwendung von Kennzeichen verfassungsfeindlicher Organisationen",
+              "description": "Wer Kennzeichen, Symbole oder Gesten verfassungswidriger Organisationen verbreitet oder öffentlich verwendet, wird mit Geldstrafe bis zu 6250€ und/oder Freiheitsstrafe bis zu 25 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§66",
+              "title": "Urkundenfälschung",
+              "description": "Wer zur Täuschung im Rechtsverkehr eine unechte Urkunde herstellt, eine echte Urkunde verfälscht oder eine gefälschte Urkunde gebraucht, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft..\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§67",
+              "title": "Falschaussage",
+              "description": "Wer vor Gericht oder einer zur eidlichen Vernehmung befugten Stelle als Zeuge oder Sachverständiger uneidlich falsch aussagt, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§68",
+              "title": "Unterdrückung von Urkunden",
+              "description": "Wer eine echte Urkunde, die für ein anderes Beweismittel von Bedeutung ist, vernichtet, beschädigt oder unterdrückt, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§69",
+              "title": "Geldwäsche",
+              "description": "Wer Vermögenswerte, die aus einer rechtswidrigen Tat herrühren, verbirgt, verschleiert, umwandelt oder deren Herkunft verschleiert, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§70",
+              "title": "Insolvenzverschleppung",
+              "description": "Wer trotz Zahlungsunfähigkeit oder Überschuldung eine Insolvenz nicht rechtzeitig anmeldet, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§71",
+              "title": "Subventionsbetrug",
+              "description": "Wer Subventionen durch unrichtige oder unvollständige Angaben oder durch pflichtwidriges Unterlassen erlangt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§72",
+              "title": "Wettbewerbsbeschränkende Absprachen",
+              "description": "Wer mit einem anderen Unternehmen eine wettbewerbsbeschränkende Absprache trifft, um Preise, Märkte oder Kunden aufzuteilen oder zu kontrollieren, wird mit Geldstrafe bis zu 5000€ und/oder Freiheitsstrafe bis zu 20 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§73",
+              "title": "Bankrott",
+              "description": "Wer in Kenntnis der drohenden Zahlungsunfähigkeit Vermögenswerte verheimlicht, beiseiteschafft oder zerstört, um Gläubiger zu benachteiligen, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§74",
+              "title": "Strafvereitelung",
+              "description": "Wer absichtlich oder wissentlich verhindert, dass ein anderer wegen einer begangenen rechtswidrigen Tat bestraft wird, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§75",
+              "title": "Verdunkelungshandlung",
+              "description": "Wer Beweismittel in einem laufenden Strafverfahren absichtlich zerstört, manipuliert oder verbirgt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§76",
+              "title": "Missbrauch der Beschwerde- oder Anzeigepflicht",
+              "description": "Wer absichtlich oder wissentlich eine Strafanzeige oder Beschwerde erhebt, obwohl er weiß, dass kein Anlass dafür besteht, wird mit Geldstrafe bis zu 10000€ bestraft.\n\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§77",
+              "title": "Missachtung gerichtlicher Anordnungen",
+              "description": "Wer sich beharrlich weigert, gerichtlichen Anordnungen Folge zu leisten, wird mit Freiheitsstrafe bis zu 10 Hafteinheiten und/oder mit Geldstrafe bis zu 2500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§78",
+              "title": "Einflussnahme auf Zeugen",
+              "description": "Wer Zeugen durch Drohung, Gewalt oder Vorteile zur Falschaussage, Aussageverweigerung oder zu einem bestimmten Verhalten im Verfahren zu bewegen versucht, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§79",
+              "title": "Aussageverweigerung ohne gesetzlichen Grund",
+              "description": "Wer als Zeuge in einem Verfahren ohne berechtigten Grund die Aussage verweigert, wird mit Geldstrafe bis zu 10000€ bestraft.",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§80",
+              "title": "Umweltgefährdung",
+              "description": "Wer durch vorsätzliche oder fahrlässige Handlung Luft, Wasser oder Boden in erheblichem Maße verunreinigt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§81",
+              "title": "Tierquälerei",
+              "description": "Wer einem Tier ohne vernünftigen Grund erhebliche Schmerzen, Leiden oder Schäden zufügt, wird mit Geldstrafe bis zu 5000€ und/oder Freiheitsstrafe bis zu 20 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§82",
+              "title": "Störung öffentlicher Einrichtungen",
+              "description": "Wer vorsätzlich den Betrieb einer öffentlichen Einrichtung wie Schule, Krankenhaus, Versorgungs- oder Notdienste stört oder lahmlegt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500 bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§83",
+              "title": "Urkundenunterdrückung",
+              "description": "Wer eine echte Urkunde, die ein öffentliches Interesse betrifft, vernichtet, beschädigt oder unbrauchbar macht, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 3250€ bestraft.",
+              "minFine": "",
+              "maxFine": "3250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§84",
+              "title": "Behinderung der Vollstreckung",
+              "description": "Wer behördliche Vollstreckungsmaßnahmen vorsätzlich behindert oder vereitelt, wird mit Geldstrafe bis zu 5000€ und/oder Freiheitsstrafe bis zu 20 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§85",
+              "title": "Bestechung im öffentlichen Dienst",
+              "description": "Wer einem Bediensteten der Verwaltung Vorteile anbietet oder gewährt, um eine dienstliche Handlung zu beeinflussen, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§86",
+              "title": "Amtsmissbrauch",
+              "description": "Wer seine dienstliche Stellung zur unrechtmäßigen Vorteilsgewährung für sich oder andere missbraucht, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§87",
+              "title": "Datenschutzverletzung",
+              "description": "Wer personenbezogene Daten unbefugt erhebt, verarbeitet oder nutzt, wird mit Geldstrafe bis zu 5000€ und/oder Freiheitsstrafe bis zu 20 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§88",
+              "title": "Datenhehlerei",
+              "description": "Wer wissentlich unbefugt erlangte personenbezogene Daten nutzt oder weitergibt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§89",
+              "title": "Störung einer Versammlung",
+              "description": "Wer eine gesetzlich zulässige Versammlung absichtlich stört oder deren Ablauf erheblich beeinträchtigt, wird mit Geldstrafe bis zu 3750€ und/oder Freiheitsstrafe bis zu 15 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§90",
+              "title": "Aufruf zur Gewalt bei Versammlungen",
+              "description": "Wer während einer öffentlichen Versammlung zu Gewalt gegen Personen oder Sachen aufruft, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§91",
+              "title": "Bewaffnung bei Versammlungen",
+              "description": "Wer zu einer öffentlichen Versammlung Waffen oder gefährliche Gegenstände mitführt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§92",
+              "title": "Störung der Religionsausübung",
+              "description": "Wer den Gottesdienst oder eine sonstige gottesdienstliche Handlung stört, wird mit Geldstrafe bis zu 3750€ und/oder Freiheitsstrafe bis zu 15 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§93",
+              "title": "Beschimpfung religiöser Bekenntnisse",
+              "description": "Wer öffentlich den Inhalt eines religiösen oder weltanschaulichen Bekenntnisses verächtlich macht, wird mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§94",
+              "title": "Störung der Totenruhe",
+              "description": "Wer unbefugt eine Leiche, eine Urne oder eine Grabstätte beschädigt, verändert oder entweiht, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§95",
+              "title": "Ausspähen von Geschäftsgeheimnissen",
+              "description": "Wer unbefugt ein Geschäfts- oder Betriebsgeheimnis eines Unternehmens ausspäht, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§96",
+              "title": "Verrat von Geschäftsgeheimnissen",
+              "description": "Wer ein Geschäftsgeheimnis unbefugt offenbart oder wirtschaftlich nutzt, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§97",
+              "title": "Strafzumessung bei Wiederholungstätern",
+              "description": "Bei Tätern, die innerhalb von 4 Wochen mehr als zwei vorsätzliche Straftaten begangen haben, kann das Gericht die Mindeststrafe um bis zu 50 % erhöhen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§98",
+              "title": "Strafmilderung bei Kooperation",
+              "description": "Wer durch umfassende Kooperation zur Aufklärung einer Straftat beiträgt, kann mit einer Milderung der Strafe von bis zu 50 % rechnen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§99",
+              "title": "Besondere Schutzmaßnahmen für Opfer",
+              "description": "In Verfahren, in denen Opfer besonders schutzbedürftig sind, kann das Gericht Schutzmaßnahmen wie Zeugenschutzprogramme oder nicht öffentliche Verhandlungen anordnen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§100",
+              "title": "Öffentliche Bekanntmachung bei Verurteilungen",
+              "description": "Das Gericht kann bei Verurteilungen wegen besonders gesellschaftsschädigender Taten die Veröffentlichung des Urteils anordnen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
             }
           ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
