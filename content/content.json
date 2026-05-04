@@ -930,60 +930,12 @@
       "title": "💼 Wirtschaftsrecht",
       "laws": [
         {
-          "slug": "feuerwehr-rettungsdienst-katastrophenschutzgesetz",
-          "title": "Feuerwehr-, Rettungsdienst- und Katastrophenschutzgesetz",
-          "body": "# Feuerwehr-, Rettungsdienst- und Katastrophenschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Feuerwehr-, Rettungsdienst- und Katastrophenschutzgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "krankenhausgesetz",
-          "title": "Krankenhausgesetz",
-          "body": "# Krankenhausgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Krankenhausgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "gewerbeordnung",
-          "title": "Gewerbeordnung",
-          "body": "# Gewerbeordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Gewerbeordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
           "slug": "handelsgesetzbuch",
-          "title": "Handelsgesetzbuch",
-          "body": "# Handelsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "title": "Handelsgesetzbuch ",
+          "description": "",
+          "paragraphs": [],
           "media": [],
-          "description": "# Handelsgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "gaststaettenordnung",
-          "title": "Gaststättenordnung",
-          "body": "# Gaststättenordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Gaststättenordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "lebensmittelueberwachungsgesetz",
-          "title": "Lebensmittelüberwachungsgesetz",
-          "body": "# Lebensmittelüberwachungsgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Lebensmittelüberwachungsgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "buergerliches-gesetzbuch",
-          "title": "Bürgerliches Gesetzbuch",
-          "body": "# Bürgerliches Gesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Bürgerliches Gesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "body": ""
         }
       ]
     }
