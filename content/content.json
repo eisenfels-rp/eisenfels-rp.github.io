@@ -758,8 +758,8 @@
       ]
     },
     {
-      "id": "prozessrecht",
-      "title": "Gerichts- & Prozessrecht",
+      "id": "justiz-verfahrensrecht",
+      "title": "⚖️ Justiz- & Verfahrensrecht",
       "laws": [
         {
           "slug": "strafprozessordnung",
