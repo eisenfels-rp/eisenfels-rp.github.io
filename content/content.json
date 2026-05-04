@@ -296,15 +296,18 @@
     },
     {
       "id": "justiz-preisliste",
-      "slug": "justiz-preisliste",
-      "title": "Preisliste",
+      "slug": "Verwaltungskosten",
+      "title": "Verwaltungskosten",
       "parentId": "justiz",
       "order": 3,
       "showInSidebar": true,
       "type": "price-list",
       "factionId": "justiz",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt.",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "",
+      "media": []
     },
     {
       "id": "justiz-termine",
