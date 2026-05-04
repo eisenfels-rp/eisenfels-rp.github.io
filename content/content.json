@@ -3764,6 +3764,202 @@
           "note": "Platzhalter für Standortdienst."
         }
       ]
+    },
+    {
+      "factionId": "justiz",
+      "title": "Verwaltungsgebühren",
+      "items": [
+        {
+          "name": "Anzeige erstatten",
+          "price": "0 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Führungszeugnis beantragen",
+          "price": "2500 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Antrag auf Haftprüfung",
+          "price": "2500 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Antrag auf Wiedereinsetzung",
+          "price": "2000 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Antrag auf vorzeitige Entlassung",
+          "price": "4000 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Akteneinsicht für Anwälte - laufende / abgeschlossene Verfahren",
+          "price": "3500 €",
+          "note": "Justiz"
+        },
+        {
+          "name": "Mandatsannahme",
+          "price": "3000 €",
+          "note": "Anwälte - Empfehlung"
+        },
+        {
+          "name": "Aktenbearbeitung je Stunde",
+          "price": "2500 €",
+          "note": "Anwälte - Empfehlung"
+        },
+        {
+          "name": "Gerichtliche / polizeiliche Vertretung (je Stunde)",
+          "price": "2500 €",
+          "note": "Anwälte - Empfehlung"
+        },
+        {
+          "name": "Vertragsprüfung",
+          "price": "2000 €",
+          "note": "Anwälte - Empfehlung"
+        },
+        {
+          "name": "Beratungsgespräch je 30 Minuten",
+          "price": "1000 €",
+          "note": "Anwälte - Empfehlung"
+        },
+        {
+          "name": "Zivilklage einreichen",
+          "price": "5000 €",
+          "note": "Gericht"
+        },
+        {
+          "name": "Berufung einlegen",
+          "price": "3500 €",
+          "note": "Gericht"
+        },
+        {
+          "name": "Antrag auf einstweilige Verfügung",
+          "price": "3000 €",
+          "note": "Gericht"
+        },
+        {
+          "name": "Gerichtskostenpauschale / Strafbefehl",
+          "price": "2500 €",
+          "note": "Gericht"
+        },
+        {
+          "name": "Zwangsvollstreckungsantrag",
+          "price": "3500 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Zustellung von Urteilen und Beschlüssen – Persönliche Zustellung gerichtlicher Entscheidungen an Beteiligte",
+          "price": "1500 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Vollstreckung von Geldforderungen – Durchführung einer Zwangsvollstreckung zur Einziehung offener Geldbeträge",
+          "price": "3500 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Sachpfändung (z. B. Fahrzeuge, Wertgegenstände) – Pfändung und Beschlagnahme von beweglichem Eigentum des Schuldners",
+          "price": "6000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Kontopfändung – Pfändung von Bankguthaben durch Zustellung eines Pfändungsbeschlusses an die Bank",
+          "price": "5000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Zwangsräumung – Durchsetzung einer Räumungsklage; Entfernung des Schuldners aus einer Immobilie und Übergabe an den Gläubiger",
+          "price": "15.000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Abgabe der Vermögensauskunft – Aufnahme eines Vermögensverzeichnisses des Schuldners (Offenlegung aller Vermögenswerte)",
+          "price": "4000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Eidesstattliche Versicherung – Abnahme der Versicherung an Eides statt zur Vollständigkeit und Richtigkeit der Vermögensauskunft",
+          "price": "2000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Durchsuchung zur Pfändung – Durchsuchung von Räumlichkeiten des Schuldners nach versteckten Vermögenswerten zur Pfändung",
+          "price": "10.000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Auslagen und Aufwandspauschalen – Pauschale für entstandene Auslagen (z. B. Fahrtkosten, Dokumentenzustellung) pro Auftrag",
+          "price": "1000 €",
+          "note": "Gerichtsvollzieher - Vorauslage durch den Gläubiger"
+        },
+        {
+          "name": "Gewerbeanmeldung",
+          "price": "5000 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Gewerbeummeldung",
+          "price": "2500 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Gewerbeabmeldung",
+          "price": "1000 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Auskunft aus dem Gewerberegister",
+          "price": "1500 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Lizenz für Sondergewerbe (z. B. Security, Waffenhandel)",
+          "price": "15.000 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Gaststättenkonzession",
+          "price": "8000 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Taxi- oder Personenbeförderungslizenz",
+          "price": "6000 €",
+          "note": "Gewerbebehörde"
+        },
+        {
+          "name": "Namensänderung nach Hochzeit",
+          "price": "3000 €",
+          "note": "Notariat"
+        },
+        {
+          "name": "Beglaubigung von Dokumenten",
+          "price": "1500 €",
+          "note": "Notariat"
+        },
+        {
+          "name": "Vertragsbeglaubigung (z. B. Kaufvertrag)",
+          "price": "3000 €",
+          "note": "Notariat"
+        },
+        {
+          "name": "Testament hinterlegen",
+          "price": "3000 €",
+          "note": "Notariat"
+        },
+        {
+          "name": "Firmenvertrag beurkunden",
+          "price": "6000 €",
+          "note": "Notariat"
+        },
+        {
+          "name": "Ehevertrag beurkunden",
+          "price": "5000 €",
+          "note": "Notariat"
+        }
+      ]
     }
   ],
   "events": [
