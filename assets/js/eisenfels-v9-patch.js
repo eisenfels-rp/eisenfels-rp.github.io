@@ -52,31 +52,42 @@
         };
       }
 
-      if(typeof renderPage === "function"){
-        const oldRenderPage = renderPage;
-        renderPage = function(page){
-          header(page.title, page.type==='faction'?'Fraktion / Behörde Eisenfels RP':'Eisenfels RP Portal', page.logo);
-          let body = '';
-          if(typeof renderTools === "function") body += renderTools(page);
-          body += renderMediaByPosition(page.media || [], "top");
-          body += md(page.body||'');
+if(typeof renderPage === "function"){
+  renderPage = function(page){
+    header(page.title, page.type==='faction'?'Fraktion / Behörde Eisenfels RP':'Eisenfels RP Portal', page.logo);
 
-          if(page.type==='laws-index') body += renderLawGroups();
-          if(page.type==='departments') body += renderDepartments(page.factionId);
-          if(page.type==='price-list') body += renderPrices(page.factionId);
-          if(page.type==='events-list') body += renderItems('events', page.factionId, 'termin');
-          if(page.type==='trainings-list') body += renderItems('trainings', page.factionId, 'ausbildung');
-          if(page.type==='contact') body += renderContacts(page.factionId);
+    let body = '';
 
-          body += renderMediaByPosition(page.media || [], "bottom");
-          document.querySelector('#content').innerHTML = body;
-          if(typeof attachBack === "function") attachBack(page);
-        };
-      }
+    if(typeof renderTools === "function") body += renderTools(page);
 
-      if(typeof renderMedia === "function"){
-        renderMedia = function(media){ return renderMediaByPosition(media, "bottom"); };
-      }
+    body += renderMediaByPosition(page.media || [], "top");
+
+    if(page.banner){
+      body += `<div class="media"><img src="${page.banner}" alt="${page.title} Banner"></div>`;
+    }
+
+    body += md(page.body||'');
+
+    if(page.type==='laws-index') body += renderLawGroups();
+    if(page.type==='departments') body += renderDepartments(page.factionId);
+    if(page.type==='price-list') body += renderPrices(page.factionId);
+    if(page.type==='events-list') body += renderItems('events', page.factionId, 'termin');
+    if(page.type==='trainings-list') body += renderItems('trainings', page.factionId, 'ausbildung');
+    if(page.type==='contact') body += renderContacts(page.factionId);
+
+    body += renderMediaByPosition(page.media || [], "bottom");
+
+    document.querySelector('#content').innerHTML = body;
+
+    if(typeof attachBack === "function") attachBack(page);
+  };
+}
+
+if(typeof renderMedia === "function"){
+  renderMedia = function(media){
+    return renderMediaByPosition(media, "bottom");
+  };
+}
     }catch(e){
       console.error("Eisenfels V9 Patch Fehler", e);
     }
