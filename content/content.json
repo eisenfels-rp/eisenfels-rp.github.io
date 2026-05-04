@@ -2213,8 +2213,648 @@
           "title": "Strafgesetzbuch",
           "body": "",
           "media": [],
-          "description": "# Strafgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": [],
+          "description": "Das Strafgesetzbuch Eisenfels RP (StGB-ESF) bildet die Grundlage für die Ahndung strafbaren Verhaltens innerhalb des Staatsgebiets Eisenfels RP. Es definiert Straftatbestände sowie die dafür vorgesehenen Rechtsfolgen und dient dem Schutz der öffentlichen Ordnung, Sicherheit und des friedlichen Zusammenlebens aller Bürger:innen.\n\nZiel des Strafgesetzbuches ist es, klare und verbindliche Regeln für strafbares Verhalten festzulegen und dadurch Rechtssicherheit zu gewährleisten. Es soll sowohl präventiv wirken als auch eine gerechte Bestrafung von begangenem Unrecht sicherstellen. Dabei steht die Verhältnismäßigkeit der Strafe sowie die Wahrung rechtsstaatlicher Grundsätze im Vordergrund.\n\nDas StGB-ESF orientiert sich an fundamentalen Prinzipien wie der Schuldverantwortung, dem Gesetzlichkeitsprinzip („Keine Strafe ohne Gesetz“) sowie der Gleichbehandlung aller vor dem Gesetz. Es bildet gemeinsam mit der Strafprozessordnung die Grundlage für eine funktionierende Strafrechtspflege im Staat Inselleben RP.\n\nMit seinem Inkrafttreten gilt dieses Strafgesetzbuch als verbindlicher Maßstab für die Beurteilung und Ahndung strafbarer Handlungen im gesamten Staatsgebiet Eisenfels RP.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Keine Strafe ohne Gesetz",
+              "description": "Eine Strafe muss immer gesetzlich begründet sein. Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich bestimmt war, bevor die Tat begangen wurde.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Strafbarkeit",
+              "description": "(1) Strafbar ist grundsätzlich nur vorsätzliches Handeln, außer es wird explizit genannt.\n\n(2) Schuldunfähig ist derjenige, der zum Zeitpunkt der Tat unter einer tiefgreifenden Bewusstseinsstörung leidet und dadurch nicht dazu in der Lage ist, das Unrecht seiner Tat einzusehen.\n\n(3) Wer es unterlässt, einen Erfolg abzuwenden, der zum Tatbestand eines Strafgesetzes gehört, ist nach diesem Gesetz nur dann strafbar, wenn er rechtlich dafür einzustehen hat, dass der Erfolg nicht eintritt, und wenn das Unterlassen der Verwirklichung des gesetzlichen Tatbestandes durch ein Tun entspricht.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Versuch",
+              "description": "(1) Der Versuch ist immer strafbar.\n\n(2) Die Strafe beim Versuch kann gemildert werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Täterschaft",
+              "description": "(1) Als Täter wird bestraft, wer die Straftat selbst oder durch einen anderen begeht.\n\n(2) Begehen mehrere Straftaten gemeinschaftlich, so wird jeder als Täter bestraft (Mittäter).\n\n(3) Anstiftung zu einer Straftat wird so bestraft, als ob man die Tat selbst begangen hätte.\n\n(4) Die Strafe für Beihelfer ist milder.\n\n(5) Der Versuch der Anstiftung oder der Beihilfe ist strafbar.\n\n(6) Jeder Beteiligte wird ohne Rücksicht auf die Schuld des anderen nach seiner Schuld bestraft.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Notstand",
+              "description": "Wer eine Straftat begeht, um damit einen größeren Schaden von einem anderen oder sich selbst abzuwenden, wird nicht bestraft, solange die Straftat ein geeignetes Mittel zur Abwendung dieses Schadens ist und diese angemessen erscheint.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5a",
+              "title": "Rechtfertigender Notwehr",
+              "description": "(1) Wer eine Tat begeht, um sich oder einen anderen gegen einen gegenwärtigen rechtswidrigen Angriff zu verteidigen, handelt nicht rechtswidrig.\n\n(2) Die Notwehr darf das erforderliche Maß nicht überschreiten. Ein deutliches Missverhältnis ist zu vermeiden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5b",
+              "title": "Irrtum über Rechtfertigungsgründe",
+              "description": "Irrt der Täter über das Vorliegen eines Rechtfertigungsgrundes, so kann dies die Schuld ausschließen oder mildern.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5c",
+              "title": "Entschuldigender Notstand",
+              "description": "Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine Tat begeht, um die Gefahr von sich oder einem anderen abzuwenden, handelt nicht schuldhaft, wenn bei Abwägung der widerstreitenden Interessen das geschützte Interesse wesentlich überwiegt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Grundsätze der Strafbemessung",
+              "description": "(1) Die Schuld des Täters ist Grundlage für die Zumessung der Strafe. Die Wirkungen, die von der Strafe für das künftige Leben des Täters in der Gesellschaft zu erwarten sind, sind zu berücksichtigen.\n\n(2) Bei der Zumessung wägt das Gericht die Umstände, die für und gegen den Täter sprechen, gegeneinander ab.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6a",
+              "title": "Strafzwecke",
+              "description": "Die Strafe dient der Gerechtigkeit, der Resozialisierung des Täters, dem Schutz der Allgemeinheit und der Verhinderung weiterer Straftaten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6b",
+              "title": "Strafarten",
+              "description": "Strafarten sind:\n- Freiheitsstrafe\n- Geldstrafe\n- Nebenstrafen (z. B. Fahrverbot)\n- Fußfesseln\n- Sozialstunden\n- Maßregeln der Besserung und Sicherung\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Gesamtstrafe",
+              "description": "Wird eine Strafe für mehrere Straftaten verhängt, so werden Strafandrohungen addiert.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7a",
+              "title": "Freiheitsstrafe",
+              "description": "Das Mindestmaß einer Freiheitsstrafe beträgt 5 Hafteinheiten, das Höchstmaß 60 Hafteinheiten.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Ersatzfreiheitsstrafe",
+              "description": "An Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Fahrverbot",
+              "description": "(1) Das Gericht kann einem Straftäter den Führerschein entziehen.\n\n(2) In besonders schweren Fällen kann auch die Polizei einen Antrag bei Gericht stellen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Tateinheit",
+              "description": "Verletzt dieselbe Handlung mehrere Gesetze oder dasselbe Gesetz mehrmals, so werden die Strafen addiert.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10a",
+              "title": "Tatmehrheit",
+              "description": "(1) Begeht jemand mehrere Straftaten unabhängig voneinander, so wird jede Tat gesondert bestraft.\n\n(2) Das Gericht kann eine Gesamtstrafe bilden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Strafaussetzung",
+              "description": "Bei der Verurteilung zur Freiheitsstrafe von nicht mehr als 30 Hafteinheiten kann das Gericht die Strafe zur Bewährung aussetzen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11a",
+              "title": "Verjährung",
+              "description": "(1) Die Verjährungsfrist beträgt 4 Wochen. Sie beginnt von neuem, wenn der Beschuldigte vernommen wurde oder eine Klage gegen ihn erhoben wurde.\n\n(2) Straftaten nach § 19, 19a, 35 und 36 verjähren nicht.\n\n(3) Anträge zur Löschung von Straftaten, aus dem Zentralregister, können nach Ablauf der Frist bei der Justiz gestellt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11b",
+              "title": "Ruhen der Verjährung",
+              "description": "Die Verjährung ruht, solange\n- gesetzlich angeordnete Verfahrenshindernisse bestehen,\n- sich der Beschuldigte im Ausland verborgen hält,\n- ein Ermittlungsverfahren ausgesetzt ist.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Verfall",
+              "description": "Ist eine rechtswidrige Tat begangen worden und hat der Täter oder Teilnehmer für die Tat oder aus ihr etwas erlangt, so ordnet das Gericht dessen Verfall an.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Einziehung",
+              "description": "Ist eine vorsätzliche Straftat begangen worden, so werden Gegenstände, die durch sie hervorgebracht oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13a",
+              "title": "Unbrauchbarmachung",
+              "description": "Das Gericht kann anordnen, dass eingezogene Gegenstände unbrauchbar gemacht oder vernichtet werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13b",
+              "title": "Rückgewinnungshilfe",
+              "description": "Die Einziehung ist auch zulässig, wenn die Erträge oder Gegenstände auf Dritte übertragen wurden, um die Einziehung zu vereiteln.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Strafklageverbrauch",
+              "description": "Ist eine Tat rechtskräftig abgeurteilt, so darf wegen derselben Tat gegen denselben Täter keine erneute Strafverfolgung erfolgen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Rückwirkungsverbot",
+              "description": "Eine Tat darf nur nach dem Gesetz bestraft werden, das zur Zeit ihrer Begehung gültig war. Eine nachträgliche Verschärfung der Strafe ist unzulässig.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Strafantrag",
+              "description": "(1) In Fällen, in denen das Gesetz einen Strafantrag voraussetzt, kann nur der unmittelbar Verletzte oder eine dazu berechtigte Person diesen stellen.\n\n(2) Der Strafantrag ist binnen 48 Stunden nach Kenntnis von Tat und Täter schriftlich beim Justizzentrum zu stellen.\n\n(3) Wird kein Antrag gestellt, entfällt die Strafverfolgung, es sei denn, es liegt ein besonderes öffentliches Interesse vor.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Strafmilderung bei Geständnis",
+              "description": "Zeigt ein Beschuldigter frühzeitig Reue durch umfassendes Geständnis, kann das Gericht die Strafe mildern.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Verjährungsunterbrechung",
+              "description": "Die Verjährung einer Straftat wird unterbrochen durch\n- die erste Vernehmung des Beschuldigten,\n- den Erlass eines Strafbefehls oder\n- die Erhebung der öffentlichen Klage.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Hochverrat",
+              "description": "Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt den Bestand oder die innere Ordnung zu beeinträchtigen, wird mit Freiheitsstrafe von nicht unter 35 Hafteinheiten und/oder mit Geldstrafe bis zu 8750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "8750 €",
+              "jailMinutes": "35",
+              "points": ""
+            },
+            {
+              "paragraph": "§19a",
+              "title": "Landesverrat",
+              "description": "Wer ein Staatsgeheimnis an einen Unbefugten weitergibt oder öffentlich macht, um die staatliche Sicherheit zu gefährden oder fremde Interessen zu fördern, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§20",
+              "title": "Widerstand gegen Vollstreckungsbeamte",
+              "description": "Wer einem Amtsträger bei der Ausübung einer Diensthandlung mit Gewalt oder Drohung mit Gewalt Widerstand leistet, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§20a",
+              "title": "Behinderung der Justiz",
+              "description": "Wer absichtlich Ermittlungen oder Maßnahmen der Justiz verzögert, erschwert oder verhindert, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§21",
+              "title": "Gefangenenbefreiung",
+              "description": "Wer einen Gefangenen befreit oder dies versucht, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§22",
+              "title": "Amtsanmaßung",
+              "description": "Wer sich unbefugt ein öffentliches Amt anmaßt oder eine entsprechende Handlung vornimmt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§23",
+              "title": "Urkundenfälschung",
+              "description": "Wer zur Täuschung eine unechte Urkunde herstellt, eine echte fälscht oder eine gefälschte gebraucht, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000 bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§24",
+              "title": "Unerlaubtes Entfernen vom Unfallort",
+              "description": "Wer sich nach einem Unfall unerlaubt vom Ort entfernt, ohne Hilfe zu leisten oder Angaben zu machen, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250 bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§24a",
+              "title": "Nichtanzeige geplanter Straftaten",
+              "description": "Wer glaubhaft von einer geplanten schweren Straftat erfährt und diese nicht anzeigt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§24b",
+              "title": "Unterlassene Hilfeleistung",
+              "description": "Wer in Notfällen keine zumutbare Hilfe leistet oder helfende Personen behindert, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§25",
+              "title": "Missbrauch von Notrufen",
+              "description": "Wer vorsätzlich oder fahrlässig Notrufe missbraucht oder Notlagen vortäuscht, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§25a",
+              "title": "Vortäuschen einer Straftat",
+              "description": "Wer einer Behörde vortäuscht, dass eine Straftat begangen wurde, obwohl dies nicht der Fall ist, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000 bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§26",
+              "title": "Falschaussage",
+              "description": "Wer vor Gericht uneidlich falsch aussagt, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§27",
+              "title": "Meineid",
+              "description": "Wer unter Eid wissentlich falsch aussagt, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§28",
+              "title": "Besitz von Staatseigentum",
+              "description": "Wer ohne Erlaubnis staatliches Eigentum besitzt, das nur von autorisierten Personen verwendet werden darf, wird mit Geldstrafe bis zu 8750€ und/oder in schweren Fällen mit Freiheitsstrafe bis zu 35 Hafteinheiten bestraft.\n",
+              "minFine": "",
+              "maxFine": "8750 €",
+              "jailMinutes": "35",
+              "points": ""
+            },
+            {
+              "paragraph": "§29",
+              "title": "Landfriedensbruch",
+              "description": "Wer sich an Gewalttätigkeiten oder Bedrohungen beteiligt, die aus einer Menschenmenge heraus erfolgen und die öffentliche Ordnung gefährden, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§29a",
+              "title": "Brandstiftung",
+              "description": "(1) Wer vorsätzlich einen Brand legt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder Geldstrafe bis zu 6250€ bestraft.\n\n(2) Führt der Brand zu Gefährdungen der öffentlichen Sicherheit oder kritischer Infrastruktur, erhöht sich die Strafandrohung.\n\n(3) Fahrlässige Brandstiftung wird ebenfalls bestraft. \n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§30",
+              "title": "Hausfriedensbruch",
+              "description": "Wer widerrechtlich in eine Wohnung, Geschäftsräume oder ein befriedetes Besitztum eindringt oder sich nach Aufforderung nicht entfernt, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§30a",
+              "title": "Einbruch",
+              "description": "Wer vorsätzlich in ein Gebäude eindringt, um eine Straftat zu begehen oder vorzubereiten, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§31",
+              "title": "Bildung krimineller Vereinigungen",
+              "description": "Wer eine kriminelle Vereinigung gründet oder sich daran beteiligt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe 7500€ bestraft.",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§32",
+              "title": "Entziehung hoheitlicher Maßnahmen",
+              "description": "Wer sich einer rechtmäßigen hoheitlichen Maßnahme entzieht,wird mit Freiheitsstrafe bis zu 10 Hafteinheiten und/oder mit Geldstrafe bis zu 2500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§33",
+              "title": "Beleidigung",
+              "description": "Wer einen anderen durch ehrenrührige Äußerungen in seiner Ehre verletzt, wird mit Freiheitsstrafe bis zu 10 Hafteinheiten und/oder mit Geldstrafe bis zu 2500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§34",
+              "title": "Verleumdung",
+              "description": "Wer über eine andere Person wissentlich falsche Tatsachen verbreitet, die deren Ansehen oder Ruf schädigen, wird mit Geldstrafe bis zu 3750€ und/oder Freiheitsstrafe bis zu 15 Hafteinheiten bestraft.",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§35",
+              "title": "Mord",
+              "description": "Wer einen Menschen aus niedrigen Beweggründen, heimtückisch oder grausam oder zur Verdeckung einer anderen Straftat tötet, wird mit Freiheitsstrafe nicht unter 50 Hafteinheiten bestraft.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "50",
+              "points": ""
+            },
+            {
+              "paragraph": "§36",
+              "title": "Totschlag",
+              "description": "Wer einen Menschen tötet, ohne die Merkmale des Mordes zu erfüllen, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000 bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§37",
+              "title": "Entführung",
+              "description": "Wer einen Menschen gegen dessen Willen an einen anderen Ort verbringt oder an der Rückkehr hindert, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§38",
+              "title": "Fahrlässige Tötung",
+              "description": "Wer durch Fahrlässigkeit den Tod eines Menschen verursacht, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§39",
+              "title": "Körperverletzung",
+              "description": "Wer eine andere Person körperlich misshandelt oder an deren Gesundheit schädigt, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§40",
+              "title": "Nachstellung",
+              "description": "Wer einem Menschen wiederholt nachstellt und dadurch dessen Lebensgestaltung schwerwiegend beeinträchtigt, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§41",
+              "title": "Freiheitsberaubung",
+              "description": "Wer einen anderen Menschen widerrechtlich einsperrt oder auf andere Weise der Freiheit beraubt, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§42",
+              "title": "Geiselnahme",
+              "description": "Wer einen Menschen als Geisel nimmt, um Forderungen durchzusetzen, wird mit Freiheitsstrafe bis zu 40 Hafteinheiten und/oder mit Geldstrafe bis zu 10000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": " 40",
+              "points": ""
+            },
+            {
+              "paragraph": "§43",
+              "title": "Nötigung",
+              "description": "Wer eine andere Person durch Gewalt oder Drohung zu einem bestimmten Verhalten zwingt, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§43a",
+              "title": "Sexuelle Belästigung und Vergewaltigung",
+              "description": "(1) Wer eine Person ohne deren Einwilligung in sexuell bestimmter Weise berührt oder anspricht, wird durch die Stadtverwaltung bestraft.\n\n(2) Wer eine Person gegen deren Willen zu sexuellen Handlungen nötigt, wird durch die Stadtverwaltung bestraft.\n\n(3) Besonders schwere Fälle, insbesondere unter Anwendung von Gewalt oder bei Abhängigkeit des Opfers, führen zu erhöhter Strafandrohung.\n\n(4) Wer am Arbeitsplatz sexuelle Belästigung begeht, wird gesondert bestraft.\n\n(5) Der Versuch ist strafbar.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§44",
+              "title": "Bedrohung",
+              "description": "Wer einen anderen mit der Begehung eines Verbrechens gegen ihn oder ihm Nahestehende bedroht, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§45",
+              "title": "Erpressung",
+              "description": "Wer einen anderen durch Gewalt oder Drohung zu einer Handlung nötigt und sich dadurch einen Vermögensvorteil verschafft, wird mit Freiheitsstrafe bis zu 30 Hafteinheiten und/oder mit Geldstrafe bis zu 7500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§46a",
+              "title": "Raub",
+              "description": "Wer unter Anwendung von Gewalt eine fremde bewegliche Sache wegnimmt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§46b",
+              "title": "Raub - besondere Schwere",
+              "description": "In besonders schweren Fällen, etwa bei bewaffnetem Raub oder bandenmäßiger Begehung, erhöht sich die Strafandrohung auf bis zu 45 Hafteinheiten und/oder eine Geldstrafe bis zu 11250€.",
+              "minFine": "",
+              "maxFine": "11.250€",
+              "jailMinutes": "45",
+              "points": ""
+            },
+            {
+              "paragraph": "§47a",
+              "title": "Diebstahl",
+              "description": "Wer eine fremde bewegliche Sache in der Absicht wegnimmt, sie sich oder einem Dritten rechtswidrig zuzueignen, wird mit Freiheitsstrafe bis zu 10 Hafteinheiten und/oder mit Geldstrafe bis zu 2500€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§47b",
+              "title": "Diebstahl - besondere Schwere",
+              "description": "In besonders schweren Fällen, z. B. bei Einbruch oder bandenmäßigem Diebstahl, ist Freiheitsstrafe bis zu 30 Hafteinheiten und/oder eine Geldstrafe von bis zu 7500€ möglich.",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§48",
+              "title": "Unterschlagung",
+              "description": "Wer eine fremde bewegliche Sache, die ihm anvertraut wurde, sich oder einem Dritten rechtswidrig zueignet, wird mit Freiheitsstrafe bis zu 20 Hafteinheiten und/oder mit Geldstrafe bis zu 5000€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§49",
+              "title": "Betrug",
+              "description": "Wer durch Täuschung über Tatsachen einen Irrtum erregt und dadurch einen Vermögensvorteil erlangt, wird mit Freiheitsstrafe bis zu 25 Hafteinheiten und/oder mit Geldstrafe bis zu 6250 bestraft.\n",
+              "minFine": "",
+              "maxFine": "6250 €",
+              "jailMinutes": "25",
+              "points": ""
+            },
+            {
+              "paragraph": "§50",
+              "title": "Sachbeschädigung",
+              "description": "Wer rechtswidrig eine fremde Sache beschädigt oder zerstört, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder mit Geldstrafe bis zu 3750€ bestraft.\n",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
