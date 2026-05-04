@@ -727,7 +727,7 @@
   "lawGroups": [
     {
       "id": "grundordnung",
-      "title": "Grundordnung & Verfassung",
+      "title": "🛡️ Staats- & Verfassungsrecht",
       "laws": [
         {
           "slug": "konstitution-eisenfeld",
@@ -753,14 +753,6 @@
           "body": "# Stadtverordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
           "media": [],
           "description": "# Stadtverordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
-        },
-        {
-          "slug": "beamtenrecht",
-          "title": "Beamtenrecht",
-          "body": "# Beamtenrecht\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "media": [],
-          "description": "# Beamtenrecht\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
           "paragraphs": []
         }
       ]
