@@ -1565,8 +1565,153 @@
           "title": "Zivilprozessordnung",
           "body": "",
           "media": [],
-          "description": "# Zivilprozessordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": [],
+          "description": "Die Zivilprozessordnung Eisenfels RP regelt das gerichtliche Verfahren in zivilrechtlichen Streitigkeiten innerhalb des Staatsgebiets Eisenfels RP. Sie schafft die verbindliche Grundlage für die Durchsetzung privatrechtlicher Ansprüche vor den Gerichten des Justizzentrums und gewährleistet ein geordnetes, faires und effizientes Verfahren.\n\nZiel der ZPO-ESF ist es, Konflikte zwischen Parteien auf rechtsstaatliche Weise zu klären und eine sachgerechte sowie gerechte Entscheidung herbeizuführen. Dabei werden die Rechte und Pflichten aller Beteiligten klar definiert und ein strukturierter Ablauf vom Eingang der Klage bis zur rechtskräftigen Entscheidung sichergestellt.\n\nDie Ordnung orientiert sich an grundlegenden Prinzipien wie dem Anspruch auf rechtliches Gehör, der Gleichbehandlung der Parteien, der Verfahrensökonomie sowie der Neutralität und Unabhängigkeit des Gerichts. Gleichzeitig fördert sie einvernehmliche Lösungen, insbesondere durch die Möglichkeit gerichtlicher Vergleiche.\n\nMit ihrem Inkrafttreten gilt die ZPO-ESF als maßgebliche Verfahrensordnung für alle zivilrechtlichen Streitigkeiten im Rahmen von Eisenfels RP.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich",
+              "description": "Diese Zivilprozessordnung regelt den Ablauf von zivilrechtlichen Verfahren vor den Gerichten des Justizzentrums Eisenfurt, gültig für das gesamte Staatsgebiet, insbesondere in den Gemeinden RP-Stadt Eisenfurt mit seinen Gemeinden Glutheim, Hohenriff, Klippenruh, Wolkenstieg, Bruchweide, Nordwacht, Trübsee und Kaltes Ende.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Parteifähigkeit",
+              "description": "Parteifähig ist, wer im RP rechtsfähig ist. Juristische Personen (z. B. Firmen, Organisationen) handeln durch ihre gesetzlichen oder vertretungsberechtigten Organe.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Prozessfähigkeit",
+              "description": "Prozessfähig ist, wer geschäftsfähig ist. Für nicht prozessfähige Personen handeln deren gesetzliche Vertreter:innen, z. B. Eltern, Betreuer:innen oder Bevollmächtigte.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Ordnungsgemäße Vertretung",
+              "description": "- Parteien dürfen sich durch einen zugelassenen Anwalt vertreten lassen.\n- In Berufungs- und Revisionsinstanzen besteht Anwaltszwang.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Klageerhebung",
+              "description": "(1) Die Klage ist schriftlich beim Justizzentrum Inselleben RP einzureichen.\n\n(2) Sie muss enthalten:\n- vollständige Bezeichnung der Parteien\n- Angabe von Klagegrund & Klagegegenstand\n- klarer Antrag (z. B. Zahlung, Unterlassung, Herausgabe)\n- ggf. Beweismittel (Dokumente, Screenshots, Zeugenaussagen)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Klageerwiderung",
+              "description": "Der Beklagte kann innerhalb von 24 Stunden nach offizieller Zustellung eine schriftliche Klageerwiderung einreichen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Mündliche Verhandlung",
+              "description": "(1) Das Gericht bestimmt Termin, Ort und Form der Verhandlung.\n\n(2) Beide Parteien haben Gelegenheit zur Darlegung ihrer Standpunkte und Beibringung von Beweisen.\n\n(3) Bei Versäumnis ohne Entschuldigung kann ein Versäumnisurteil ergehen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Beweisaufnahme",
+              "description": "(1) Das Gericht erhebt Beweise durch:\n- Zeugenaussagen\n- Sachverständigengutachten\n- Urkunden\n- Augenschein (z. B. Ortstermin, Screenshots)\n\n(2) Das Gericht entscheidet über Zulässigkeit und Umfang der Beweise.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Vergleich",
+              "description": "Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Einigung (Vergleich) hinwirken. Ein geschlossener Vergleich hat Rechtskraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Urteil",
+              "description": "(1) Das Urteil ist schriftlich zu begründen und den Parteien zuzustellen.\n\n(2) Es wird im Namen des Volkes verkündet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Zustellung gerichtlicher Dokumente",
+              "description": "(1) Zustellungen erfolgen über:\n- den D-Funk-Kanal des Justizzentrums,\n- persönliche Übergabe durch Gerichtsbedienstete oder\n- Einwurf in den Postkasten des RP-Charakters.\n\n(2) Keine Rückmeldung binnen 48 Stunden gilt als wirksame Zustellung.\n\n(3) Die Parteien tragen Verantwortung für ihre Erreichbarkeit.\n\n(4) In begründeten Fällen kann das Verfahren in Abwesenheit durchgeführt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Berufung",
+              "description": "(1) Gegen ein Urteil der ersten Instanz ist Berufung zulässig, wenn der Streitwert über 5.000 € liegt.\n\n(2) Die Berufung ist binnen 48 Stunden schriftlich beim Justizzentrum einzulegen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Revision",
+              "description": "(1) Revision ist nur zulässig bei:\n- grundsätzlicher Bedeutung der Rechtssache\n- offensichtlichem Verfahrensfehler (z. B. Verletzung rechtlichen Gehörs)\n\n(2) Die Revision ist zu begründen. Eine unzulässige Revision wird verworfen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Gerichtskosten",
+              "description": "(1) Für jede Klage fallen Gerichtsgebühren gemäß dem Gebührenkatalog an.\n\n(2) Die unterlegene Partei trägt die vollständigen Verfahrenskosten, sofern sie nicht anders entschieden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Prozesskostenhilfe (PKH)",
+              "description": "(1) Bedürftige Parteien können Prozesskostenhilfe beantragen.\n\n(2) Das Gericht prüft:\n- Einkommen\n- Vermögen\n- Erfolgsaussichten der Klage\n- Missbrauchsfreiheit des Antrags\n\n(3) Bei Bewilligung trägt der Staat (Stadtverwaltung Eisenfels RP) die Gerichtsgebühren.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Inkrafttreten",
+              "description": "Diese Zivilprozessordnung tritt mit Veröffentlichung durch die Justizverwaltung in Kraft.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
