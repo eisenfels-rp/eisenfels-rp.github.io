@@ -960,6 +960,20 @@
           "body": ""
         }
       ]
+    },
+    {
+      "id": "verkehrsrecht",
+      "title": "🚗 Verkehrsrecht",
+      "laws": [
+        {
+          "slug": "verkehrsgesetzbuch",
+          "title": "Verkehrsgesetzbuch",
+          "description": "",
+          "paragraphs": [],
+          "media": [],
+          "body": ""
+        }
+      ]
     }
   ],
   "departments": [
