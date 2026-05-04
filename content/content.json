@@ -694,21 +694,6 @@
       "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
     },
     {
-      "id": "seite-3g0wls",
-      "slug": "neue-seite",
-      "title": "testseite",
-      "parentId": "",
-      "order": 10,
-      "showInSidebar": true,
-      "type": "page",
-      "accent": "orange",
-      "body": "# Neue Seite",
-      "factionId": "",
-      "logo": "",
-      "banner": "",
-      "media": []
-    },
-    {
       "id": "seite-0pczxl",
       "slug": "staatsanwaelte",
       "title": "Staatsanwälte",
