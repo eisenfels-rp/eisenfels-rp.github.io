@@ -1835,8 +1835,369 @@
         {
           "slug": "beamtenrecht",
           "title": "Beamtenrecht",
-          "description": "",
-          "paragraphs": [],
+          "description": "Das Beamtenrecht Eisenfels RP (BR-IRP) regelt die Rechtsstellung, Rechte und Pflichten der Beamten der Stzadt und des Landkreises Eisenfurt. Es bildet die Grundlage für ein funktionierendes, verlässliches und rechtsstaatlich gebundenes öffentliches Dienstverhältnis und gewährleistet eine klare Struktur innerhalb der staatlichen Institutionen.\n\nZiel dieses Gesetzes ist es, die Integrität, Leistungsfähigkeit und Loyalität des öffentlichen Dienstes sicherzustellen. Es definiert die gegenseitigen Verpflichtungen zwischen Staat und Beamten und schafft verbindliche Maßstäbe für dienstliches sowie außerdienstliches Verhalten. Dabei werden sowohl die berechtigten Interessen der Beamten als auch die Erwartungen der Allgemeinheit an eine verantwortungsvolle und unparteiische Amtsführung berücksichtigt.\n\nDas Beamtenrecht orientiert sich an zentralen Grundsätzen wie Treuepflicht, Neutralität, Gesetzmäßigkeit der Verwaltung sowie dem Schutz der Beamten im Dienst. Gleichzeitig stellt es durch klare Disziplinarregelungen sicher, dass Pflichtverstöße konsequent geahndet werden und das Vertrauen in den öffentlichen Dienst gewahrt bleibt.\n\nMit seinem Inkrafttreten bildet das BR-ESF die verbindliche Grundlage für alle Beamtenverhältnisse.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich",
+              "description": "(1) Dieses Gesetz gilt für alle Beamten der Polizeibehörden, der Justizbehörden, der Feuerwehr, des Rettungsdienstes, des Klinikums und des Bauhofes.\n\n(2) Beamte im Sinne dieses Gesetzes sind alle Personen, die durch Ernennung in ein öffentlich-rechtliches Dienstverhältnis zum Staat Eisenfels RP berufen sind.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Grundsätze des Beamtenverhältnisses",
+              "description": "(1) Das Beamtenverhältnis ist ein besonderes Treueverhältnis zwischen dem Staat und seinen Beamten.\n\n(2) Beamte haben sich mit voller Hingabe ihrem Beruf zu widmen und ihre Aufgaben unparteiisch, gerecht und sachlich zu erfüllen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Recht auf Fürsorge",
+              "description": "Der Staat sorgt für seine Beamten und ihre Familien. Dazu gehören angemessene Besoldung, Versorgung im Alter sowie Schutz bei Krankheit, Dienstunfällen und besonderen Gefahren.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Recht auf Schutz im Dienst",
+              "description": "Beamte genießen besonderen Schutz bei Angriffen auf ihre Person, ihre Ehre und ihre dienstliche Tätigkeit.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Recht auf Fortbildung",
+              "description": "Beamte haben Anspruch auf regelmäßige Fort- und Weiterbildungen, um ihre Aufgaben gewissenhaft erfüllen zu können.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Treuepflicht",
+              "description": "Beamte sind zur Treue gegenüber dem Staat Inselleben RP verpflichtet. Sie haben die verfassungsmäßige Ordnung zu achten und für deren Erhaltung einzutreten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Neutralitätspflicht",
+              "description": "Beamte haben ihre Aufgaben unparteiisch und ohne Rücksicht auf persönliche Sympathien, politische Überzeugungen, Religion oder Herkunft zu erfüllen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Verschwiegenheitspflicht",
+              "description": "Beamte sind verpflichtet, über dienstliche Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt auch nach Beendigung des Dienstverhältnisses.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Dienstpflicht & Gehorsam",
+              "description": "(1) Beamte sind verpflichtet, die dienstlichen Anordnungen ihrer Vorgesetzten auszuführen.\n\n(2) Rechtswidrige Anordnungen sind nicht zu befolgen. Beamte haben in solchen Fällen die Pflicht zur Remonstration (Meldung an den nächsthöheren Vorgesetzten).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Verhalten im Dienst",
+              "description": "Beamte müssen sich so verhalten, dass sie das Vertrauen der Allgemeinheit in die Integrität, Unparteilichkeit und Loyalität des öffentlichen Dienstes wahren.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Verhalten außerhalb des Dienstes",
+              "description": "Auch außerhalb des Dienstes haben Beamte ein Verhalten zu wahren, das das Ansehen des Staates und ihrer Behörde nicht beeinträchtigt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Ernennung & Beendigung",
+              "description": "(1) Beamte werden durch Ernennung in ihr Amt berufen.\n\n(2) Das Dienstverhältnis endet durch:\n- Entlassung,\n- Verlust der Beamtenrechte durch Gerichtsurteil,\n- Tod.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Disziplinarrecht",
+              "description": "Verstöße gegen Pflichten aus diesem Gesetz oder aus Dienstvorschriften können mit Disziplinarmaßnahmen geahndet werden, bis hin zur Entfernung aus dem Dienst.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Verhältnis zu anderen Gesetzen",
+              "description": "Dieses Gesetz ergänzt die bestehenden Gesetze des Staates Eisenfels RP. Soweit spezielle Regelungen in Polizeigesetz, Zollgesetz, Justizgesetzen oder anderen Rechtsnormen bestehen, gehen diese den Bestimmungen des Beamtenrechts vor.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit seiner Verkündung in Kraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Sanktionskatalog - Grundsatz",
+              "description": "(1) Verstöße gegen Pflichten aus dem Beamtenrecht (§§ 6–11 BR-ESF) können mit Disziplinarmaßnahmen und/oder Geldstrafen geahndet werden.\n\n(2) Geldstrafen dienen der Wiedergutmachung, Erziehung und Abschreckung.\n\n(3) Die Geldstrafe wird zusätzlich oder anstelle einer disziplinarischen Maßnahme verhängt, je nach Schwere des Verstoßes.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16a",
+              "title": "DiszMaßn - Mündliche Verwarnung",
+              "description": "Pädagogischer Hinweis ohne Eintrag",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16b",
+              "title": "DiszMaßn - Schriftliche Verwarnung / Abmahnung",
+              "description": "Eintrag in Personalakte",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16c",
+              "title": "DiszMaßn - Verweis / Disziplinarbuße",
+              "description": "Formelle Rüge mit Buße\n",
+              "minFine": "10.000 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16d",
+              "title": "DiszMaßn - Versetzung / Degradierung",
+              "description": "Rückstufung im Dienstgrad",
+              "minFine": "25.000 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16e",
+              "title": "DiszMaßn - Suspendierung (temporär)",
+              "description": "Enthebung vom Dienst bis zur Klärung",
+              "minFine": "50.000 €",
+              "maxFine": "150.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16f",
+              "title": "DiszMaßn - Entlassung aus dem Dienst",
+              "description": "Beendigung des Beamtenverhältnisses",
+              "minFine": "100.000 €",
+              "maxFine": "250.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Sankt - Missachtung der Treuepflicht",
+              "description": "(z. B. unloyales Verhalten, Pflichtvergessenheit)\nVerwarnung bis Degradierung",
+              "minFine": "10.000 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16h",
+              "title": "Sankt - Neutralitätsverstoß ",
+              "description": "(politische Äußerungen im Dienst, Diskriminierung)\nAbmahnung bis Versetzung",
+              "minFine": "10.000 €",
+              "maxFine": "30.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16i",
+              "title": "Sankt - Verletzung der Verschwiegenheitspflicht ",
+              "description": "(Informationsleak, Aktenweitergabe)\nAbmahnung bis Entlassung",
+              "minFine": "50.000 €",
+              "maxFine": "150.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16k",
+              "title": "Sankt - Nichtbefolgung dienstlicher Anweisungen",
+              "description": "Abmahnung bis Degradierung",
+              "minFine": "10.000 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16l",
+              "title": "Sankt - Befolgung rechtswidriger Anordnung ohne Remonstration",
+              "description": "Verwarnung bis Degradierung\n",
+              "minFine": "10.000 €",
+              "maxFine": "30.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16m",
+              "title": "Sankt - Unangemessenes Verhalten im Dienst",
+              "description": "(Respektlosigkeit, Machtmissbrauch)\nVerwarnung bis Versetzung\n",
+              "minFine": "5000 €",
+              "maxFine": "25.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16n",
+              "title": "Sankt - Schädigendes Verhalten außerhalb des Dienstes ",
+              "description": "(Straftaten, negatives Auftreten)\nAbmahnung bis Entlassung",
+              "minFine": "20.000 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16o",
+              "title": "Sankt - Dienstpflichtverletzung ",
+              "description": "(Unpünktlichkeit, Nichterscheinen, Dienstflucht)\nVerwarnung bis Degradierung",
+              "minFine": "5000 €",
+              "maxFine": "20.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16p",
+              "title": "Sankt - Alkoholisierung / Drogenkonsum im Dienst",
+              "description": "Suspendierung bis Entlassung",
+              "minFine": "50.000 €",
+              "maxFine": "150.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16q",
+              "title": "Neuer Samkt - Befehlsverweigerung / Untergrabung der Autorität",
+              "description": "Degradierung bis Entlassung",
+              "minFine": "30.000 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16r",
+              "title": "Sankt - Geheimnisverrat (Metagaming / Datenweitergabe)",
+              "description": "Entlassung",
+              "minFine": "100.000 €",
+              "maxFine": "250.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16s",
+              "title": "Sankt - Korruption / Bestechung / Vorteilsannahme",
+              "description": "Entlassung + Meldung an Staatsanwaltschaft",
+              "minFine": "100.000 €",
+              "maxFine": "250.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16t",
+              "title": "Sankt - Amtsmissbrauch / Unverhältnismäßige Gewaltanwendung",
+              "description": "Suspendierung bis Entlassung",
+              "minFine": "50.000 €",
+              "maxFine": "150.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16u",
+              "title": "Sankt - Rufschädigung der Behörde oder des Staates",
+              "description": "Abmahnung bis Entlassung",
+              "minFine": "10.000 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16v",
+              "title": "Sankt - Manipulation von Beweismitteln / Akten / Einträgen",
+              "description": "Suspendierung bis Entlassung",
+              "minFine": "100.000 €",
+              "maxFine": "200.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Strafverschärfung",
+              "description": "Wiederholte Verstöße erhöhen die Geldstrafe um +50 %.\n\nKumulative Pflichtverletzungen (mehrere Verstöße gleichzeitig) können zu einer zusätzlichen Pauschalbuße von 5.000 $ führen.\n\nBeamte in Führungspositionen zahlen +25 % höhere Strafen, da sie eine Vorbildfunktion haben.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Verwendung der Geldstrafen",
+              "description": "Eingezogene Geldstrafen fließen in den staatlichen Beamtenfonds (z. B. Ausbildung, Ausrüstung, Sozialkasse) der Justizverwaltung.\n\nDadurch entsteht ein sichtbarer Nutzen und eine realistische Rechtfertigung der Sanktionen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13a",
+              "title": "Genehmigung von Disziplinarmaßnahmen und Sanktionen",
+              "description": "(1) Sämtliche Disziplinarmaßnahmen sowie im Sanktionskatalog vorgesehene Sanktionen bedürfen vor ihrer Wirksamkeit der Zustimmung des Justizdirektors oder dessen Stellvertreters.\n\n(2) Ohne eine entsprechende Genehmigung dürfen keine Maßnahmen vollzogen oder bekannt gegeben werden.\n\n(3) In dringenden Fällen kann eine vorläufige Maßnahme angeordnet werden. Diese ist unverzüglich dem Justizdirektor oder dessen Stellvertreter zur nachträglichen Genehmigung vorzulegen.\n\n(4) Wird die Genehmigung nicht erteilt, ist die Maßnahme unverzüglich aufzuheben und gilt als nicht erfolgt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
