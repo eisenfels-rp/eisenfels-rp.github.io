@@ -103,7 +103,24 @@ function render(){
   renderPage(page);
 }
 function header(title, subtitle='', logo=''){
-  $('#pageHeader').innerHTML = `<img src="${logo || DATA.settings.logo}" alt=""><div><h2>${title}</h2><p>${subtitle || DATA.settings.disclaimer}</p></div>`;
+  let finalLogo = '';
+
+  // 🔥 immer zuerst Seiten-Logo nehmen
+  if(logo && logo.trim() !== ''){
+    finalLogo = logo;
+  }
+  // fallback nur wenn wirklich nichts da ist
+  else if(DATA.settings && DATA.settings.logo){
+    finalLogo = DATA.settings.logo;
+  }
+
+  $('#pageHeader').innerHTML = `
+    <img src="${finalLogo}" alt="">
+    <div>
+      <h2>${title}</h2>
+      <p>${subtitle || DATA.settings.disclaimer}</p>
+    </div>
+  `;
 }
 
 function ancestors(page){
