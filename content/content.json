@@ -978,16 +978,7 @@
     {
       "id": "betaeubungsmittel",
       "title": "💊 Betäubungsmittel",
-      "laws": [
-        {
-          "slug": "betaeubungsmittelgesetz",
-          "title": "Betäubungsmittelgesetz ",
-          "description": "",
-          "paragraphs": [],
-          "media": [],
-          "body": ""
-        }
-      ]
+      "laws": []
     }
   ],
   "departments": [
