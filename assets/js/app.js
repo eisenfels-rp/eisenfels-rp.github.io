@@ -165,6 +165,10 @@ function renderPage(page){
   let body = '';
   if(typeof renderTools === 'function') body += renderTools(page);
   body += renderMediaByPosition(page.media||[], 'top');
+  if(page.banner){
+  body += `<div class="media"><img src="${page.banner}" alt="${page.title} Banner"></div>`;
+}
+  
   body += md(page.body||'');
 
   if(page.type==='laws-index') body += renderLawGroups();
