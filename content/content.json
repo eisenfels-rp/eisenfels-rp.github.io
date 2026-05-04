@@ -855,7 +855,143 @@
           "body": "",
           "media": [],
           "description": "Zur Gewährleistung der öffentlichen Sicherheit und zur Regelung des gesellschaftlichen Lebens tritt die Stadtverordnung von Eisenfels in Kraft.\n\nDieses Werk umfasst alle geltenden Normen, Pflichten und Rechte, die für das Stadtgebiet und dessen Bewohner verbindlich sind. Unkenntnis schützt nicht vor Strafe. Das Ziel dieser Verordnung ist ein geordnetes Zusammenleben, in dem Freiheit dort endet, wo sie das Recht des Mitbürgers verletzt.",
-          "paragraphs": []
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich",
+              "description": "Diese Stadtverordnung gilt im gesamten Gebiet RP-Stadt Eisenfurt mit seinen Gemeinden Glutheim, Hohenriff, Klippenruh, Wolkenstieg, Bruchweide, Nordwacht, Trübsee und Kaltes Ende.\n\nSie regelt die öffentliche Ordnung, Sicherheit, Sauberkeit, Sondernutzungen sowie das Verhalten im öffentlichen Raum.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Öffentliche Ordnung",
+              "description": "(1) Es ist untersagt, im öffentlichen Raum durch Verhalten grob störenden Lärm, aggressives Auftreten oder bedrohliches Verhalten zu zeigen.\n\n(2) Verboten sind insbesondere:\nMitführen und Konsum alkoholischer Getränke an sensiblen Orten (z. B. Haltestellen, Spielplätze, Friedhöfe) Lautes Musizieren ohne Genehmigung Aggressives oder aufdringliches Betteln Lagern auf Gehwegen, Eingängen oder Durchgängen",
+              "minFine": "1000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Sauberkeit im öffentlichen Raum",
+              "description": "(1) Das Verschmutzen öffentlicher Flächen ist untersagt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3a",
+              "title": "Müllablagerung",
+              "description": "Wegwerfen von Abfall, Zigaretten, Kaugummis außerhalb von Müllbehältern, Mutwillige Beschädigung städtischer Einrichtungen. Verstoß gegen Gehwegreinigungspflicht bei Gewerbeeinheiten",
+              "minFine": "1000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3b",
+              "title": "Illegale Graffiti",
+              "description": "Anbringen illegaler Graffiti - zzgl. Reinigungskosten",
+              "minFine": "2000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Sondernutzung öffentlicher Flächen",
+              "description": "(1) Sondernutzungen wie Warenauslagen, Außenbewirtschaftung, Baustellen oder Werbeflächen benötigen eine gültige Genehmigung der Stadtverwaltung.\n\n(2) Nutzung ohne Genehmigung ist unzulässig.\n\n(3) Die Behörden können:\n- Nutzung untersagen\n- Sofortige Räumung anordnen\n",
+              "minFine": "2000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Tierschutz & Tierhaltung",
+              "description": "(1) Tiere sind so zu halten und zu führen, dass keine Gefahr oder erhebliche Belästigung für Dritte entsteht.\n\n(2) Hunde sind in allen Städten auf öffentlichen Flächen an der Leine zu führen. In Parks und Spielplätzen gilt zusätzlich Maulkorbpflicht.",
+              "minFine": "500 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Veranstaltungen und Versammlungen",
+              "description": "(1) Öffentliche Veranstaltungen und Demonstrationen sind mindestens 24 Stunden vor Beginn im Justizzentrum anzumelden.\n\n(2) Die zuständigen Behörden können Auflagen zu Sicherheit, Lärmschutz, Verkehrsführung und Müllentsorgung erlassen.",
+              "minFine": "1000 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Lärm- und Ruhezeiten",
+              "description": "(1) Nachtruhe gilt im gesamten Staatsgebiet von 22:00 Uhr bis 6:00 Uhr.\n\n(2) In dieser Zeit sind untersagt:\n- Musik im Außenbereich\n- Heimwerkerarbeiten, Rasenmähen\n- laute Gespräche oder sonstiger störender Lärm\n",
+              "minFine": "500 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8a",
+              "title": "Gaststättenrecht - Genehmigung",
+              "description": "(1) Jede Gaststätte (Restaurant, Bar, Imbiss, Café etc.) muss bei der Stadtverwaltung registriert sein.",
+              "minFine": "5000 €",
+              "maxFine": "25.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8b",
+              "title": "Gaststättenrecht - Hygiene",
+              "description": "(2) Betreiber:innen sind verpflichtet:\n- Hygienevorgaben einzuhalten\n- Öffnungszeiten und Lautstärkeregelungen zu befolgen\n- ordnungsgemäße Müllentsorgung zu gewährleisten\n- Alkoholausschank an Minderjährige zu unterbinden\n",
+              "minFine": "1000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8c",
+              "title": "Gaststättenrecht - Außenbereich",
+              "description": "(3) Außenbewirtschaftung ist nur mit Genehmigung zulässig.",
+              "minFine": "3000 €",
+              "maxFine": "20.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8d",
+              "title": "Gaststättenrecht - Wiederholung",
+              "description": "(4) Bei wiederholten Verstößen kann die Betriebserlaubnis entzogen werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Vollzugsbehörden & Maßnahmen",
+              "description": "(1) Zuständig für den Vollzug sind:\ndie Polizeibehörden, Justizverwaltung, Justizbeamte & Ordnungsbehöred\n\n(2) Befugnisse:\nPlatzverweise\nVerwarnungen\nFestsetzung von Bußgeldern\nAussprechen von Betretungsverboten bei wiederholten oder schweren Verstößen",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Inkrafttreten",
+              "description": "Diese Stadtverordnung tritt mit Veröffentlichung durch die Justizverwaltung in Kraft.\nZuwiderhandlungen gelten als Ordnungswidrigkeit nach § 2 des Ordnungswidrigkeitengesetzes.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ]
         }
       ]
     },
