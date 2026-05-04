@@ -822,6 +822,14 @@
           "media": [],
           "description": "# Betäubungsmittelgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
           "paragraphs": []
+        },
+        {
+          "slug": "waffengesetz",
+          "title": "Waffengesetz",
+          "description": "",
+          "paragraphs": [],
+          "media": [],
+          "body": ""
         }
       ]
     },
