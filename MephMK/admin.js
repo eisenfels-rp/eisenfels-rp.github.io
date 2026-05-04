@@ -424,7 +424,8 @@
 
     const lawForm = law.slug ? [
       '<h3>Gesetzbuch bearbeiten</h3>',
-      '<div class="cms-row"><div><label>Titel</label><input id="l_title" value="' + esc(law.title) + '"></div><div><label>Slug</label><input id="l_slug" value="' + esc(law.slug) + '"></div></div>',
+      <div class="cms-row"><div><label>Titel</label><input id="l_title" value="${esc(law.title)}"></div><div><label>Slug</label><input id="l_slug" value="${esc(law.slug)}"></div></div>,
+      <label>Logo URL</label><input id="l_logo" value="${esc(law.logo||'')}">,
       '<label>Allgemeine Beschreibung des Gesetzbuches</label><textarea id="l_description">' + esc(law.description || law.body || "") + '</textarea>',
       '<label>Medien</label><textarea id="l_media">' + esc(mediaToText(law.media)) + '</textarea>',
       '<div class="admin-actions"><button id="saveLaw" type="button">Gesetzbuch übernehmen</button><button class="cms-danger" id="deleteLaw" type="button">Gesetzbuch löschen</button></div>',
@@ -505,6 +506,7 @@
         const law = data.lawGroups[selected.lawGroup || 0].laws[selected.law || 0];
         law.title = val("l_title");
         law.slug = val("l_slug");
+        law.logo = val("l_logo");
         law.description = val("l_description");
         law.body = "";
         law.media = parseMedia(val("l_media"));
