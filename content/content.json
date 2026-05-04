@@ -1720,7 +1720,116 @@
           "body": "",
           "media": [],
           "description": "Die Verwaltungsgerichtsordnung Eisenfels RP (VwGO-ESF) regelt den gerichtlichen Rechtsschutz in öffentlich-rechtlichen Streitigkeiten innerhalb des Staatsgebiets Eisenfels RP. Sie bildet die Grundlage für die Überprüfung von Maßnahmen und Entscheidungen der Verwaltung durch unabhängige Gerichte und gewährleistet damit die Kontrolle staatlichen Handelns.\n\nZiel der VwGO-ESF ist es, einen effektiven und gerechten Rechtsschutz für Bürger:innen gegenüber Verwaltungsbehörden sicherzustellen. Sie ermöglicht die Klärung von Rechtsverhältnissen sowie die Anfechtung oder Verpflichtung von Verwaltungsakten im Rahmen eines strukturierten und transparenten Verfahrens.\n\nDie Ordnung orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie dem Anspruch auf rechtliches Gehör, der Verhältnismäßigkeit staatlicher Maßnahmen sowie der Bindung der Verwaltung an Recht und Gesetz. Gleichzeitig fördert sie eine zügige und sachgerechte Konfliktlösung, unter anderem durch Vorverfahren und einstweiligen Rechtsschutz.\n\nMit ihrem Inkrafttreten gilt die VwGO-ESF als verbindliche Verfahrensordnung für alle öffentlich-rechtlichen Streitigkeiten zwischen Bürger:innen und Behörden im Rahmen von Eisenfels RP.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Neuer Paragraph",
+              "description": "Diese Verwaltungsgerichtsordnung regelt den Verwaltungsrechtsweg im gesamten Staatsgebiet, insbesondere in den Gemeinden RP-Stadt Eisenfurt mit seinen Gemeinden Glutheim, Hohenriff, Klippenruh, Wolkenstieg, Bruchweide, Nordwacht, Trübsee und Kaltes Ende.\nSie gilt für öffentlich-rechtliche Streitigkeiten nichtverfassungsrechtlicher Art zwischen Bürger:innen und Verwaltungsbehörden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Verwaltungsrechtsweg",
+              "description": "(1) Der Verwaltungsrechtsweg ist eröffnet bei:\n- Anfechtung eines Verwaltungsakts,\n- Beantragung eines Verwaltungsakts,\n- Feststellung eines Rechtsverhältnisses oder der Nichtigkeit eines Verwaltungsakts.\n\n(2) Eine Klage ist nur zulässig, wenn die klagende Partei geltend macht, durch den Verwaltungsakt oder dessen Unterlassung in ihren Rechten verletzt zu sein.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Beteiligte im Verfahren",
+              "description": "Beteiligte sind:\n- der/die Kläger:in,\n- die beklagte Behörde (z. B. Polizei, Rechtsamt, Stadtverwaltung),\n- das Verwaltungsgericht des Justizzentrums,\n- ggf. Beigeladene (Dritte mit rechtlichem Interesse am Verfahren).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Klageerhebung",
+              "description": "(1) Die Klage ist schriftlich beim Verwaltungsgericht Inselleben einzureichen – innerhalb von 2 Tagen (48 Stunden) nach Bekanntgabe des Verwaltungsakts.\n\n(2) Die Klage muss enthalten:\n- Bezeichnung der Beteiligten\n- Benennung des Verwaltungsakts\n- klares Klagebegehren\n- Begründung inkl. optionaler Beweise (z. B. Screenshots)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Vorverfahren",
+              "description": "(1) Das Gericht kann ein Vorverfahren anordnen, um eine einvernehmliche Lösung herbeizuführen.\n\n(2) Die beklagte Behörde kann im Vorverfahren eine Abhilfeentscheidung treffen (z. B. Rücknahme, Änderung, Neubescheidung).\n\n(3) Kommt keine Einigung zustande, wird ein Termin zur Hauptverhandlung festgesetzt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Beweiserhebung",
+              "description": "(1) Das Verwaltungsgericht erhebt alle zur Klärung des Sachverhalts erforderlichen Beweise.\n\n(2) Zulässige Beweismittel sind:\n- Urkunden\n- Zeugen\n- Sachverständigengutachten\n- Augenschein / Screenshots / RP-Dokumente\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Mündliche Verhandlung",
+              "description": "(1) Die Verhandlung wird durch den/die Vorsitzende:n eröffnet.\n\n(2) Alle Beteiligten erhalten die Möglichkeit zur Stellungnahme und Beweisführung.\n\n(3) Das Gericht erörtert die Sach- und Rechtslage aktiv mit den Beteiligten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Urteil",
+              "description": "(1) Die Klage wird durch schriftliches Urteil entschieden.\n\n(2) Das Urteil enthält:\n- Bezeichnung der Beteiligten\n- Tenor (Entscheidungsteil)\n- Entscheidungsgründe\n- Belehrung über Rechtsmittel\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Vollstreckung",
+              "description": "(1) Auf Antrag kann das Gericht eine einstweilige Anordnung erlassen, wenn bei sofortigem Vollzug schwere Nachteile für den/die Kläger:in drohen.\n\n(2) Die einstweilige Anordnung regelt vorläufig die Rechtslage bis zur endgültigen Entscheidung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Rechtsmittel: Berufung",
+              "description": "(1) Gegen Urteile des Verwaltungsgerichts ist Berufung zulässig, wenn:\n- der Streitwert 5.000 € übersteigt\n- oder das Urteil erhebliche Auswirkungen auf andere Verfahren hat\n\n(2) Die Berufung ist schriftlich innerhalb von 24 Stunden nach Zustellung einzulegen.\n\n(3) Die Berufung hat aufschiebende Wirkung, es sei denn, das Gericht ordnet etwas anderes an.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Verfahrenskosten",
+              "description": "(1) Die unterliegende Partei trägt die vollständigen Kosten des Verfahrens.\n\n(2) Bei teilweisem Obsiegen entscheidet das Gericht über eine anteilige Kostenverteilung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Inkrafttreten",
+              "description": "Diese Verwaltungsgerichtsordnung tritt mit Veröffentlichung durch die Justizverwaltung in Kraft.\nSie gilt für alle öffentlich-rechtlichen Streitigkeiten zwischen Bürger:innen und Behörden im gesamten Staatsgebiet.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
