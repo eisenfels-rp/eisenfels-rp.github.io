@@ -1046,26 +1046,29 @@
         {
           "slug": "strafgesetzbuch",
           "title": "Strafgesetzbuch",
-          "body": "# Strafgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "body": "",
           "media": [],
           "description": "# Strafgesetzbuch\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "paragraphs": [],
+          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
           "slug": "ordnungswidrigkeitengesetz",
           "title": "Ordnungswidrigkeitengesetz",
-          "body": "# Ordnungswidrigkeitengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "body": "",
           "media": [],
           "description": "# Ordnungswidrigkeitengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "paragraphs": [],
+          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
           "slug": "betaeubungsmittelgesetz",
           "title": "Betäubungsmittelgesetz",
-          "body": "# Betäubungsmittelgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
+          "body": "",
           "media": [],
           "description": "# Betäubungsmittelgesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": []
+          "paragraphs": [],
+          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
           "slug": "waffengesetz",
@@ -1073,7 +1076,8 @@
           "description": "",
           "paragraphs": [],
           "media": [],
-          "body": ""
+          "body": "",
+          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         }
       ]
     },
