@@ -127,7 +127,11 @@
       "showInSidebar": true,
       "type": "laws-index",
       "accent": "orange",
-      "body": "# Gesetzbücher\n\nDie Gesetzessammlung ist nach Rechtsgebieten gruppiert. Die Inhalte werden im CMS gepflegt."
+      "body": "# Gesetzbücher\n\nDie Gesetzbücher von Eisenfurt sind das Fundament unserer Ordnung – geschrieben, bewahrt und durchgesetzt im Namen der Gerechtigkeit. Jeder Paragraph, jede Vorschrift und jede Regel bildet das Rückgrat des öffentlichen Lebens und gibt den Rahmen vor, in dem sich unsere Stadt bewegt.\n\nIn diesem Bereich findest du alle relevanten Gesetze und rechtlichen Grundlagen, nach denen die Justiz Eisenfurt handelt. Sie dienen nicht nur der Durchsetzung von Recht, sondern auch der Orientierung für jeden Bürger. Wer die Gesetze kennt, versteht die Ordnung – und wer sie versteht, trägt dazu bei, sie zu wahren.\n\nDenn in Eisenfurt gilt:\nGerechtigkeit beginnt mit Wissen.",
+      "factionId": "",
+      "logo": "https://i.ibb.co/cckqGFsr/Chat-GPT-Image-4-Mai-2026-16-09-20.png",
+      "banner": "https://i.ibb.co/nMB9BGqr/Chat-GPT-Image-4-Mai-2026-16-46-32.png",
+      "media": []
     },
     {
       "id": "justiz-fachabteilungen",
