@@ -784,6 +784,14 @@
           "media": [],
           "description": "# Verwaltungsgerichtsordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
           "paragraphs": []
+        },
+        {
+          "slug": "beamtenrecht",
+          "title": "Beamtenrecht",
+          "description": "",
+          "paragraphs": [],
+          "media": [],
+          "body": ""
         }
       ]
     },
