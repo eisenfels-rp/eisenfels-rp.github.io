@@ -87,11 +87,36 @@
       "showInSidebar": true,
       "type": "faction",
       "accent": "orange",
-      "body": "# Justiz\n\nDie Justiz Eisenfels wahrt die rechtliche Ordnung, führt Verfahren, prüft Anträge und sorgt für rechtsstaatliche Abläufe im Roleplay.",
+      "body": "# Justiz Eisenfurt\n\nDie Justiz Eisenfurt steht für Recht, Ordnung und Sicherheit innerhalb unserer Gemeinschaft. Als zentrale Institution sorgt sie für die Durchsetzung von Gesetzen, die Wahrung von Gerechtigkeit und den Schutz aller Bürgerinnen und Bürger. Mit ihren verschiedenen Fachbereichen – darunter der Vollzugsdienst, der Naturschutz sowie die Ordnungsbehörde – deckt die Justiz ein breites Spektrum an Aufgaben ab und gewährleistet ein strukturiertes und sicheres Zusammenleben.\n\nOb es um die Einhaltung öffentlicher Ordnung, den Schutz der Umwelt oder die Durchsetzung rechtlicher Maßnahmen geht – die Justiz Eisenfurt arbeitet verantwortungsbewusst, transparent und stets im Sinne der Gemeinschaft. Unser Ziel ist es, ein faires und stabiles Umfeld zu schaffen, in dem sich jeder sicher fühlen kann.",
       "factionId": "",
-      "logo": "https://i.ibb.co/0yLrmfcz/logo-ost-west.png",
-      "banner": "",
-      "media": []
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/cckqGFsr/Chat-GPT-Image-4-Mai-2026-16-09-20.png",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/yFDS0mDh/j1.png",
+          "caption": "Oberlandesgericht - Sitz des Justizdirektors",
+          "position": "bottom"
+        },
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/RT6LJzBK/j2.png",
+          "caption": "Justizverwaltung & Staatsanwaltschaft",
+          "position": "bottom"
+        },
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/84fBb8BV/j3.png",
+          "caption": "Amtsgericht & Landgericht",
+          "position": "bottom"
+        },
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/VcMbRrhj/j4.png",
+          "caption": "Vollzugsdienst Natruschutz & Ordnungsbehörde",
+          "position": "bottom"
+        }
+      ]
     },
     {
       "id": "gesetzbuecher",
