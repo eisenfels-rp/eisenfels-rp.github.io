@@ -1006,8 +1006,558 @@
           "title": "Strafprozessordnung",
           "body": "",
           "media": [],
-          "description": "# Strafprozessordnung\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": [],
+          "description": "Die Strafprozessordnung Eisenfurt bildet die rechtliche Grundlage für die Durchführung von Strafverfahren innerhalb des Staatsgebiets. Sie regelt den Ablauf des Strafverfahrens von den ersten Ermittlungen bis hin zur Vollstreckung gerichtlicher Entscheidungen und gewährleistet dabei ein faires, rechtsstaatliches und transparentes Verfahren für alle Beteiligten.\n\nZiel dieser Ordnung ist es, die Wahrheitsfindung unter Wahrung der Rechte von Beschuldigten, Opfern und Zeugen sicherzustellen. Gleichzeitig dient sie der effektiven Strafverfolgung sowie dem Schutz der öffentlichen Ordnung und Sicherheit. Die StPO-IL legt verbindliche Regeln für die Zusammenarbeit von Gerichten, Staatsanwaltschaft, Polizei sowie weiteren Verfahrensbeteiligten fest und schafft klare Zuständigkeiten und Verfahrensabläufe.\n\nSie orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie dem rechtlichen Gehör, der Unschuldsvermutung, der Verhältnismäßigkeit staatlicher Maßnahmen sowie dem Anspruch auf ein unabhängiges und unparteiisches Gericht.\n\nMit ihrem Inkrafttreten gilt diese Strafprozessordnung als verbindlicher Maßstab für alle strafprozessualen Handlungen im Rahmen von Eisenfels RP.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Ausschluss eines Richters",
+              "description": "Ein:e Richter:in ist von der Ausübung des Amtes ausgeschlossen, wenn:\n- sie/er durch die Straftat betroffen ist,\n- Ehepartner:in oder ehemalig Ehepartner:in des Beschuldigten oder Opfers ist,\n- mit dem Beschuldigten oder Opfer verwandt/verschwägert ist (gerade Linie),\n- zuvor in derselben Sache als Staatsanwalt, Polizist, Verteidiger oder Anwalt des Opfers tätig war,\n- in der Sache als Zeuge oder Sachverständiger vernommen wurde,\nbereits in Vorverfahren als Richter:in tätig war.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Zuständigkeit des Gerichts",
+              "description": "Das zuständige Gericht (Amts-, Landes- oder Obergericht im Justizzentrum Inselleben) prüft seine sachliche Zuständigkeit in jeder Lage des Verfahrens von Amts wegen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Ablehnung wegen Befangenheit",
+              "description": "(1) Ein:e Richter:in kann abgelehnt werden, wenn ein objektiver Grund zur Besorgnis der Befangenheit besteht.\n\n(2) Die Ablehnung ist bis zur Eröffnung der Hauptverhandlung zulässig.\n\n(3) Der Beschluss über die Ablehnung ist unanfechtbar.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Rechtliches Gehör",
+              "description": "(1) Entscheidungen im Hauptverfahren erfolgen nach Anhörung aller Beteiligten.\n\n(2) Entscheidungen außerhalb der Verhandlung bedürfen einer Stellungnahme der Staatsanwaltschaft.\n\n(3) Verstöße führen zur Zurückverweisung des Verfahrens.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Begründungspflicht",
+              "description": "\nAnfechtbare Entscheidungen und ablehnende Beschlüsse sind schriftlich zu begründen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Vollstreckung",
+              "description": "Urteile und Strafbefehle werden zur Vollstreckung an die Staatsanwaltschaft Inselleben übergeben.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Unmittelbare Ladung",
+              "description": "Alle Beteiligten (StA, Verteidigung etc.) dürfen Sachverständige und Zeugen direkt laden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Neuer Paragraph",
+              "description": "(1) Zeugen sind verpflichtet zu erscheinen und wahrheitsgemäß auszusagen, sofern kein Aussageverweigerungsrecht vorliegt\n\n(2) Geschädigte sind besonders zu schützen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8a",
+              "title": "Ausbleiben von Zeugen",
+              "description": "(1) Nicht erschienene Zeugen können mit Ordnungsgeld/-haft belegt werden.\n\n(2) Entschuldigungen sind vorab oder unmittelbar nachzuholen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Zeugnisverweigerung",
+              "description": "Das Zeugnis kann verweigert werden durch:\n- enge Angehörige\n- Berufsgeheimnisträger\n- Personen, die sich selbst belasten würden\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Vernehmung & Wahrheitspflicht",
+              "description": "Zeugen werden zur Wahrheit ermahnt und einzeln befragt. Über die Folgen einer Falschaussage ist aufzuklären.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Vereidigung",
+              "description": "Vereidigung ist zulässig, aber nicht verpflichtend. Angeklagte dürfen nicht vereidigt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Eidesverweigerung",
+              "description": "Angehörige des Beschuldigten dürfen die Vereidigung ablehnen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Eidesformel",
+              "description": "„Ich schwöre es, so wahr mir Gott helfe.“ – oder: „Ich schwöre es.“",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Aussage zur Sache",
+              "description": "Zeugen sollen zusammenhängend zur Sache aussagen. Unzulässige oder suggestive Fragen dürfen gerügt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Sicherstellung / Beschlagnahme",
+              "description": "Beweismittel dürfen sichergestellt oder beschlagnahmt werden, wenn keine freiwillige Herausgabe erfolgt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "TKÜ – Telekommunikationsüberwachung",
+              "description": "Nur bei schwerer Kriminalität und richterlicher Anordnung zulässig. Gefahr im Verzug erlaubt sofortige Maßnahme mit nachträglicher Genehmigung.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Durchsuchung",
+              "description": "Durchsuchungen sind bei Tatverdacht zulässig, i. d. R. nur mit richterlichem Beschluss. Ausnahme: Gefahr im Verzug.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Untersuchungshaft",
+              "description": "U-Haft ist nur bei dringendem Tatverdacht und Flucht-/Verdunkelungsgefahr zulässig.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Haftbefehl",
+              "description": "Wird schriftlich durch Richter:in erlassen. Ausnahme: Gefahr im Verzug → vorläufiger Haftbefehl durch StA, nachträgliche richterliche Prüfung binnen 24 Std.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19a",
+              "title": "Haftdauer & Klagefrist",
+              "description": "U-Haft max. 90 Minuten ohne richterliche Entscheidung\nNach 12 Stunden: zwingende Klage oder Strafbefehl\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§20",
+              "title": "Belehrung bei Verhaftung",
+              "description": "Der:die Beschuldigte ist über folgende Rechte zu belehren:\n\n„Sie haben das Recht zu schweigen. Alles, was Sie sagen, kann vor Gericht gegen Sie verwendet werden. Sie haben das Recht auf einen Anwalt. Bei dringendem Verdacht können Sie bis zu 90 Minuten festgehalten werden. Gegen gerichtliche Entscheidungen stehen Ihnen Rechtsmittel offen.“\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§21",
+              "title": "Vorführung",
+              "description": "Unverzügliche Vorführung nach Festnahme. Ein Haftbefehl kann aufgehoben werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§22",
+              "title": "Jedermann-Festnahme",
+              "description": "Personen dürfen bei frischer Tat vorläufig festgenommen werden. Beamte auch bei Gefahr im Verzug.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§22a",
+              "title": "Festnahme von Störern",
+              "description": "Beamte dürfen störende Personen vorübergehend bis max. 30 Minuten festsetzen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§23",
+              "title": "Verbotene Vernehmungsmethoden",
+              "description": "Zwang, Drohung, Täuschung etc. sind verboten. Solche Aussagen dürfen nicht verwertet werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§24",
+              "title": "Zeugenschutz & Opferschutz",
+              "description": "(1) Gefährdete Zeugen erhalten besonderen Schutz.\n\n(2) Schutzunterbringung im Safehouse ist zulässig.\n\n(3) Opfer schwerer Straftaten haben Anspruch auf psychologische Begleitung, getrennte Wartebereiche und Anonymisierung.\n\n(4) Identitäten können teilweise oder vollständig geschützt werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§25",
+              "title": "Zustellung gerichtlicher Dokumente",
+              "description": "Zustellung erfolgt via \n- Discord-D-Funk, per Übergabe oder Postkasten.\n- Nach 48 Stunden ohne Rückmeldung gilt sie als erfolgt.\n- Verfahren in Abwesenheit sind möglich (§ 231 Abs. 2 analog).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§26",
+              "title": "Anklagebehörde",
+              "description": "Öffentliche Klage darf nur durch die Staatsanwaltschaft erhoben werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§27",
+              "title": "Umfang der gerichtlichen Untersuchung",
+              "description": "Das Verfahren beschränkt sich auf die Tat(en) und Person(en), wie sie in der Klageschrift angegeben sind.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§28",
+              "title": "Strafanzeige",
+              "description": "(1) Anzeige bei Polizei oder Staatsanwaltschaft, schriftlich oder mündlich\n\n(2) Behörden müssen ermitteln, wenn ein Anfangsverdacht besteht.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§29",
+              "title": "Ermittlungsbefugnisse",
+              "description": "Die Staatsanwaltschaft kann selbst ermitteln oder Ermittlungen veranlassen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§30",
+              "title": "Vernehmung",
+              "description": "Verteidigung und StA dürfen bei richterlicher Vernehmung anwesend sein.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§31",
+              "title": "Anklageerhebung",
+              "description": "Die StA reicht die Anklage beim zuständigen Gericht ein. Das Gericht prüft auf Zulässigkeit.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§32",
+              "title": "Klageschrift",
+              "description": "Enthält: Personalien, Tathergang, Rechtslage, Beweise, Zeugen. Identität gefährdeter Zeugen kann geschützt werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§33",
+              "title": "Hauptverhandlung",
+              "description": "Ort, Termin und Ladung bestimmt der:die vorsitzende Richter:in.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§34",
+              "title": "Aussetzung / Unterbrechung",
+              "description": "Verhandlung kann aus rechtlichen oder sachlichen Gründen pausieren.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§35",
+              "title": "Ausbleiben des Angeklagten",
+              "description": "Bei Fernbleiben ohne Entschuldigung → Vorführung oder Haft zulässig.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§36",
+              "title": "Verhandlungsleitung",
+              "description": "Die Leitung hat der:die vorsitzende Richter:in. Störungen werden geahndet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§37",
+              "title": "Fragerecht",
+              "description": "Alle Verfahrensbeteiligten dürfen sachlich relevante Fragen stellen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§38",
+              "title": "Ablauf",
+              "description": "1. Aufruf\n2. Anklage\n3. Beweisaufnahme\n4. Aussageverweigerungsrecht\n5. Vernehmung des Angeklagten\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§39",
+              "title": "Beweisaufnahme",
+              "description": "Alle relevanten Beweise sind zu erheben. Beweisanträge dürfen nur aus gesetzlichem Grund abgelehnt werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§40",
+              "title": "Kreuzverhör",
+              "description": "Zulässig zur Wahrheitsermittlung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§41",
+              "title": "Schlussvorträge",
+              "description": "Staatsanwaltschaft → Verteidigung → Angeklagter (letztes Wort)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§42",
+              "title": "Urteil",
+              "description": "Erfolgt im Namen des Volkes. Schriftlich begründet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§43",
+              "title": "Strafbefehl",
+              "description": "Bei eindeutiger Sachlage auch ohne Verhandlung möglich.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§44",
+              "title": "Widerspruch gegen Strafbefehl",
+              "description": "Binnen 48 Stunden möglich → mündliche Verhandlung\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§45",
+              "title": "Urteilsbegründung",
+              "description": "Mündlich verlesen, schriftlich ausgefertigt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§46",
+              "title": "Vollstreckung",
+              "description": "Durch Justizvollzug. Verzögerung nur auf Anordnung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§47",
+              "title": "Gerichtsvollzieher",
+              "description": "Zuständig für Zustellung, Pfändung, Zwangsvollstreckung auf Antrag der Justiz.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§48",
+              "title": "Opferschutz",
+              "description": "Opfer erhalten psychosoziale Betreuung und Schutzmaßnahmen.\nAnsprechpartner: Opferschutzstelle im Justizzentrum Eisenfurt\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§49",
+              "title": "Rechtsmittel",
+              "description": "Zulässig für Staatsanwaltschaft & Angeklagte:\n- Beschwerde\n- Revision\n- Widerspruch (bei Strafbefehl)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§50",
+              "title": "Keine Vollzugshemmung",
+              "description": "Rechtsmittel hemmen Vollstreckung nicht automatisch. Aufschub nur durch gerichtliche Anordnung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§51",
+              "title": "Zulässigkeit",
+              "description": "Gegen richterliche Beschlüsse, soweit nicht ausgeschlossen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§52",
+              "title": "Verfahren",
+              "description": "Einlegung beim Gericht. Bei Ablehnung → Vorlage an höhere Instanz.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§53",
+              "title": "Zulässigkeit",
+              "description": "Nur bei gesetzlicher Grundlage.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§54",
+              "title": "Form & Frist",
+              "description": "Schriftlich binnen 1 Tag, mit Begründung. Verlängerung möglich.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§55",
+              "title": "Revisionsgründe",
+              "description": "Gesetzesverstoß (materiell oder formell)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§56",
+              "title": "Gegenerklärung",
+              "description": "Gegner erhalten Gelegenheit zur Gegendarstellung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§57",
+              "title": "Entscheidung",
+              "description": "Zulässige Revision → neues Urteil\nUnzulässig → Abweisung",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§58",
+              "title": "Inkrafttreten",
+              "description": "Diese Strafprozessordnung gilt im gesamten Staatsgebiet Eisenfels RP und tritt mit Veröffentlichung in Kraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
