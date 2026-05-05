@@ -3446,11 +3446,11 @@
             {
               "paragraph": "§12d",
               "title": "Geschwindigkeitsüberschreitungen - 31-50 km/h über dem Limit",
-              "description": "",
+              "description": "Haftzeit nur bei Wiederholung innerhalb von 4 Wochen",
               "minFine": "1500 €",
               "maxFine": "2500 €",
               "jailMinutes": "0-15",
-              "points": "0-1"
+              "points": "1-1"
             },
             {
               "paragraph": "§12e",
@@ -3489,12 +3489,525 @@
               "points": "0-1"
             },
             {
-              "paragraph": "§",
-              "title": "Neuer Paragraph",
+              "paragraph": "§13c",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Vorfahrtmissachtung",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§13d",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Falsches Abbiegen oder Wenden an gesperrten Stellen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§13e",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Fahren entgegen der Fahrtrichtung (Geisterfahrer)",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§13f",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Nichtbeachten von Verkehrsschildern",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§13g",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Nichtanhalten an einem Fußgängerüberweg",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§14a",
+              "title": "Fahrzeugbezogene Delikte - Fahren ohne Fahrerlaubnis",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§14b",
+              "title": "Fahrzeugbezogene Delikte - Fahren ohne gültige Fahrzeugzulassung",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§14c",
+              "title": "Fahrzeugbezogene Delikte - Führen eines nicht fahrtauglichen Fahrzeugs - Schwere Mängel",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§14d",
+              "title": "Fahrzeugbezogene Delikte - Führen eines nicht fahrtauglichen Fahrzeugs - Lebensgefährliche Mängel",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§14e",
+              "title": "Fahrzeugbezogene Delikte - Manipulierte Fahrzeuge (illegale Tuning-Maßnahmen)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§15a",
+              "title": "Delikte durch Wohnmobile und LKWs - Illegales Parken mit einem LKW oder Wohnmobil auf Gehwegen oder in Wohngebieten",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§15b",
+              "title": "Delikte durch Wohnmobile und LKWs - Missachtung von Durchfahrtsverboten für LKWs",
+              "description": "",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§15c",
+              "title": "Delikte durch Wohnmobile und LKWs - Übernachten in Wohnmobilen auf nicht dafür vorgesehenen Flächen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§15d",
+              "title": "Delikte durch Wohnmobile und LKWs - Umweltschädliches Verhalten (z. B. übermäßiges Laufenlassen des Motors in Wohngebieten)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16a",
+              "title": "Delikte durch Motorräder und Fahrräder - Fahren ohne Helm (Motorradfahrer)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16b",
+              "title": "Delikte durch Motorräder und Fahrräder - Illegales Befahren von Gehwegen mit Motorrädern oder Fahrrädern",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16c",
+              "title": "Delikte durch Motorräder und Fahrräder - Fahren ohne Licht in der Nacht",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16d",
+              "title": "Delikte durch Motorräder und Fahrräder - Wheelies oder Stunts im Straßenverkehr",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16e",
+              "title": "Delikte durch Motorräder und Fahrräder - Fahren unter Alkohol- oder Drogeneinfluss",
+              "description": "",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§16f",
+              "title": "Delikte durch Motorräder und Fahrräder - Missachtung von Vorfahrtsregeln durch Fahrradfahrer",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§16g",
+              "title": "Delikte durch Motorräder und Fahrräder - Illegale Rennen mit Motorrädern",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17a",
+              "title": "Gefährdung im Straßenverkehr - Drängeln oder aggressives Fahrverhalten",
+              "description": "",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17b",
+              "title": "Gefährdung im Straßenverkehr - Illegale Straßenrennen",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17c",
+              "title": "Gefährdung im Straßenverkehr - Fahren unter Alkohol- oder Drogeneinfluss",
+              "description": "",
+              "minFine": "3000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17d",
+              "title": "Gefährdung im Straßenverkehr - Fahrerflucht nach Unfall",
+              "description": "",
+              "minFine": "3000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17e",
+              "title": "Gefährdung im Straßenverkehr - Unfall verursacht",
+              "description": "",
+              "minFine": "3000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§17f",
+              "title": "Gefährdung im Straßenverkehr - Betreten von Sperrzonen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§17g",
+              "title": "Gefährdung im Straßenverkehr - Betreten oder Befahren einer Autobahn als Fußgänger",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§17h",
+              "title": "Gefährdung im Straßenverkehr - Fahren ohne Licht in der Nacht",
+              "description": "",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§18a",
+              "title": "Delikte durch Wasserfahrzeuge - Missachtung von Hafeneinfahrts- oder Fahrtroutenregelungen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "2500 €",
+              "maxFine": "3500 €",
+              "jailMinutes": "",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§18b",
+              "title": "Delikte durch Wasserfahrzeuge - Fahren unter Alkohol- oder Drogeneinfluss (Wasserfahrzeuge)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "3000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§18c",
+              "title": "Delikte durch Wasserfahrzeuge - Ankern in verbotenen Zonen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§18d",
+              "title": "Delikte durch Wasserfahrzeuge - Umweltverschmutzung durch Öl- oder Treibstoffaustritt",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§18e",
+              "title": "Delikte durch Wasserfahrzeuge - Missachtung von Rettungskräften auf dem Wasser",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "3000 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§19a",
+              "title": "Delikte durch Flugzeuge und Hubschrauber - Start oder Landung an nicht genehmigten Orten",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "10.000 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§19b",
+              "title": "Delikte durch Flugzeuge und Hubschrauber - Fliegen ohne Fluglizenz",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-15",
+              "points": ""
+            },
+            {
+              "paragraph": "§19c",
+              "title": "Delikte durch Flugzeuge und Hubschrauber - Gefährdung anderer durch zu niedrige Flugmanöver",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-15",
+              "points": ""
+            },
+            {
+              "paragraph": "§19d",
+              "title": "Delikte durch Flugzeuge und Hubschrauber - Absturz durch Fahrlässigkeit",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "10.000 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§19e",
+              "title": "Delikte durch Flugzeuge und Hubschrauber - Umweltschädliches Verhalten durch Luftfahrzeuge",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-15",
+              "points": ""
+            },
+            {
+              "paragraph": "§20a",
+              "title": "Parkdelikte - Parken mit abgelaufener Parkuhr",
+              "description": "",
+              "minFine": "500 €",
+              "maxFine": "1000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§20b",
+              "title": "Parkdelikte - Parken auf einem Behindertenparkplatz ohne Berechtigung",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§20c",
+              "title": "Parkdelikte - Falschparken in einer Feuerwehrzufahrt",
+              "description": "",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-20",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§20d",
+              "title": "Parkdelikte - Parken auf einem Zebrastreifen oder Fußgängerüberweg",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§21a",
+              "title": "Verstöße für Fußgänger - Missachtung einer roten Ampel (Fußgänger)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§21b",
+              "title": "Verstöße für Fußgänger - Betreten einer Autobahn oder Schnellstraße",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§21c",
+              "title": "Verstöße für Fußgänger - Verursachen eines Unfalls durch Unachtsamkeit",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0-20",
+              "points": ""
+            },
+            {
+              "paragraph": "§21d",
+              "title": "Verstöße für Fußgänger - Überqueren der Straße außerhalb eines Fußgängerüberwegs (bei starkem Verkehr)",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§21e",
+              "title": "Verstöße für Fußgänger - Laufen auf der Fahrbahn bei vorhandenem Gehweg",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§22a",
+              "title": "Technische Überwachung - bis 24 Stunden überfällig",
               "description": "",
               "minFine": "",
-              "maxFine": "",
+              "maxFine": "2000 €",
               "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§22b",
+              "title": "Technische Überwachung - bis 7 Tage überfällig überfällig",
+              "description": "",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§22c",
+              "title": "Technische Überwachung - mehr als 7 tage überfällig",
+              "description": "",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "",
+              "points": "1"
+            },
+            {
+              "paragraph": "§22d",
+              "title": "Technische Überwachung - mehr als 14 Tage überfällig:",
+              "description": "",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "10",
+              "points": "1"
+            },
+            {
+              "paragraph": "§23a",
+              "title": "Umweltverstöße - Unnötiges Hupen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§23b",
+              "title": "Umweltverstöße - Hinterlassen von Öl- oder Benzinflecken",
+              "description": "",
+              "minFine": "10.000 €",
+              "maxFine": "20.000 €",
+              "jailMinutes": "0-40",
+              "points": "1-2"
+            },
+            {
+              "paragraph": "§23c",
+              "title": "Umweltverstöße - Driften oder Burnouts auf öffentlichem Grund",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§24a",
+              "title": "Verstöße gegen die öffentliche Ordnung - Öffentliches Urinieren",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§24b",
+              "title": "Verstöße gegen die öffentliche Ordnung - Erregung öffentlichen Ärgernisses",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": ""
+            },
+            {
+              "paragraph": "§24c",
+              "title": "Verstöße gegen die öffentliche Ordnung - Betteln in verbotenen Zonen",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
               "points": ""
             }
           ],
