@@ -4019,7 +4019,98 @@
           "body": "",
           "media": [],
           "description": "Das Betäubungsmittelgesetz Eisenfels RP (BtMG-ESF) regelt den Umgang mit Betäubungsmitteln innerhalb des Staatsgebiets Eisenfurt. Es legt fest, welche Stoffe als Betäubungsmittel gelten und unter welchen Voraussetzungen deren Erwerb, Besitz, Handel und Verwendung erlaubt oder verboten sind.\n\nZiel dieses Gesetzes ist es, die Gesundheit der Bevölkerung zu schützen, den Missbrauch von Betäubungsmitteln zu verhindern und den illegalen Handel wirksam zu bekämpfen. Gleichzeitig schafft es klare rechtliche Rahmenbedingungen für den Umgang mit diesen Stoffen und stellt sicher, dass Verstöße konsequent geahndet werden.\n\nDas BtMG-ESF orientiert sich an grundlegenden Prinzipien wie dem Schutz der öffentlichen Sicherheit und Ordnung, der Verhältnismäßigkeit staatlicher Maßnahmen sowie der Prävention und Aufklärung. Es dient sowohl der Abschreckung als auch der Kontrolle, um drogenbedingte Gefahren für Individuen und die Gesellschaft zu minimieren.\n\nMit seinem Inkrafttreten gilt dieses Gesetz als verbindliche Grundlage für alle Regelungen im Zusammenhang mit Betäubungsmitteln im Staat Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck des Gesetzes",
+              "description": "Dieses Gesetz regelt den Umgang mit Betäubungsmitteln auf dem Staatsgebiet von Eisenfurt. Ziel ist der Schutz der öffentlichen Gesundheit und Sicherheit bei gleichzeitiger Wahrung individueller Freiheitsrechte.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Begriffsbestimmungen",
+              "description": "(1) Betäubungsmittel im Sinne dieses Gesetzes sind u. a.:\n- Cannabis (Marihuana, Haschisch),\n- Kokain,\n- Heroin,\n- LSD,\n- MDMA (Ecstasy),\n- Psilocybinhaltige Pilze,\n- Methamphetamin (Crystal Meth) und Abkömmlinge,\n- Morphin und vergleichbare Opioide.\n\n(2) Eine Konsumeinheit entspricht einem einzelnen haushaltsüblichen Konsumvorgang (z. B. ein Joint).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Besitz von Cannabis",
+              "description": "(1) Der Besitz von bis zu zehn (10) Cannabis-Joints pro Person wird nicht strafrechtlich verfolgt, sofern der Erwerb in einem lizenzierten Weedshop erfolgt ist.\n\n(2) Sonderregelungen sind ausschließlich durch Genehmigung der Justizverwaltung Eisenfurt möglich.\n\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3a ",
+              "title": "Übermäßiger Besitz von Cannabis",
+              "description": "Besitz über dieser Grenze der Freimenge hinaus wird mit Geldstrafe bis zu 5000 € und/oder Freiheitsstrafe bis zu 20 Hafteinheiten geahndet.",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§3b",
+              "title": "Handel von Cannabis",
+              "description": "Besteht Handelsabsicht, erhöht sich die Strafe auf bis zu 10.000 € Geldstrafe und/oder 40 Hafteinheiten Freiheitsstrafe.",
+              "minFine": "",
+              "maxFine": "10.000 €",
+              "jailMinutes": "40",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Anbau von Cannabis",
+              "description": "(1) Der private Anbau von bis zu zwei (2) Cannabispflanzen pro volljährige Person ist zulässig.\n\n(2) Anbau ist ausschließlich für Eigenbedarf erlaubt.\n\n(3) Weitergabe oder Verkauf ist verboten und wird mit bis zu 20 Hafteinheiten Freiheitsstrafe und/oder 5000 € Geldstrafe bestraft.\n\n(4) Sonderregelungen erfordern eine behördliche Genehmigung durch die Justizverwaltung Eisenfurt.\n",
+              "minFine": "",
+              "maxFine": "5000 €",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Konsum in der Öffentlichkeit",
+              "description": "(1) Der Konsum von Cannabis ist verboten an/in:\n- Schulen, Kitas, Spielplätzen (Mindestabstand 100 m),\n- öffentlichen Verkehrsmitteln, \n- Behörden und staatlichen Gebäuden.\n\n(2) Der Konsum kann in ausgewiesenen Konsumzonen gestattet werden.\n\n(3) Zuwiderhandlungen werden mit Geldstrafe bis zu 2500 € und/oder Freiheitsstrafe bis zu 10 Hafteinheiten geahndet.\n",
+              "minFine": "",
+              "maxFine": "2500 €",
+              "jailMinutes": "10",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Straftatbestände",
+              "description": "(1) Mit bis zu 30 Hafteinheiten Freiheitsstrafe oder 7500 € Geldstrafe wird bestraft, wer:\n- mit Betäubungsmitteln handelt,\n- Betäubungsmittel in nicht geringer Menge ohne Genehmigung besitzt,\n- verbotene Substanzen herstellt oder anbaut (außerhalb § 4).\n \n(2) Sondergenehmigungen können nur durch ddie Justizverwaltung Eisenfurt erteilt werden.",
+              "minFine": "",
+              "maxFine": "7500 €",
+              "jailMinutes": "30",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Medizinische Verwendung",
+              "description": "(1) Die medizinische Nutzung von Betäubungsmitteln ist ausschließlich auf ärztliche Verordnung und mit behördlicher Genehmigung zulässig.\n\n(2) Der Missbrauch solcher Genehmigungen wird strafrechtlich verfolgt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit Verkündung durch die Justizverwaltung Eisenfurt in Kraft und ersetzt sämtliche bisherigen betäubungsmittelrechtlichen Regelungen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
