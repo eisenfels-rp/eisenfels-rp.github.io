@@ -3315,8 +3315,27 @@
           "title": "Ordnungswidrigkeitengesetz",
           "body": "",
           "media": [],
-          "description": "# Ordnungswidrigkeitengesetz\n\nInhalt im CMS eintragen. Bilder, Videos und weitere Abschnitte können ergänzt werden.",
-          "paragraphs": [],
+          "description": "Das Ordnungswidrigkeitengesetz Eisenfels RP (OWiG-ESF) regelt die Ahndung von geringfügigeren Rechtsverstößen innerhalb des Staatsgebiets Eisenfurt. Es ergänzt das Strafrecht, indem es Verhaltensweisen erfasst, die zwar rechtswidrig sind, jedoch nicht die Schwere einer Straftat erreichen.\n\nZiel dieses Gesetzes ist es, die öffentliche Ordnung und Sicherheit durch verhältnismäßige und effiziente Maßnahmen aufrechtzuerhalten. Ordnungswidrigkeiten sollen schnell, unbürokratisch und angemessen sanktioniert werden, insbesondere durch Geldbußen oder andere verwaltungsrechtliche Maßnahmen.\n\nDas OWiG-ESF orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie der Verhältnismäßigkeit, der Gleichbehandlung sowie dem Anspruch auf rechtliches Gehör. Gleichzeitig dient es der Prävention, indem es Fehlverhalten frühzeitig sanktioniert und so zur Einhaltung der geltenden Regeln beiträgt.\n\nMit seinem Inkrafttreten gilt das Ordnungswidrigkeitengesetz als verbindliche Grundlage für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Staat Eisenfurt.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck des Gesetzes",
+              "description": "Dieses Gesetz dient der Aufrechterhaltung der öffentlichen Ordnung, Sicherheit, Sauberkeit und des geordneten Zusammenlebens im gesamten Staatsgebiet von Eisenfurt. Es regelt die Verfolgung und Ahndung von Ordnungswidrigkeiten, die weder Straftaten noch verwaltungsrechtliche Verstöße darstellen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Geltungsbereich",
+              "description": "Dieses Gesetz gilt serverweit in allen Städten und Gemeinden von Inselleben RP, insbesondere in:\n Bitterhafen, Stahlfurt, Sturmhagen, Schwarzstedt, Strandfurt, Kronhafen und Galapagos.\n Es findet auf natürliche und juristische Personen Anwendung, soweit sie dort handeln, wohnen oder geschäftlich tätig sind.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
