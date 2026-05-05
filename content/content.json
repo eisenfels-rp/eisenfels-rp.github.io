@@ -4760,6 +4760,17 @@
       "location": "Rettungswache Eisenfurt",
       "summary": "Platzhalter-Termin.",
       "body": "Details können im CMS ergänzt werden."
+    },
+    {
+      "factionId": "justiz",
+      "slug": "events-bdmvfi",
+      "title": "testtermin",
+      "date": "2026-01-01",
+      "time": "20:00",
+      "location": "sdcsd",
+      "summary": "sdef wefyefyewwea\na ewf ew\nwea de",
+      "body": "ewfes\nfewyfew\nfeywf\newf\newf\newfe",
+      "media": []
     }
   ],
   "trainings": [
