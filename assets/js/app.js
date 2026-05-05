@@ -5,7 +5,7 @@ const $ = (s)=>document.querySelector(s);
 const hash = ()=>decodeURIComponent(location.hash.replace(/^#\/?/,'') || 'startseite');
 
 async function init(){
-  DATA = await fetch('/content/content.json', {cache:'no-store'}).then(r=>r.json());
+  DATA = await fetch('/content/content.json?v=' + Date.now(), {cache:'no-store'}).then(r=>r.json());
   renderShell();
   render();
   window.addEventListener('hashchange', render);
