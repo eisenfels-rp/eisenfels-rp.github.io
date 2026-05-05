@@ -3329,7 +3329,169 @@
             {
               "paragraph": "§2",
               "title": "Geltungsbereich",
-              "description": "Dieses Gesetz gilt serverweit in allen Städten und Gemeinden von Inselleben RP, insbesondere in:\n Bitterhafen, Stahlfurt, Sturmhagen, Schwarzstedt, Strandfurt, Kronhafen und Galapagos.\n Es findet auf natürliche und juristische Personen Anwendung, soweit sie dort handeln, wohnen oder geschäftlich tätig sind.",
+              "description": "Dieses Gesetz gilt serverweit in allen Städten und Gemeinden von Eisenfels RP, insbesondere in:\nEisenfurt, Glutheim, Hohenriff, Klippenruh, Wolkenstieg, Bruchweide, Nordwacht, Trübsee und Kaltes Ende.\n\nEs findet auf natürliche und juristische Personen Anwendung, soweit sie dort handeln, wohnen oder geschäftlich tätig sind.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Definition Ordnungswidrigkeit",
+              "description": "(1) Eine Ordnungswidrigkeit ist eine rechtswidrige und vorwerfbare Handlung, die den in diesem Gesetz oder im Bußgeldkatalog beschriebenen Tatbeständen entspricht und mit einer Geldbuße geahndet werden kann.\n\n(2) Die Ahndung dient der Prävention und Verhaltenskorrektur zur Wahrung der öffentlichen Ordnung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Voraussetzungen der Verfolgung",
+              "description": "(1) Ordnungswidrigkeiten werden verfolgt, wenn ein öffentliches Interesse besteht.\n\n(2) Die zuständigen Behörden können von einer Verfolgung absehen, wenn der Verstoß geringfügig ist.\n\n(3) Die Verjährungsfrist beträgt 4 Wochen ab Tatzeitpunkt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Zuständige Behörden",
+              "description": "Für die Verfolgung und Ahndung von Ordnungswidrigkeiten sind zuständig:\ndie Polizeibehörden,\ndie Justizbehörden,\ndie Stadtverwaltung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Höhe der Geldbuße",
+              "description": "(1) Die Höhe der Geldbußen richtet sich nach dem offiziellen Bußgeldkatalog Ordnungswidrigkeiten Eisenfels RP.\n\n(2) Die Bußgelder betragen in der Regel zwischen 50 € und 5000 €.\n\n(3) Bei Wiederholten Verstößen kann auch eine Haftstrafe verhängt werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Verfahren",
+              "description": "(1) Die Ahndung erfolgt durch schriftlichen Bußgeldbescheid, entweder vor Ort oder per elektronischer Zustellung.\n\n(2) Gegen einen Bußgeldbescheid kann binnen 48 Stunden nach Zustellung Einspruch schriftlich oder digital eingelegt werden.\n\n(3) Wird kein Einspruch erhoben, wird der Bescheid rechtskräftig und vollstreckbar.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Wiederholung und beharrliches Verhalten",
+              "description": "(1) Wird innerhalb von 4 Wochen nach Rechtskraft dieselbe Ordnungswidrigkeit erneut begangen, kann die Geldbuße verdoppelt werden.\n\n(2) Bei beharrlichen Wiederholungen kann die zuständige Behörde Maßnahmen zur Gefahrenabwehr verhängen, z. B.:\n- Platzverweise\n- Aufenthaltsverbote\n- temporäre Ausweisungen aus Zonen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Punkte bei Verkehrsverstößen",
+              "description": "(1) Für Ordnungswidrigkeiten im Straßenverkehr gilt ein serverinternes Punktesystem.\n\n(2) Je nach Schwere der Tat werden 1 bis 2 Punkte im Verkehrszentralregister eingetragen.\n\n(3) Ab 8 Punkten kann ein Fahrverbot, eine Führerscheinprüfung oder eine MPU (medizinisch-psychologische Untersuchung) angeordnet werden.\n\n(4) Es wird nicht addiert, sondern stets die höchste Eintragung gewertet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Verweis auf Anhang",
+              "description": "Die konkreten Tatbestände, Bußgeldsätze und mögliche Punktevergaben sind dem offiziellen\n„Bußgeldkatalog Ordnungswidrigkeiten Eisenfels RP“ zu entnehmen, welcher sich im Anhang dieses Gesetzes befindet.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit seiner Verkündung durch die zuständige Behörde in Kraft und ersetzt das OWiG in Gänze.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12a",
+              "title": "Geschwindigkeitsüberschreitungen - Bis 10 km/h über dem Limit",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§12b",
+              "title": "Geschwindigkeitsüberschreitungen - 11-20 km/h über dem Limit",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§12c",
+              "title": "Geschwindigkeitsüberschreitungen - 21-30 km/h über dem Limit",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§12d",
+              "title": "Geschwindigkeitsüberschreitungen - 31-50 km/h über dem Limit",
+              "description": "",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-15",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§12e",
+              "title": "Geschwindigkeitsüberschreitungen - Mehr als 50 km/h über dem Limit",
+              "description": "",
+              "minFine": "1500 €",
+              "maxFine": "2500 €",
+              "jailMinutes": "0-15",
+              "points": "1"
+            },
+            {
+              "paragraph": "§12f",
+              "title": "Geschwindigkeitsüberschreitungen - Raserei (mehr als 80 km/h über dem Limit)",
+              "description": "",
+              "minFine": "2000 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "0-20",
+              "points": "2"
+            },
+            {
+              "paragraph": "§13a",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Missachtung eines Stoppschilds",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§13b",
+              "title": "Verstöße gegen die Straßenverkehrsordnung - Missachtung einer roten Ampel",
+              "description": "Haftzeit und Punkte nur bei Wiederholung innerhalb von 4 Wochen",
+              "minFine": "1000 €",
+              "maxFine": "2000 €",
+              "jailMinutes": "0-10",
+              "points": "0-1"
+            },
+            {
+              "paragraph": "§",
+              "title": "Neuer Paragraph",
+              "description": "",
               "minFine": "",
               "maxFine": "",
               "jailMinutes": "",
