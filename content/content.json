@@ -6810,7 +6810,9 @@
       "name": "Gewerbeaufsicht",
       "description": "Überwacht gewerbliche Tätigkeit und Auflagen.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "gewerbeaufsicht",
+      "icon": ""
     },
     {
       "factionId": "justiz",
