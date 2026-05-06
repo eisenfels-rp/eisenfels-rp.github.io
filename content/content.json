@@ -745,8 +745,15 @@
       "showInSidebar": true,
       "type": "page",
       "accent": "orange",
-      "body": "# Neue Seite",
-      "media": [],
+      "body": "Das Amtsgericht der Justiz Eisenfurt bildet die erste Instanz der ordentlichen Gerichtsbarkeit innerhalb des Staatsgebiets. Es ist zuständig für die Verhandlung und Entscheidung zahlreicher zivil-, straf- und familienrechtlicher Angelegenheiten und stellt damit einen zentralen Bestandteil der Rechtspflege und des Rechtsstaates dar.\n\nIm Mittelpunkt der Arbeit des Amtsgerichts stehen faire Verfahren, unabhängige Entscheidungen und die konsequente Anwendung geltenden Rechts. Bürger:innen erhalten hier die Möglichkeit, ihre Rechte durchzusetzen, rechtliche Streitigkeiten klären zu lassen und gerichtlichen Schutz in Anspruch zu nehmen.\n\nDas Amtsgericht der Justiz Eisenfurt arbeitet auf Grundlage der geltenden Gesetzbücher und Verfahrensordnungen und gewährleistet eine unparteiische, transparente und rechtsstaatliche Verfahrensführung. Dabei stehen die Wahrung der Grundrechte, die Gleichbehandlung aller Beteiligten sowie die Sicherung von Recht und Ordnung im Vordergrund.\n\nUnsere Richter:innen und Mitarbeiter:innen handeln unabhängig, gewissenhaft und im Interesse einer gerechten sowie bürgernahen Justiz.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/84fBb8BV/j3.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/svT61Jps/Chat-GPT-Image-6-Mai-2026-21-22-24.png"
