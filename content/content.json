@@ -315,9 +315,9 @@
       "type": "contact",
       "factionId": "justiz",
       "accent": "orange",
-      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt.",
-      "logo": "",
-      "banner": "",
+      "body": "# Kontakt\n\nDie Kontaktstelle der Justiz Eisenfurt dient als zentrale Anlaufstelle für Fragen, Anliegen und behördliche Kontaktaufnahmen rund um die Justiz und ihre Fachbereiche. \n\nBürger:innen, Unternehmen und Fraktionen erhalten hier Unterstützung sowie die Möglichkeit, sich direkt an die zuständigen Stellen zu wenden.",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/Nddg1ZJd/Chat-GPT-Image-6-Mai-2026-23-27-12.png",
       "media": []
     },
     {
