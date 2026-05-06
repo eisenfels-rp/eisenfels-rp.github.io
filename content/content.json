@@ -6748,7 +6748,9 @@
       "name": "Vollzugsdienst Naturschutz",
       "description": "Kontrolliert Naturschutz, Wildschutz und Umweltvorgaben.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "vollzugsdienst-naturschutz",
+      "icon": ""
     },
     {
       "factionId": "justiz",
