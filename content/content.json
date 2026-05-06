@@ -4424,7 +4424,107 @@
           "body": "",
           "media": [],
           "description": "Das Bundessicherheitsgesetz Inselleben RP (BSG-IL) regelt die Maßnahmen und Zuständigkeiten zur Wahrung der inneren und äußeren Sicherheit des Staates Inselleben RP. Es schafft die rechtliche Grundlage für das Zusammenwirken staatlicher Sicherheitsbehörden sowie für besondere Sicherheitsmaßnahmen zum Schutz der Bevölkerung, staatlicher Einrichtungen und kritischer Infrastruktur.\n\nZiel dieses Gesetzes ist es, Gefahren für die öffentliche Sicherheit frühzeitig zu erkennen, abzuwehren und die Stabilität sowie Handlungsfähigkeit des Staates dauerhaft zu gewährleisten. Das BSG-IL dient insbesondere der Bekämpfung schwerer Bedrohungen wie organisierter Kriminalität, Terrorismus, schwerer Gewaltkriminalität sowie Angriffen auf staatliche Einrichtungen und die öffentliche Ordnung.\n\nDas Gesetz orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie der Verhältnismäßigkeit, der Gesetzmäßigkeit staatlichen Handelns sowie dem Schutz der Freiheitsrechte der Bürger:innen. Gleichzeitig schafft es klare Zuständigkeiten und Befugnisse für Sicherheitsbehörden und ermöglicht ein koordiniertes Vorgehen in Gefahren- und Krisensituationen.\n\nMit seinem Inkrafttreten gilt das Bundessicherheitsgesetz Eisenfels RP als verbindliche Grundlage für alle sicherheitsrelevanten Maßnahmen und staatlichen Schutzaufgaben im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck und Geltungsbereich",
+              "description": "(1) Dieses Gesetz regelt die Aufgaben, Befugnisse, Organisation und Einsatzgrundlagen der Polizei- & Justizbehörden Eisenfurt im Rahmen des erweiterten Sicherheitsverbundes innerhalb des Staatsgebiets von Eisenfurt.\n\n(2) Es gilt für alle sicherheitsrelevanten Aufgaben mit bundesweiter Bedeutung in den Bereichen:\n- Bahn-, Luft- und Seewegüberwachung\n- Grenzraum- und Objektschutz\n- Terrorabwehr\n- Koordination von Großlagen und überregionalen Bedrohungslagen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§",
+              "title": "Aufgaben der Polizei- & Justizbehörden",
+              "description": "Die Polizei übernimmt insbesondere folgende Aufgaben:\n- Schutz und Überwachung von Bahnhöfen, Flugplätzen, Häfen und Verkehrsumschlagplätzen\n- Koordination und Sicherung besonders gefährdeter Infrastrukturen\n- Kontrolle und Absicherung des überregionalen Personen- und Gütertransports\n- Unterstützung der örtlichen Polizeidienste bei Großlagen, Versammlungen, Katastrophen\n- Einsatz bei Bedrohung durch organisierte Kriminalität, Terrorismus oder Extremismus\n- Gewährleistung der Luftsicherheit und Schutz staatlicher Einrichtungen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Struktur und Zuständigkeit",
+              "description": "(1) Die Grenzschutzeinheit ist eine Sonderbehörde der Polizei Eisenfurt mit inselweiten und länderübergreifenden Vollzugsbefugnissen.\n\n(2) Sie arbeitet in enger Abstimmung mit:\n- Stadtpolizei\n- Zolleinheit\n- der Kriminalpolizei\nanderen Sicherheitsbehörden auf dem Gebiet von Eisenfurt",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Befugnisse",
+              "description": "(1) Beamte der BPI sind befugt:\n- Identitätsfeststellungen durchzuführen\n- Personen-, Fahrzeug- und Gepäckkontrollen vorzunehmen\n- Kontrollzonen und Sicherheitsbereiche temporär zu errichten\n- Transportmittel zu durchsuchen\n- Aufenthaltsverbote oder Platzverweise auszusprechen\n- bei Gefahr im Verzug Räumlichkeiten, Fahrzeuge und Anlagen zu betreten\n- Zugriffstechniken und Bodycams einzusetzen\n \n(2) Die hat erweiterten Zugriff auf sicherheitsrelevante Datenbanken des Justizzentrums und der polizeilichen Führungseinheiten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Sonderbefugnisse",
+              "description": "(1) Bei inselweiten oder länderübergreifenden Gefahrenlagen übernimmt die Grenzschutzeinheit eigenständig die polizeiliche Einsatzleitung.\n\n(2) Bei konkreten Bedrohungslagen durch Terror, organisierte Kriminalität, Sabotageakte oder Infrastrukturausfälle darf die Grenzschutzeinheit:\n- Spezialkräfte anfordern\n- Notfallpläne aktivieren\n- Sicherheitsprotokolle gemäß Stufe 1–4 einleiten\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6a",
+              "title": "Ordnungswidrigkeiten - Missachtung eines Platzverweises",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6b",
+              "title": "Ordnungswidrigkeiten - Verweigerung der Identitätsfeststellung",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6c",
+              "title": "Ordnungswidrigkeiten - Behinderung von Bundespolizeikräften",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "7500 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Strafbestimmungen",
+              "description": "(1) Wer vorsätzlich:\n- Kontrollzonen der Grenzschutzeinheit überwindet\n- Einrichtungen oder Personal der Grenzschutzeinheit angreift\n- Sabotageakte oder Anschläge im Zuständigkeitsbereich verübt\nbegeht eine Straftat.\n\n(2) Strafrahmen:\nFreiheitsstrafe bis zu 60 Hafteinheiten\nGeldstrafe bis zu 75.000 €\nEinziehung von Tatwerkzeugen (z. B. Fahrzeuge, Drohnen, Waffen, IT-Geräte)\n",
+              "minFine": "0 €",
+              "maxFine": "75.000 €",
+              "jailMinutes": "60",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Einsatzleitung & Koordination",
+              "description": "(1) Die Grenzschutzeinheit wird geleitet durch die Polizeileitstelle, die dauerhaft besetzt ist und Zugriff auf das Einsatz- und Meldesystem des Justizzentrums besitzt.\n\n(2) Einsätze werden je nach Gefahrenstufe in Abstimmung mit:\n- Stadtkoordination\n- Katastrophenschutzstab\n- Stadtverwaltung\n- Landespolizei oder Militärischer Sonderdiensteinheit\n- Justizverwaltung \ngeführt",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Inkrafttreten",
+              "description": "(1) Dieses Gesetz tritt mit Veröffentlichung im Gesetzesblatt von Eisenfels RP in Kraft.\n\n(2) Es steht übergeordnet zu folgenden Gesetzen, wenn es um bundesweite Sicherheitslagen oder übergeordnete Einsätze geht:\n- Polizeigesetz (PolG-ESF)\n- Zoll- und Handelsüberwachungsgesetz (ZHuG-ESF)\n- Grenzschutzgesetz (GrSchG-ESF)\n- Naturschutz- und Wildschutzgesetz (NatWildSchG-ESF)\n- Wasserschutzgesetz (WSchG-ESF)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
