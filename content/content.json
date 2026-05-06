@@ -7409,6 +7409,14 @@
       "discord": "",
       "email": "",
       "note": "Kann im CMS geändert werden."
+    },
+    {
+      "factionId": "justiz",
+      "name": "Leiter Vollzugsdienst Naturschutz",
+      "role": "Modchekiepchen",
+      "discord": "",
+      "email": "",
+      "note": "Details folgen"
     }
   ]
 }
