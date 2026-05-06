@@ -918,6 +918,28 @@
       "factionId": "",
       "logo": "https://i.ibb.co/WN8r65kB/vollzugsdienst.png",
       "banner": "https://i.ibb.co/SD9fTSRK/Chat-GPT-Image-6-Mai-2026-22-07-03.png"
+    },
+    {
+      "id": "seite-5paoy6",
+      "slug": "ordnungsbehoerde",
+      "title": "Ordnungsbehörde",
+      "parentId": "justiz-fachabteilungen",
+      "order": 11,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Ordnungsbehörde der Justiz Eisenfurt ist für die Aufrechterhaltung der öffentlichen Ordnung, Sicherheit und des geordneten Zusammenlebens innerhalb des Staatsgebiets zuständig. Als kommunale Vollzugs- und Verwaltungsbehörde sorgt sie dafür, dass gesetzliche Vorschriften, behördliche Anordnungen und städtische Regelungen konsequent eingehalten werden.\n\nZu den Aufgaben der Ordnungsbehörde gehören insbesondere:\n\n- die Überwachung öffentlicher Ordnung und Sicherheit,\n- die Kontrolle von Verkehrs-, Park- und Nutzungsvorschriften,\n- die Ahndung von Ordnungswidrigkeiten,\n- die Durchsetzung kommunaler Regelungen,\n- sowie präventive Maßnahmen zur Gefahrenabwehr und Konfliktvermeidung.\n\nDie Mitarbeiterinnen und Mitarbeiter der Ordnungsbehörde handeln bürgernah, sachlich und verantwortungsbewusst. Sie stehen Bürger:innen als Ansprechpartner zur Verfügung, fördern ein respektvolles Miteinander und sorgen für ein sicheres sowie geordnetes Stadtbild.\n\nDie Ordnungsbehörde der Justiz Eisenfurt verbindet moderne Verwaltungsarbeit mit konsequenter Rechtsdurchsetzung und trägt damit wesentlich zur Lebensqualität und Sicherheit innerhalb der Stadtgemeinschaft bei.\n\n**Recht durchsetzen. Ordnung schaffen. Gemeinsam handeln.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/VcMbRrhj/j4.png",
+          "caption": "Beschriftung",
+          "position": "top/bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/39RPtYVb/Chat-GPT-Image-4-Mai-2026-15-50-30.png",
+      "banner": "https://i.ibb.co/VYsxbFky/Chat-GPT-Image-6-Mai-2026-22-10-50.png"
     }
   ],
   "lawGroups": [
