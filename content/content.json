@@ -4243,7 +4243,179 @@
           "body": "",
           "media": [],
           "description": "Das Polizeigesetz Eisenfels RP (PolG-ESF) regelt die Aufgaben, Befugnisse und Pflichten der Polizeibehörden innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für das Handeln der Polizei- & Justizbehörden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie zum Schutz der Bürger:innen und staatlichen Einrichtungen.\n\nZiel dieses Gesetzes ist es, den Polizei- & Justizbehörden klare und rechtsstaatlich gebundene Handlungsmöglichkeiten zur Gefahrenabwehr und Strafverfolgung zu geben. Gleichzeitig gewährleistet das Polizeigesetz den Schutz der Grundrechte und stellt sicher, dass polizeiliche Maßnahmen verhältnismäßig, erforderlich und rechtmäßig erfolgen.\n\nDas PolG-ESF orientiert sich an fundamentalen Prinzipien wie dem Legalitätsprinzip, der Verhältnismäßigkeit staatlicher Eingriffe sowie der Bindung der Polizei- & Justizbehörden an Recht und Gesetz. Es definiert die Voraussetzungen polizeilicher Maßnahmen, die Rechte und Pflichten von Beamt:innen sowie die Zusammenarbeit mit anderen Behörden und Institutionen.\n\nMit seinem Inkrafttreten gilt das Polizeigesetz Eisenfels RP als verbindliche Grundlage für sämtliche polizeilichen Maßnahmen und Befugnisse im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich und Zweck",
+              "description": "(1) Dieses Gesetz gilt für das gesamte Staatsgebiet von Eisenfurt  einschließlich aller Städte, Gemeinden, Umlandzonen und maritimen Bereiche.\n\n(2) Es regelt Aufgaben, Organisation, Zuständigkeiten und Eingriffsrechte der Polizei- & Justizbehörden und aller damit verbundenen Sicherheitsorgane.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Polizeiliche Vollzugsorgane",
+              "description": "(1) Zur Polizei im Sinne dieses Gesetzes gehören:\n- Polizei Eisenfurt,\n- Justiz Eisenfurt,\n- Vollzugsdienst Naturschutz,\n- Küstenwache Eisenfurt (gebildet durch Polizei und Justiz Eisenfurt).\n\n (2) Alle Organe handeln unter einheitlichen Grundsätzen, mit spezifischen Aufgabenschwerpunkten gemäß ihren Fachgesetzen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Polizeiliche Aufgaben",
+              "description": "Die Polizei hat insbesondere zu schützen:\n- Leben, Gesundheit und Freiheit,\n- Eigentum und öffentliche Ordnung,\n- Funktionsfähigkeit staatlicher Einrichtungen,\n- Umwelt- und Naturgüter,\n- kritische Infrastruktur.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Neuer Paragraph",
+              "description": "(1) Polizeiliche Maßnahmen sind stets verhältnismäßig, erforderlich und geeignet.\n\n(2) Vorrangig sind Deeskalation, Aufklärung und präventive Gefahrenvermeidung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Identitätsfeststellung",
+              "description": "Die Polizei darf die Identität feststellen:\n- bei Verdacht auf Straftat oder Ordnungswidrigkeit,\n- zur Gefahrenabwehr,\n- an sensiblen Orten (Bahnhöfe, Events, Grenzbereiche).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Platzverweis und Aufenthaltsverbot",
+              "description": "(1) Ein Platzverweis darf erteilt werden, wenn dies zur Abwehr einer Gefahr erforderlich ist.\n\n(2) Wiederholtes Fehlverhalten kann ein befristetes Aufenthaltsverbot begründen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Gewahrsam",
+              "description": "(1) Gewahrsam ist zulässig zur:\n- Abwehr gegenwärtiger Gefahr,\n- Durchsetzung eines Platzverweises,\n- Verhinderung von Eigen- oder Fremdgefährdung.\n\n(2) Die Dauer darf 90 Minuten nicht überschreiten, sofern keine weitergehenden Maßnahmen richterlich angeordnet wurden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Durchsuchung und Sicherstellung",
+              "description": "(1) Die Polizei darf durchsuchen:\n- bei Gefahr im Verzug,\n- bei konkretem Verdacht auf gefährliche Gegenstände oder Beweismittel.\n\n(2) Sichergestellte Gegenstände sind unverzüglich zu dokumentieren und der Justiz zuzuführen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Bodycam und Dokumentationspflicht",
+              "description": "(1) Der Einsatz von Bodycams ist zulässig zur:\n- Eigensicherung,\n- Beweisdokumentation bei risikobehafteten Einsätzen.\n\n(2) Aufnahmen dürfen nur genutzt werden, wenn ein relevanter Vorfall vorliegt. Alle Maßnahmen sind schriftlich zu dokumentieren.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Einsatz bei Versammlungen",
+              "description": "(1) Die Polizei- & Justizbehörden können eingreifen, wenn:\n- öffentliche Sicherheit gefährdet ist,\n- Gewalt oder deren Androhung erfolgt,\n- Auflagen missachtet werden.\n\n(2) Zulässige Maßnahmen:\n- Platzverweise,\n- Absperrungen,\n- Versammlungsauflösung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Dienstvergehen",
+              "description": "Als Dienstvergehen gelten:\n- Pflichtverletzungen,\n- Missbrauch von Befugnissen,\n- unverhältnismäßige Gewaltanwendung,\n- Verstöße gegen den Ethikkodex.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Disziplinarmaßnahmen",
+              "description": "- Ermahnung,\n- schriftlicher Verweis,\n- Kürzung der Dienstbezüge,\n- Suspendierung,\n- Entlassung aus dem Dienst.\n\nDisziplinarmaßnahmen verhängt die Justiz- oder Stadtverwaltung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Gemeinsame Einsätze",
+              "description": "(1) Bei Großlagen, Versammlungen und Katastrophen erfolgt Koordination über die Justizverwaltung.\n\n(2) Gemeinsame Einsatzleitungen können temporär überregional eingerichtet werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15a",
+              "title": "Ordnungswidrigkeiten - Missachtung Platzverweis",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15b",
+              "title": "Ordnungswidrigkeiten - Verweigerung Personenkontrolle",
+              "description": "",
+              "minFine": "0 € ",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15c",
+              "title": "Ordnungswidrigkeiten - Behinderung Einsatzkräfte",
+              "description": "",
+              "minFine": "0",
+              "maxFine": "7500 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Polizeiliche Straftaten",
+              "description": "- Widerstand gegen Vollstreckungsbeamte,\n- tätlicher Angriff auf Polizei,\n- Störung von Maßnahmen,\n- Missbrauch von polizeilicher Ausrüstung.\nStrafrahmen: bis zu 45 Hafteinheiten oder Geldstrafe bis 50.000\n",
+              "minFine": "0 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "45",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Vorrang und Koordination mit Fachgesetzen",
+              "description": "Fachgesetze gelten vorrangig in ihren Spezialbereichen. Dieses Gesetz koordiniert übergreifend.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit Veröffentlichung in Kraft und ersetzt alle bisherigen Polizeivorschriften innerhalb von Eisenfels RP.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
