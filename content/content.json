@@ -4876,7 +4876,170 @@
           "slug": "wasserschutzgesetz",
           "title": "Wasserschutzgesetz",
           "description": "Das Wasserschutzgesetz Eisenfels RP (WaschG-ESF) regelt den Schutz, die Nutzung und die Überwachung der Gewässer innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für Maßnahmen zum Erhalt der Wasserqualität, zur Sicherung der Wasserversorgung sowie zum Schutz von Umwelt, Bevölkerung und staatlicher Infrastruktur vor wasserbezogenen Gefahren.\n\nZiel dieses Gesetzes ist es, Gewässer vor Verunreinigung, Missbrauch und rechtswidriger Nutzung zu schützen sowie eine nachhaltige und sichere Nutzung der Wasserressourcen sicherzustellen. Das WaschG-IL dient insbesondere der Gefahrenabwehr im Bereich der Schifffahrt, des Gewässerschutzes sowie der Kontrolle wassergefährdender Stoffe und Handlungen.\n\nDas Gesetz orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie der Verhältnismäßigkeit, dem Schutz der natürlichen Lebensgrundlagen sowie der Gesetzmäßigkeit staatlichen Handelns. Gleichzeitig schafft es klare Zuständigkeiten und Befugnisse für Behörden zur Durchführung von Kontroll-, Überwachungs- und Sicherungsmaßnahmen auf und an Gewässern.\n\nMit seinem Inkrafttreten gilt das Wasserschutzgesetz Eisenfels RP als verbindliche Grundlage für sämtliche wasserrechtlichen Schutz- und Sicherheitsmaßnahmen im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck des Gesetzes",
+              "description": "Dieses Gesetz regelt die Aufgaben, Befugnisse und Maßnahmen der Küstenwache Eisenfurt (KW-ESF) zur Sicherstellung von Ordnung, Sicherheit und Umweltschutz auf allen Wasserflächen und Hafenbereichen des Staates Eisenfurt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§",
+              "title": "Geltungsbereich",
+              "description": "Das Gesetz gilt auf allen Binnengewässern, Wasserstraßen, Küstenzonen, Schleusen, Brücken, Hafenanlagen und Anlegern im Staatsgebiet von Eisenfurt, einschließlich aller zugehörigen Inseln und maritimen Sonderzonen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Organisatorische Eingliederung",
+              "description": "Die KW-ESF ist eine Spezialeinheit innerhalb der Polizei Eisenfurt und der Justizverwaltung und handelt unter Erweiterung der Befugnisse nach dem Polizeigesetz Eisenfurt (PolG-ESF) für maritime Einsatzlagen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Aufgabenbereiche",
+              "description": "Die Küstenwache ist zuständig für:\n- Überwachung des Schiffs- und Bootsverkehrs\n- Kontrolle von Anlegevorgängen, Bootszulassungen und Besatzungsdokumenten\n- Aufklärung und Verfolgung von Umweltstraftaten auf Gewässern\n- Unterbindung von Fischereivergehen, Schmuggel, Fahrzeug- und Drogenhandel auf See\n- Schutz maritimer Infrastruktur (Häfen, Brücken, Schleusen etc.)\n- Notfall- und Rettungseinsätze, Wasserbergung, Leichenbergung\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Kooperationspflicht Dritter",
+              "description": "Betreiber von Häfen, Marinas, Reedereien, Werften und Wassersporteinrichtungen sind verpflichtet, auf Anforderung der KW-ESF relevante Daten, Zugang und Auskünfte zur Verfügung zu stellen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Boarding- und Kontrollrechte",
+              "description": "Die Küstenwache darf Wasserfahrzeuge jederzeit kontrollieren, betreten (Boarding) oder stoppen, wenn:\n- keine gültige Kennzeichnung oder Zulassung vorliegt\n- Umweltschäden oder Verstöße vermutet werden\n- Personen an Bord verdächtig erscheinen\n- der Verdacht auf Straftat oder Fluchtfahrzeug besteht\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Fahrzeugsicherstellung & Hafenzugriff",
+              "description": "(1) Boote oder Schiffe dürfen beschlagnahmt oder vorläufig stillgelegt werden, wenn:\n- sie ohne gültige Zulassung betrieben werden\n- sie für Straftaten verwendet wurden\n- Wiederholungstäter:innen an Bord sind\n\n(2) Hafenanlagen dürfen bei Gefahr im Verzug ohne richterliche Anordnung durchsucht werden\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Umwelt- und Fischereischutz",
+              "description": "Folgende Verstöße gelten als Ordnungswidrigkeit oder Straftat:\n- Überschreitung zulässiger Fangmengen\n- Nutzung verbotener Fanggeräte\n- Einleitung von Abwasser, Öl oder Müll\n- Beschädigung ökologisch geschützter Wasserzonen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9a",
+              "title": "Ordnungswidrigkeiten - Fahren ohne Bootszulassung",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9b",
+              "title": "Ordnungswidrigkeiten - Unerlaubtes Anlegen oder Verlassen von Anlegern",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "3000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9c",
+              "title": "Ordnungswidrigkeiten - Missachtung eines Boardingbefehls ",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "7500 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9d",
+              "title": "Ordnungswidrigkeiten - Umweltvergehen ",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Straftatbestände",
+              "description": "(1) Als Straftat gelten u. a.:\n- gewerbsmäßiger Schmuggel oder Transport illegaler Fracht auf See\n- Nutzung von Booten als Fluchtmittel bei Verbrechen\n- vorsätzliche Umweltverseuchung (z. B. Öleinleitungen)\n(2) Strafrahmen:\n- Freiheitsstrafe bis 45 Hafteinheiten\n- Geldstrafe bis 50.000 €\n- Einziehung des Boots, Verlust der Fahrerlaubnis\n",
+              "minFine": "0 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "0 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Dienstwaffeneinsatz",
+              "description": "(1) Waffen dürfen von Beamten der Polizei- & Justizbehörden nur nach erfolgreich absolvierter Fachausbildung geführt werden.\n\n(2) Langwaffen sind nur bei Gefährdungslagen oder auf Anordnung der Einsatzleitung erlaubt.\n\n(3) Der Waffeneinsatz ist umgehend zu dokumentieren und intern zu melden (nach Dienstanweisung).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Dienstaufsicht",
+              "description": "(1) Die Dienstaufsicht über die Küstenwache obliegt der Justizverwaltung Eisenfurt.\n\n(2) Pflichtverletzungen wie:\n- unbefugte Kontrollen\n- Missbrauch der Boardingrechte\n- fahrlässige Umweltvergehen durch Einsatzkräfte\nwerden disziplinarisch verfolgt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Disziplinarmaßnahmen",
+              "description": "Mögliche Disziplinarmaßnahmen sind:\n- Verwarnung\n- Versetzung\n- Dienstgradentzug\n- Suspendierung\n- Entfernung aus dem Dienst\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Vorrangregelung",
+              "description": "Dieses Gesetz tritt ergänzend zum Polizeigesetz (PolG-ESF) in Kraft, hat jedoch Vorrang in allen Fällen, die maritime Sicherheit, Umweltschutz oder Wasserverkehr betreffen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit Veröffentlichung im Gesetzesblatt Eisenfels RP in Kraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
