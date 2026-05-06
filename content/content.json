@@ -1007,6 +1007,21 @@
       "factionId": "stadtverwaltung",
       "logo": "",
       "banner": "https://i.ibb.co/B2F6pZW6/Chat-GPT-Image-6-Mai-2026-23-03-08.png"
+    },
+    {
+      "id": "seite-0u0q4p",
+      "slug": "developer",
+      "title": "Developer",
+      "parentId": "stadtverwaltung-fachbereiche",
+      "order": 10,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Developer\n\nDie Entwickler von Eisenfels RP sind für die technische Weiterentwicklung, Stabilität und Funktionalität des Servers verantwortlich. Sie arbeiten kontinuierlich an neuen Features, individuellen Scripts und technischen Verbesserungen, um das Roleplay-Erlebnis stetig zu erweitern und zu optimieren.\n\nZu den Aufgaben der Entwickler gehören insbesondere:\n\n- die Entwicklung neuer Systeme und Funktionen,\n- die Erstellung und Anpassung individueller Scripts,\n- die Verbesserung von Performance und Serverstabilität,\n- die Umsetzung neuer Gebäude, Maps und RP-Konzepte,\n- sowie die Fehleranalyse und technische Wartung des Servers.\n\nDie Developer arbeiten im Hintergrund an der Weiterentwicklung von Eisenfels RP und schaffen die technischen Grundlagen für innovatives, realistisches und hochwertiges Roleplay. Durch Kreativität, technisches Fachwissen und kontinuierliche Entwicklung sorgen sie dafür, dass der Server modern, stabil und einzigartig bleibt.\n\n*Entwickeln. Verbessern. Zukunft gestalten.*",
+      "media": [],
+      "factionId": "stadtverwaltung",
+      "logo": "",
+      "banner": "https://i.ibb.co/KcLSTSJm/Chat-GPT-Image-6-Mai-2026-23-06-14.png"
     }
   ],
   "lawGroups": [
