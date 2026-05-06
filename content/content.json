@@ -6293,9 +6293,137 @@
       ]
     },
     {
-      "id": "",
-      "title": "",
-      "laws": []
+      "id": "naturschutzrecht",
+      "title": "🌿 Naturschutzrecht",
+      "laws": [
+        {
+          "slug": "jagd-fischereigesetz",
+          "title": "Jagd- & Fischereigesetz",
+          "description": "Das Jagd- & Fischereigesetz Eisenfels RP (JFG-ESF) regelt die rechtmäßige Ausübung der Jagd und Fischerei innerhalb des Staatsgebiets Eisenfurt. Es schafft die rechtliche Grundlage für eine kontrollierte, nachhaltige und naturverträgliche Nutzung der Wild- und Fischbestände unter Wahrung des Natur- und Tierschutzes.\n\nZiel dieses Gesetzes ist es, den Erhalt des ökologischen Gleichgewichts sicherzustellen, Wilderei und illegale Fischerei zu verhindern sowie klare Voraussetzungen für die legale Ausübung der Jagd und Fischerei festzulegen. Gleichzeitig dient das Gesetz dem Schutz natürlicher Lebensräume und der Regulierung jagd- und fischereibezogener Tätigkeiten.\n\nDas JFG-ESF orientiert sich an grundlegenden Prinzipien wie Nachhaltigkeit, Verhältnismäßigkeit, Tierschutz sowie der Verantwortung gegenüber Natur und Umwelt. Die Ausübung der Jagd und Fischerei ist ausschließlich unter behördlicher Erlaubnis und unter Einhaltung der gesetzlichen Vorschriften zulässig.\n\nMit seinem Inkrafttreten gilt dieses Gesetz als verbindliche Grundlage für sämtliche jagd- und fischereirechtlichen Tätigkeiten im gesamten Staatsgebiet Eisenfurt.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich",
+              "description": "(1) Dieses Gesetz regelt die Jagd und Fischerei im Staatsgebiet Eisenfurt.\n\n(2) Es gilt insbesondere für:\n- Wälder\n- Seen\n- Flüsse\n- Küstenbereiche\n- Naturschutz- und Wildgebiete\n- ausgewiesene Jagd- und Fischereizonen\n\n(3) Die Vorschriften des Natur- & Wildschutzgesetzes Eisenfels RP bleiben unberührt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Begriffsbestimmungen",
+              "description": "(1) Jagd bezeichnet das Nachstellen, Fangen oder Erlegen von Wildtieren mit zulässigen Mitteln.\n\n(2) Fischerei bezeichnet das Fangen oder Entnehmen von Fischen und anderen Wasserlebewesen aus öffentlichen Gewässern.\n\n(3) Jagdschein ist die behördliche Erlaubnis zur legalen Ausübung der Jagd.\n\n(4) Fischereilizenz ist die behördliche Erlaubnis zur legalen Ausübung der Fischerei.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Jagderlaubnis",
+              "description": "(1) Die Jagd ist ausschließlich mit gültigem Jagdschein zulässig.\n\n(2) Der Jagdschein wird durch die zuständige Justizbehörde ausgestellt.\n\n(3) Ohne gültigen Jagdschein gilt jede Jagdausübung als Wilderei im Sinne des NatWildSchG-ESF.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Zulässige Jagdmittel",
+              "description": "(1) Zulässig sind ausschließlich:\n- registrierte Jagdwaffen\n- zugelassene Munition\n- genehmigte Jagdausrüstung\n\n(2) Verboten sind insbesondere:\n- Sprengmittel\n- automatische Waffen\n- Fallen ohne Sondergenehmigung\n- Giftstoffe oder Köder mit schädlicher Wirkung",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Jagdgebiete & Schutzzeiten",
+              "description": "(1) Die Jagd darf nur in freigegebenen Jagdgebieten erfolgen.\n\n(2) In Schutzgebieten ist die Jagd grundsätzlich verboten, sofern keine ausdrückliche Ausnahmegenehmigung vorliegt.\n\n(3) Die zuständige Behörde kann Schonzeiten und Schutzmaßnahmen anordnen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5a",
+              "title": "Geschützte Tier- und Fischarten",
+              "description": "(1) Bestimmte Tier- und Fischarten stehen unter besonderem Schutz und dürfen weder gejagt, gefangen, verletzt, getötet noch gehandelt werden.\n\n(2) Die geschützten Arten werden in einem gesonderten Anhang zu diesem Gesetz aufgeführt.\n\n(3) Der Anhang kann durch die zuständige Naturschutz- oder Verwaltungsbehörde erweitert, eingeschränkt oder angepasst werden, sofern dies aus Gründen des Arten-, Natur- oder Gewässerschutzes erforderlich ist.\n\n(4) Verstöße gegen den Schutz besonderer Tier- und Fischarten gelten als schwerwiegende Verstöße und können nach § 10 oder § 11 dieses Gesetzes geahndet werden.\n\n(5) Ausnahmegenehmigungen können ausschließlich zu wissenschaftlichen, behördlichen oder tierschutzrechtlich notwendigen Zwecken erteilt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Fischereilizenz",
+              "description": "(1) Zulässig sind:\n- Angelruten\n- Netze mit behördlicher Genehmigung\n- sonstige zugelassene Fangmethoden\n\n(2) Verboten sind insbesondere:\n- Dynamitfischerei\n- Elektrofischerei ohne Sondergenehmigung\n- Vergiftung von Gewässern\n- Fischfang in Schutzgebieten",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Schutz der Gewässer",
+              "description": "(1) Gewässer dürfen nicht verschmutzt oder beschädigt werden.\n\n(2) Müll, Chemikalien oder sonstige Schadstoffe dürfen nicht in Gewässer eingebracht werden.\n\n(3) Gefangene Tiere sind tierschutzgerecht zu behandeln.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Kontrollbefugnisse",
+              "description": "(1) Polizeibeamte, Vollzugsdienst Naturschutz sowie zuständige Kontrollbehörden dürfen:\n- Jagd- und Fischereilizenzen kontrollieren\n- Ausrüstung überprüfen\n- Personalien feststellen\n- verbotene Gegenstände sicherstellen\n\n(2) Bei Verdacht auf Wilderei oder illegale Fischerei gelten die Befugnisse des Polizeigesetzes sowie des Natur- & Wildschutzgesetzes.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Ordnungswidrigkeiten",
+              "description": "(1) Ordnungswidrig handelt insbesondere, wer:\n- ohne Fischereilizenz angelt\n- außerhalb freigegebener Bereiche jagt oder fischt\n- unerlaubte Fangmittel verwendet\n- Schutzvorschriften missachtet\n\n(2) Verstöße können mit Bußgeldern bis 50.000 € und/oder bis zu 30 Hafteinheiten geahndet werden.",
+              "minFine": "0 €",
+              "maxFine": "50.000",
+              "jailMinutes": "0 - 30",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Straftaten",
+              "description": "(1) Strafbar ist insbesondere:\n- Wilderei\n- organisierte illegale Fischerei\n- Jagd oder Fischerei in Schutzgebieten\n- Einsatz verbotener Waffen oder Fangmethoden\n\n(2) Strafmaß:\n- Geldstrafe bis 100.000 €\n- Freiheitsstrafe bis zu 45 Hafteinheiten\n\n(3) Tatmittel und Fahrzeuge können eingezogen werden.",
+              "minFine": "0 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "0 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Verhältnis zu anderen Gesetzen",
+              "description": "Dieses Gesetz ergänzt insbesondere:\n\ndas Natur- & Wildschutzgesetz\ndas Waffengesetz\ndas Polizeigesetz\ndas Wasserschutzgesetz",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Neuer Paragraph",
+              "description": "Dieses Gesetz tritt mit Veröffentlichung durch die zuständige Justizverwaltung Eisenfurt in Kraft.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
+          "media": [],
+          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png",
+          "body": ""
+        }
+      ]
     }
   ],
   "departments": [
