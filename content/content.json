@@ -5048,7 +5048,116 @@
           "slug": "natur-wildschutzgesetz",
           "title": "Natur- & Wildschutzgesetz",
           "description": "Das Natur- & Wildschutzgesetz Eisenfels RP (NWSG-ESF) regelt den Schutz der natürlichen Umwelt, der Tierwelt sowie der natürlichen Lebensräume innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für Maßnahmen zum Erhalt der Natur, der biologischen Vielfalt und des ökologischen Gleichgewichts.\n\nZiel dieses Gesetzes ist es, Naturflächen, Wildtiere und geschützte Lebensräume vor Zerstörung, Ausbeutung und rechtswidrigen Eingriffen zu bewahren. Das NWSG-IL dient insbesondere dem Schutz gefährdeter Tierarten, der Regulierung von Jagd- und Eingriffsbefugnissen sowie der Verhinderung von Umweltverschmutzung und illegaler Nutzung natürlicher Ressourcen.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien des Umwelt- und Naturschutzes, insbesondere der Nachhaltigkeit, Verhältnismäßigkeit und Verantwortung gegenüber Mensch, Tier und Umwelt. Gleichzeitig schafft es klare Zuständigkeiten und Eingriffsbefugnisse für Behörden und Schutzorgane zur Überwachung und Durchsetzung naturschutzrechtlicher Vorschriften.\n\nMit seinem Inkrafttreten gilt das Natur- & Wildschutzgesetz Eisenfels RP als verbindliche Grundlage für sämtliche natur-, tier- und umweltschutzrechtlichen Maßnahmen im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck und Geltungsbereich",
+              "description": "(1) Dieses Gesetz schützt die ökologische Vielfalt, natürliche Lebensräume sowie wildlebende Tier- und Pflanzenarten im Staatsgebiet Eisenfurt.\n\n(2) Es gilt für alle Naturflächenim Staatsgebiet, darunter:\n- Wälder\n- Wiesen\n- Fluss- und Seenlandschaften\n- Küstenzonen\n- Schutzgebiete\n- Wildwechselrouten\n- Naherholungsflächen und Biotope\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Begriffsbestimmungen",
+              "description": "(1) Wildtiere: Alle nicht domestizierten, freilebenden Tiere im Staatsgebiet von Eisenfurt.\n\n(2) Schutzgebiete: Flächen, die durch die Stadtverwaltung in Abstimmung mit der Justizverwaltung per Verordnung unter ökologischen Schutz gestellt wurden.\n\n(3) Ranger / Naturschutzbeamte: Justizkräfte der Justizverwaltung, spezialisiert auf Umwelt-, Natur- und Wildschutz.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Allgemeine Schutzbestimmungen",
+              "description": "(1) Verboten ist insbesondere:\n- Wildtiere zu jagen, zu verletzen, zu töten, zu stören oder einzufangen\n- in Schutzgebieten zu zelten, zu grillen, Feuer zu machen oder zu vermüllen\n- Naturschutzpflanzen zu entwurzeln, zu zerstören oder mitzunehmen\n- Abfälle, Schadstoffe oder Chemikalien in Naturräume einzubringen\n\n(2) Die Jagd auf Wildtiere ist im gesamten Staatsgebiet Eisenfurt grundsätzlich illegal und gilt als Straftat, außer man ist im Besitz eines Jagdscheines.\n\n(3) Jeder Bürger ist verpflichtet, sich in Naturgebieten rücksichtsvoll, umweltbewusst und nicht störend zu verhalten.\n\n(4) Dieses Gesetz ergänzt die Vorschriften des OWiG-ESF und des StGB-ESF.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Befugnisse der Polizei im Natur- und Wildschutz",
+              "description": "(1) Ranger und Naturschutzbeamte der Justizverwaltung sind befugt:\n- Personen in Naturgebieten anzuhalten, zu belehren und zu kontrollieren\n- Personalien bei Verdachtsmomenten festzustellen\n- Platzverweise zu erteilen\n- Verwarnungen und Bußgelder auszusprechen\n- verbotene Ausrüstung (Waffen, Fallen, Köder) sicherzustellen\n- Beweismittel (Fotos, Videos, Proben) zu sichern\n\n(2) In Fällen schwerwiegender Umweltdelikte (z. B. Wilderei, Tierquälerei) gelten sie als vollwertige Polizeikräfte mit allen Eingriffsrechten.\n\n(3) Sie handeln als Fachdienststelle der Justizverweltung gemäß Polizeigesetz.\n\n(4) Zulässig ist zudem:\n- Absperrung gefährdeter Naturräume\n- Notfallmaßnahmen bei Tier-, Natur- oder Brandgefahr\n- Fahrzeugkontrollen im Naturraum\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Ordnungswidrigkeiten & Strafrahmen",
+              "description": "(1) Ordnungswidrig handelt, wer gegen Vorschriften dieses Gesetzes vorsätzlich oder fahrlässig verstößt.\n\n(2) Verstöße können mit Bußgeldern bis 10.000 € geahndet werden.\n\n(3) In schweren oder wiederholten Fällen ist eine Freiheitsstrafe bis zu 30 Hafteinheiten möglich.\n\n(4) In besonders schwerwiegenden Fällen kann neben dem Bußgeld ein temporäres Aufenthaltsverbot für bestimmte Naturräume verhängt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5a",
+              "title": "Wildtiere stören, aufscheuchen, verfolgen",
+              "description": "",
+              "minFine": "2500 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5b",
+              "title": "Entfachen von Feuer, Lagern in Schutzgebieten",
+              "description": "",
+              "minFine": "5000 €",
+              "maxFine": "25.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5c",
+              "title": "Entnahme geschützter Pflanzen oder Tiere",
+              "description": "",
+              "minFine": "10.000 €",
+              "maxFine": "35.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5d",
+              "title": "Illegale Müllablagerung oder Chemikalieneintrag",
+              "description": "",
+              "minFine": "25.000 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5e",
+              "title": "Besitz oder Nutzung von Jagdwaffen/Fallen in Naturgebieten",
+              "description": "",
+              "minFine": "15.000 €",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Umweltstraftaten",
+              "description": "(1) Strafbar ist insbesondere:\n- Wilderei (illegale Jagd, Töten oder Fangen von Wildtieren)\n- massive Schädigung von Lebensräumen oder Wildtieren\n- wiederholte vorsätzliche Verstöße in Schutzgebieten\n- organisierte Wilderei oder Handel mit Wildtierprodukten\n- illegale Entsorgung gefährlicher Stoffe\n\n(2) Strafmaß:\n- Geldstrafe bis 20.000 € oder\n- Freiheitsstrafe bis zu 30 Hafteinheiten\n\n(3) In besonders schweren Fällen: bis zu 45 Hafteinheiten\n\n(4) Tatwerkzeuge (z. B. Fahrzeuge, Waffen) können eingezogen werden\n\n(5) Beamte, die im Dienst gegen dieses Gesetz verstoßen, unterliegen zusätzlich dem Disziplinarrecht.\n",
+              "minFine": "0 €",
+              "maxFine": "20.000 €",
+              "jailMinutes": "30 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Inkrafttreten & Kontrolle",
+              "description": "(1) Dieses Gesetz tritt mit Veröffentlichung durch die Justizverwaltung in Kraft.\n\n(2) Die Kontrolle erfolgt durch die Ranger- und Umwelteinheit der Justizverwaltung, in Kooperation mit der Polizei.\n\n(3) Die Regelungen werden jährlich überprüft und ökologisch angepasst.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
