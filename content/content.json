@@ -5593,8 +5593,189 @@
         {
           "slug": "handelsgesetzbuch",
           "title": "Handelsgesetzbuch ",
-          "description": "",
-          "paragraphs": [],
+          "description": "Das Handelsgesetzbuch Eisenfels RP (HGB-ESF) regelt die rechtlichen Grundlagen des Handels- und Wirtschaftsverkehrs innerhalb des Staatsgebiets Eisenfurt. Es bildet die verbindliche Grundlage für Kaufleute, Unternehmen, Handelsgesellschaften sowie sonstige wirtschaftliche Akteure und schafft klare Regeln für den geschäftlichen Rechtsverkehr.\n\nZiel dieses Gesetzes ist es, einen sicheren, transparenten und geordneten Wirtschafts- und Handelsverkehr zu gewährleisten. Das HGB-ESF dient insbesondere der Regelung kaufmännischer Geschäfte, Unternehmensformen, Handelsverträge, Buchführungspflichten sowie der Rechte und Pflichten von Unternehmen und Kaufleuten.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie Vertragsfreiheit, Rechtssicherheit, Gleichbehandlung im Wirtschaftsverkehr sowie dem Schutz des redlichen Handels. Gleichzeitig schafft es klare Rahmenbedingungen für wirtschaftliche Tätigkeiten und fördert Vertrauen und Stabilität innerhalb der Wirtschaft des Staates Eisenfurt.\n\nMit seinem Inkrafttreten gilt das Handelsgesetzbuch Eisenfels als verbindliche Grundlage für sämtliche handels- und wirtschaftsrechtlichen Angelegenheiten im gesamten Staatsgebiet Eisenfurt.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Kaufmannseigenschaft",
+              "description": "(1) Kaufmann im Sinne dieses Gesetzes ist, wer ein Handelsgewerbe betreibt.\n\n(2) Ein Handelsgewerbe ist jeder dauerhaft angelegte, gewinnorientierte Gewerbebetrieb, der nach Art und Umfang einen kaufmännisch eingerichteten Geschäftsbetrieb erfordert.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Handelsregister",
+              "description": "(1) Es wird ein zentrales Handelsregister beim Justizzentrum Eisenfurt geführt.\n\n(2) Die Eintragung umfasst:\n- Firmenname\n- Geschäftsanschrift\n- Vertretungsberechtigte\n- Unternehmensgegenstand\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Firma des Kaufmanns",
+              "description": "(1) Die Firma ist der Geschäftsname, unter dem ein Kaufmann handelt und unterschreibt.\n\n(2) Die Firma muss unterscheidbar und geschäftlich verwendbar sein.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Buchführungspflicht",
+              "description": "(1) Kaufleute sind verpflichtet, ihre Geschäfte ordnungsgemäß zu dokumentieren.\n\n(2) Die Buchführung kann digital erfolgen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Aufbewahrungspflichten",
+              "description": "Handelsbücher, Bilanzen und geschäftliche Unterlagen sind mindestens 12 RP-Wochen aufzubewahren.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Handelsgeschäfte",
+              "description": "(1) Handelsgeschäfte sind alle Geschäfte, die ein Kaufmann für seinen Betrieb tätigt.\n\n(2) Auf diese finden ergänzend die Regeln dieses HGB Anwendung.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Schweigen auf Angebot",
+              "description": "Das Schweigen auf ein Angebot zur Fortsetzung bestehender Geschäftsbeziehungen kann als Zustimmung gelten, wenn es nach RP-Verkehrsgewohnheiten üblich ist.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Handelsbräuche",
+              "description": "Anerkannte Handelsbräuche gelten ergänzend, sofern nichts anderes ausdrücklich vereinbart wurde.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Untersuchungs- und Rügepflicht",
+              "description": "(1) Handelswaren müssen nach Erhalt geprüft werden.\n(2) Mängel sind unverzüglich anzuzeigen, andernfalls gilt die Ware als genehmigt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Handelsvertreter",
+              "description": "(1) Handelsvertreter ist, wer als Selbstständiger für einen Unternehmer dauerhaft Geschäfte vermittelt oder abschließt.\n\n(2) Er unterliegt dabei der Weisungsbindung im Interesse des Auftraggebers.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Vergütung",
+              "description": "Der Handelsvertreter erhält eine angemessene Provision. Ohne Vereinbarung gilt der RP-übliche Satz.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Ausgleichsanspruch",
+              "description": "Bei Vertragsende kann ein Ausgleich gezahlt werden, wenn der Vertreter dem Unternehmen nachweislich langfristige Kundenbindungen verschafft hat.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Inventar",
+              "description": "Zu Beginn und monatlich zum Schluss ist ein Inventar über Bestände und Vermögenswerte zu erstellen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Monatsabschluss",
+              "description": "(1) Zum Ende jedes Geschäftsmonats sind Bilanz und GuV zu erstellen.\n\n(2) Diese sind von der Geschäftsführung zu unterschreiben.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Quartalsabschlussformular",
+              "description": "(1) Das verbindliche Formular umfasst:\n- Bilanz: Aktiva & Passiva\n- Gewinn- & Verlustrechnung\n- Angaben zu Rückstellungen, Forderungen, Verbindlichkeiten, Eigenkapital\n\n(2) Das Formular wird von Justizverwaltung zur Verfügung gestellt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Offene Handelsgesellschaft (OHG)",
+              "description": "(1) Eine OHG ist eine Personengesellschaft mit gemeinsamer Firma und unbeschränkter Haftung aller Gesellschafter.\n\n(2) Sie ist im Handelsregister einzutragen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Gesellschaft mit beschränkter Haftung (GmbH)",
+              "description": "(1) Die GmbH ist eine juristische Person.\n\n(2) Das Mindeststammkapital beträgt 25.000 € (RP-Währung).\n\n(3) Die GmbH bestellt einen Geschäftsführer und wird eingetragen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Zuständigkeit",
+              "description": "Die Überwachung erfolgt durch die Justizverwaltung Eisenfurt – Gewerbeaufsicht.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Ordnungswidrigkeiten",
+              "description": "(1) Ordnungswidrig handelt, wer:\n- Buchführungspflichten verletzt\n- das Handelsregister unvollständig oder verspätet aktualisiert\n- fehlerhafte Firmenangaben nutzt\n\n(2) Diese Verstöße können mit Bußgeldern bis 5.000 € geahndet werden.",
+              "minFine": "0 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§20",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt am Tag der Veröffentlichung durch die Justizverwaltung Eisenfurt in Kraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
