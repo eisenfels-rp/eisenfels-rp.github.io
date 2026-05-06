@@ -146,7 +146,7 @@
       "slug": "justiz-fachabteilungen",
       "title": "Fachabteilungen",
       "parentId": "justiz",
-      "order": 3,
+      "order": 4,
       "showInSidebar": true,
       "type": "departments",
       "factionId": "justiz",
@@ -280,7 +280,7 @@
       "slug": "justiz-termine",
       "title": "Termine",
       "parentId": "justiz",
-      "order": 4,
+      "order": 5,
       "showInSidebar": true,
       "type": "events-list",
       "factionId": "justiz",
@@ -295,7 +295,7 @@
       "slug": "justiz-ausbildungen",
       "title": "Ausbildungen",
       "parentId": "justiz",
-      "order": 5,
+      "order": 6,
       "showInSidebar": true,
       "type": "trainings-list",
       "factionId": "justiz",
@@ -310,12 +310,15 @@
       "slug": "justiz-kontakt",
       "title": "Kontakt",
       "parentId": "justiz",
-      "order": 6,
+      "order": 7,
       "showInSidebar": true,
       "type": "contact",
       "factionId": "justiz",
       "accent": "orange",
-      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt."
+      "body": "# Kontakt\n\nKontaktinformationen werden im CMS gepflegt.",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "polizei-preisliste",
@@ -1025,6 +1028,21 @@
       "factionId": "stadtverwaltung",
       "logo": "",
       "banner": "https://i.ibb.co/KcLSTSJm/Chat-GPT-Image-6-Mai-2026-23-06-14.png"
+    },
+    {
+      "id": "seite-bpvzgk",
+      "slug": "oeffentliche Bekanntmachungen",
+      "title": "Öffentl. Bekanntmachungen",
+      "parentId": "justiz",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "trainings-list",
+      "accent": "orange",
+      "body": "# Neue Seite",
+      "media": [],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": ""
     }
   ],
   "lawGroups": [
