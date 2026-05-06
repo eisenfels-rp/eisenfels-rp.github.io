@@ -779,6 +779,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/jZr5YLcT/Chat-GPT-Image-6-Mai-2026-21-23-52.png"
+    },
+    {
+      "id": "seite-jtr2ks",
+      "slug": "oberlandesgericht",
+      "title": "Oberlandesgericht",
+      "parentId": "justiz-fachabteilungen",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Das Oberlandesgericht der Justiz Eisenfurt bildet die höchste Instanz der ordentlichen Gerichtsbarkeit innerhalb des Staatsgebiets und trägt die Verantwortung für die Sicherung einer einheitlichen, rechtsstaatlichen und unabhängigen Rechtsprechung. Als übergeordnetes Gericht überprüft es Entscheidungen der unteren Instanzen und entscheidet über besonders bedeutende oder grundsätzliche Rechtsfragen.\n\nIm Mittelpunkt der Arbeit des Oberlandesgerichts stehen die Wahrung der Rechtsordnung, der Schutz der Grundrechte sowie die konsequente Anwendung geltender Gesetze. Durch sorgfältige Prüfung und unabhängige Entscheidungen gewährleistet das Gericht höchste rechtliche Standards und stärkt das Vertrauen der Bürger:innen in die Justiz.\n\nDas Oberlandesgericht der Justiz Eisenfurt steht für Neutralität, Integrität und Professionalität. Seine Richter:innen und Mitarbeiter:innen handeln unparteiisch und ausschließlich auf Grundlage von Recht und Gesetz, um gerechte und nachvollziehbare Entscheidungen sicherzustellen.\n\nAls höchste gerichtliche Instanz innerhalb der Justiz Eisenfurt trägt das Oberlandesgericht maßgeblich zur Stabilität, Rechtssicherheit und Wahrung des Rechtsstaates bei.\n\n**Für Recht. Für Ordnung. Für Gerechtigkeit.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/yFDS0mDh/j1.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/bMyhVp2D/Chat-GPT-Image-6-Mai-2026-21-25-29.png"
     }
   ],
   "lawGroups": [
