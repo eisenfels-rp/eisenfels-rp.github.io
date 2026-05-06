@@ -6524,7 +6524,9 @@
       "name": "Landgericht",
       "description": "Zuständig für schwerere Verfahren und Berufungen.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "landgericht",
+      "icon": ""
     },
     {
       "factionId": "justiz",
