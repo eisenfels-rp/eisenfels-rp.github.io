@@ -6655,7 +6655,9 @@
       "name": "Anwälte",
       "description": "Vertreten Bürger, Beschuldigte und Parteien in Verfahren.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "anwaelte",
+      "icon": ""
     },
     {
       "factionId": "justiz",
