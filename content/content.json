@@ -940,6 +940,21 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/SwW3FB86/Chat-GPT-Image-6-Mai-2026-22-25-26.png",
       "banner": "https://i.ibb.co/4ZSSvhxp/Chat-GPT-Image-6-Mai-2026-22-26-24.png"
+    },
+    {
+      "id": "seite-50jra9",
+      "slug": "rp-regelwerk",
+      "title": "RP-Regelwerk",
+      "parentId": "",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "laws-index",
+      "accent": "orange",
+      "body": "# Neue Seite",
+      "media": [],
+      "factionId": "",
+      "logo": "",
+      "banner": ""
     }
   ],
   "lawGroups": [
