@@ -6968,44 +6968,214 @@
       "title": "Rettungsdienst Preisliste",
       "items": [
         {
-          "name": "Einsatzpauschale Standard",
-          "price": "€1.200",
-          "note": "Wird bei jedem Einsatz berechnet."
+          "name": "**🧾 1. EINSATZPAUSCHALEN (Grundlage jeder Rechnung)**",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Priorität 1 / Lebensgefahr",
-          "price": "€2.000",
-          "note": "Akute Lebensgefahr."
+          "name": "Priorität 1 (akute Lebensgefahr)",
+          "price": "2000 €",
+          "note": "Diese wird immer berechnet, sobald EMS ausrückt"
         },
         {
-          "name": "Erste Hilfe vor Ort",
-          "price": "€500",
-          "note": "Basic-Versorgung."
+          "name": "Priorität 2 (dringend)",
+          "price": "1500 €",
+          "note": "Diese wird immer berechnet, sobald EMS ausrückt"
         },
         {
-          "name": "Schwerverletztenversorgung",
-          "price": "€2.500",
-          "note": "Stabilisierung und Versorgung."
+          "name": "Priorität 3 (nicht kritisch)",
+          "price": "1000 €",
+          "note": "Diese wird immer berechnet, sobald EMS ausrückt"
         },
         {
-          "name": "Reanimation inkl. Defibrillator",
-          "price": "€4.500",
-          "note": "CPR + Defi."
+          "name": "Fehlalarm / Trollcall: €2.500 (wichtig gegen Missbrauch)",
+          "price": "2500 €",
+          "note": "Diese wird immer berechnet, sobald EMS ausrückt"
         },
         {
-          "name": "Standardtransport",
-          "price": "€1.000",
-          "note": "Transport ins Klinikum."
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
         },
         {
-          "name": "Intensivtransport",
-          "price": "€2.800",
-          "note": "Überwachungspflichtiger Transport."
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
         },
         {
-          "name": "Luftrettung",
-          "price": "€6.000 – €8.000",
-          "note": "Falls verfügbar."
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis"
         }
       ]
     },
