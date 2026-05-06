@@ -6515,7 +6515,9 @@
       "name": "Amtsgericht",
       "description": "Zuständig für einfache Verfahren, Anträge und Erstentscheidungen.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "amtsgericht",
+      "icon": ""
     },
     {
       "factionId": "justiz",
