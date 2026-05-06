@@ -757,6 +757,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/svT61Jps/Chat-GPT-Image-6-Mai-2026-21-22-24.png"
+    },
+    {
+      "id": "seite-ds6b4x",
+      "slug": "landgericht",
+      "title": "Landgericht",
+      "parentId": "justiz-fachabteilungen",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Das Landgericht der Justiz Eisenfurt bildet die zweite Instanz der ordentlichen Gerichtsbarkeit und ist für bedeutende Zivil-, Straf- und Berufungsverfahren innerhalb des Staatsgebiets zuständig. Es überprüft Entscheidungen der Amtsgerichte, verhandelt umfangreiche Verfahren und gewährleistet eine sorgfältige sowie rechtsstaatliche Kontrolle gerichtlicher Entscheidungen.\n\nIm Mittelpunkt der Arbeit des Landgerichts stehen Rechtssicherheit, unabhängige Rechtsprechung und die Wahrung der Grundrechte aller Beteiligten. Durch qualifizierte Richter:innen und rechtsstaatliche Verfahren sorgt das Gericht für faire Entscheidungen auf Grundlage der geltenden Gesetze und Verfahrensordnungen.\n\nDas Landgericht der Justiz Eisenfurt steht für Neutralität, Professionalität und eine transparente Justiz. Es gewährleistet die konsequente Anwendung des Rechts und stärkt das Vertrauen der Bürger:innen in den Rechtsstaat und die gerichtliche Ordnung.\n\nAls zentrale Instanz zwischen Amtsgericht und Oberlandesgericht übernimmt das Landgericht eine wesentliche Rolle bei der Sicherung einer gerechten und einheitlichen Rechtsprechung innerhalb von Justiz Eisenfurt.\n\n**Für Recht. Für Ordnung. Für Gerechtigkeit.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/84fBb8BV/j3.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/jZr5YLcT/Chat-GPT-Image-6-Mai-2026-21-23-52.png"
     }
   ],
   "lawGroups": [
