@@ -896,6 +896,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/0pLSzTMw/Chat-GPT-Image-6-Mai-2026-22-03-39.png"
+    },
+    {
+      "id": "seite-2jr066",
+      "slug": "vollzugsdienst-naturschutz",
+      "title": "Vollzugsdienst Naturschutz",
+      "parentId": "",
+      "order": 10,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Der Vollzugsdienst Naturschutz der Justiz Eisenfurt ist für die Überwachung, Durchsetzung und den Schutz natur- und umweltrechtlicher Vorschriften innerhalb des Staatsgebiets verantwortlich. Als spezialisierte Einheit verbindet der Vollzugsdienst rechtsstaatliche Kontrolle mit aktivem Natur- und Umweltschutz und trägt dazu bei, natürliche Lebensräume sowie die Artenvielfalt nachhaltig zu bewahren.\n\nZu den Aufgaben des Vollzugsdienstes Naturschutz gehören insbesondere:\n\n- die Kontrolle von Schutzgebieten und Naturräumen,\n- die Verhinderung und Verfolgung von Wilderei und Umweltstraftaten,\n- die Überwachung von Jagd-, Fischerei- und Naturschutzvorschriften,\n- die Sicherstellung verbotener Gegenstände oder Ausrüstungen,\n- sowie die Zusammenarbeit mit Polizei-, Umwelt- und Sicherheitsbehörden.\n\nDie Mitarbeiterinnen und Mitarbeiter des Vollzugsdienstes handeln unabhängig, sachlich und auf Grundlage der geltenden Gesetze. Dabei stehen der Schutz der Natur, die Wahrung der öffentlichen Ordnung sowie die Verantwortung gegenüber zukünftigen Generationen im Mittelpunkt ihrer Arbeit.\n\nDer Vollzugsdienst Naturschutz der Justiz Eisenfurt verbindet konsequente Rechtsdurchsetzung mit einem modernen Verständnis von Umwelt- und Artenschutz. Durch Kontrollen, Prävention und Aufklärung leistet die Einheit einen entscheidenden Beitrag zum Erhalt einer sicheren, sauberen und lebenswerten Umwelt.\n\n**Für Natur. Für Zukunft. Für Verantwortung.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/VcMbRrhj/j4.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "",
+      "logo": "https://i.ibb.co/WN8r65kB/vollzugsdienst.png",
+      "banner": "https://i.ibb.co/SD9fTSRK/Chat-GPT-Image-6-Mai-2026-22-07-03.png"
     }
   ],
   "lawGroups": [
