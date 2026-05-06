@@ -503,14 +503,17 @@
     {
       "id": "klinikum-preisliste",
       "slug": "klinikum-preisliste",
-      "title": "Preisliste",
+      "title": "Gebührenordnung",
       "parentId": "klinikum",
       "order": 3,
       "showInSidebar": true,
       "type": "price-list",
       "factionId": "klinikum",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+      "body": "# Gebührenordnung",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "klinikum-termine",
@@ -563,14 +566,17 @@
     {
       "id": "rettungsdienst-preisliste",
       "slug": "rettungsdienst-preisliste",
-      "title": "Preisliste",
+      "title": "Gebührenordnung",
       "parentId": "rettungsdienst",
       "order": 3,
       "showInSidebar": true,
       "type": "price-list",
       "factionId": "rettungsdienst",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+      "body": "# Gebührenordnung\n",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "rettungsdienst-termine",
