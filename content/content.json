@@ -6841,7 +6841,9 @@
       "name": "Lebensmittelaufsicht",
       "description": "Kontrolliert Hygiene, Gaststätten und Lebensmittelbetriebe.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "lebensmittelaufsicht",
+      "icon": ""
     },
     {
       "factionId": "polizei",
