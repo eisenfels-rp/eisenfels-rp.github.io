@@ -5361,8 +5361,225 @@
         {
           "slug": "krankenhausgesetz",
           "title": "Krankenhausgesetz ",
-          "description": "",
-          "paragraphs": [],
+          "description": "Das Krankenhausgesetz Eisenfels RP (KHG-ESF) regelt die Organisation, Aufgaben und den Betrieb der Krankenhäuser sowie medizinischen Versorgungseinrichtungen innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für eine bedarfsgerechte, sichere und qualitativ hochwertige Gesundheitsversorgung der Bevölkerung.\n\nZiel dieses Gesetzes ist es, eine flächendeckende medizinische Versorgung sicherzustellen sowie den Schutz von Leben und Gesundheit der Bürger:innen zu gewährleisten. Das KHG-ESF dient insbesondere der Regelung von Zuständigkeiten, Behandlungsstandards, Patientenrechten sowie der Zusammenarbeit zwischen Krankenhäusern, Rettungsdiensten und staatlichen Behörden.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie der Menschenwürde, der Gleichbehandlung, der ärztlichen Sorgfaltspflicht sowie dem Schutz sensibler Gesundheitsdaten. Gleichzeitig schafft es klare rechtliche Rahmenbedingungen für den Betrieb medizinischer Einrichtungen und das Handeln des medizinischen Personals.\n\nMit seinem Inkrafttreten gilt das Krankenhausgesetz Eisenfels RP als verbindliche Grundlage für sämtliche krankenhaus- und gesundheitsrechtlichen Regelungen im gesamten Staatsgebiet Eisenfurt.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Geltungsbereich",
+              "description": "Dieses Gesetz regelt die Errichtung, den Betrieb, die Finanzierung, die Patientenrechte, medizinische Standards sowie die staatliche Aufsicht über Krankenhäuser im gesamten Staatsgebiet von Eisenfurt, inklusive aller angrenzenden Gemeinden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Definitionen",
+              "description": "(1) Krankenhäuser im Sinne dieses Gesetzes sind Einrichtungen zur stationären und notfallmedizinischen Behandlung, die ärztliche und pflegerische Hilfeleistung bieten.\n\n(2) Zum Krankenhausbetrieb gehören insbesondere Notaufnahmen, Fachkliniken, Intensivstationen und Reha-Einrichtungen, soweit sie organisatorisch und wirtschaftlich dem Hauptbetrieb unterstellt sind.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Trägerschaft",
+              "description": "Krankenhäuser dürfen durch öffentliche, private oder gemeinnützige Träger betrieben werden. Unabhängig von der Trägerschaft unterliegen sie diesem Gesetz.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Betriebsgenehmigung",
+              "description": "(1) Der Betrieb eines Krankenhauses bedarf der schriftlichen Genehmigung durch die Justizverwaltung Eisenfurt.\n\n(2) Diese wird erteilt, wenn:\n- der Träger als zuverlässig gilt,\n- die personelle, bauliche und fachliche Mindestanforderung erfüllt ist,\n- ein tragfähiges Finanzierungskonzept vorliegt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Anzeigepflicht",
+              "description": "(1) Änderungen am Krankenhausbetrieb – etwa Umstrukturierungen, Erweiterungen, Standortschließungen – sind unverzüglich an die Justizbehörde zu melden.\n\n(2) Bei Bedarf können weitere Nachweise verlangt werden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Personalstandards",
+              "description": "(1) Alle Krankenhäuser müssen über ausreichend medizinisches, pflegerisches und administratives Personal verfügen.\n\n(2) Die Mindestpersonalquoten gelten gemäß Anhang D und werden durch die Justizverwaltung kontrolliert.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Qualitätsmanagement",
+              "description": "Krankenhäuser sind verpflichtet, ein dokumentiertes Qualitätsmanagementsystem zu betreiben. Die Ergebnisse fließen in die halbjährliche Krankenhausbewertung ein.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Finanzierung",
+              "description": "Die Finanzierung erfolgt über:\n- Behandlungsentgelte und Bürgerpauschalen,\n- Zuschüsse durch die Regierung von Eisenfels RP,\n- Eigenmittel und freiwillige Fördermittel.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Investitionszuschüsse",
+              "description": "(1) Für bauliche, digitale oder strukturelle Modernisierungen können Investitionshilfen bei der Justizverwaltung beantragt werden.\n\n(2) Die Genehmigung erfolgt nach Projektprüfung durch das Justizzentrum.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Aufsicht",
+              "description": "Die Aufsicht obliegt der Justizverwaltung in Zusammenarbeit mit dem Stadtverwaltung. Sie umfasst insbesondere:\n- Hygiene- und Bausicherheitsprüfungen,\n- Kontrolle der Notfallpläne,\n- Prüfung der personellen Besetzung,\n- Einhaltung der gesetzlichen Meldepflichten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Berichtspflichten",
+              "description": "Einmal pro Quartal sind an die Justizverwaltung zu übermitteln:\n- Betten- und Patientenstatistik,\n- Personalübersicht,\n- OP-Auslastung,\n- Änderungen oder Vorkommnisse.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Notaufnahme",
+              "description": "(1) Jedes Krankenhaus muss über eine 24/7 betriebene Notaufnahme verfügen.\n\n(2) Die Zuweisung erfolgt zentral über den Leitstellenverbund.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Katastrophenfälle",
+              "description": "(1) Bei Großlagen, Pandemien oder Naturereignissen sind die Krankenhäuser verpflichtet, sich der Einsatzleitung des Katastrophenschutzes zu unterstellen.\n\n(2) Es gelten die abgestimmten Notfallpläne der jeweiligen Region.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Patientenrechte",
+              "description": "(1) Jeder Bürger hat Anspruch auf eine faire, würdevolle und diskriminierungsfreie Behandlung.\n\n(2) Behandlungsaufklärung und informierte Einwilligung sind vor jedem Eingriff einzuholen.\n\n(3) Der Patient kann jederzeit Einsicht in seine Akte verlangen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Schweigepflicht und Datenschutz",
+              "description": "(1) Alle Krankenhausbeschäftigten unterliegen der strikten Schweigepflicht.\n\n(2) Die personenbezogene Datenverarbeitung erfolgt ausschließlich nach Maßgabe des Datenschutzgesetzes von Eisenfels RP.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Eingriffe und klinische Studien",
+              "description": "(1) Medizinische Eingriffe dürfen nur von entsprechend qualifiziertem Personal durchgeführt werden.\n\n(2) Experimente und Studien sind nur mit Zustimmung der Ethikkommission sowie Genehmigung durch die Stadtverwaltung erlaubt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Ordnungswidrigkeiten",
+              "description": "(1) Es handelt ordnungswidrig, wer:\n- einen Krankenhausbetrieb ohne Genehmigung führt,\n- Meldepflichten grob verletzt,\n- gesetzliche Standards missachtet,\n- Patientenrechte massiv verletzt.\n\n(2) Die Sanktion erfolgt in Form von Bußgeldern bis zu 25.000 € sowie Betriebsuntersagung bei wiederholten Verstößen.\n",
+              "minFine": "0 €",
+              "maxFine": "25.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Aus- & Weiterbildung - Grundsatz",
+              "description": "(1) Medizinische, rettungsdienstliche und brandschutztechnische Aus- und Weiterbildungen unterliegen der staatlichen Kontrolle und dürfen nur an dafür zugelassenen Einrichtungen durchgeführt werden.\n\n(2) Ziel ist die Sicherstellung einheitlicher Standards, Qualität und Fachkompetenz im gesamten Staatsgebiet von Eisenfurt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Ausbildungsstätten",
+              "description": "(1) Ärztliche Ausbildungen und Weiterbildungen sind ausschließlich am Klinikum Eisenfurt zulässig.\n\n(2) Rettungsdienst- und Sanitätsdienstausbildungen erfolgen ausschließlich beim Rettungsdienst Eisenfurt.\n\n(3) Brandschutz- und feuerwehrtechnische Ausbildungen erfolgen ausschließlich bei der Berufsfeuerwehr Eisenfurt.\n\n(4) Auch wenn Personal in anderen Betrieben oder Einrichtungen eingesetzt wird, bleibt die Ausbildungshoheit den genannten Stellen vorbehalten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§20",
+              "title": "Ausbildungspläne",
+              "description": "(1) Ausbildungspläne sind in enger Absprache mit der Justizverwaltung zu erstellen und regelmäßig zu aktualisieren.\n\n(2) Inhalte, Dauer, Prüfungen und Qualifikationsnachweise richten sich nach den Vorgaben des Justizzentrums.\n\n(3) Abschlussprüfungen sind von autorisierten Ausbildern der jeweiligen Ausbildungsstätte abzunehmen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§21",
+              "title": "Fort- und Weiterbildungspflicht",
+              "description": "(1) Ärztliches, rettungsdienstliches und feuerwehrtechnisches Personal ist verpflichtet, regelmäßig an Fortbildungen und Re-Zertifizierungen teilzunehmen.\n\n(2) Der Nachweis über absolvierte Fortbildungen ist halbjährlich an die zuständige Aufsichtsbehörde zu übermitteln.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§22",
+              "title": "Sanktionen",
+              "description": "(1) Wer Ausbildungen oder Fortbildungen ohne Zulassung durchführt, handelt ordnungswidrig.\n\n(2) Verstöße können mit Bußgeldern bis zu 15.000 € sowie mit Entzug der Ausbildungserlaubnis sanktioniert werden.\n",
+              "minFine": "0 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§23",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz gilt mit Veröffentlichung für das gesamte Staatsgebiet von Eienfurt. Frühere Regelungen treten außer Kraft.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "Anhang 1",
+              "title": "Personalquoten",
+              "description": "Stationäre Pflege:\n Tagschicht: 1 Pflegekraft pro 8 Patienten\n Nachtschicht: 1 Pflegekraft pro 12 Patienten\n\n\nIntensivstation:\n 1 Pflegekraft pro 2 Patienten\n\n\nOP-Betrieb:\n 1 Fachkraft pro OP-Saal\n\n\nÄrztlicher Dienst:\n 24/7 Bereitschaftsdienst pro Fachbereich\n\n\nVerwaltung:\n 1 Verwaltungsmitarbeiter pro 50 Betten",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
