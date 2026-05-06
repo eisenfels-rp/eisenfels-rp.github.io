@@ -138,12 +138,15 @@
       "slug": "justiz-fachabteilungen",
       "title": "Fachabteilungen",
       "parentId": "justiz",
-      "order": 2,
+      "order": 3,
       "showInSidebar": true,
       "type": "departments",
       "factionId": "justiz",
       "accent": "orange",
-      "body": "# Fachabteilungen der Justiz\n\nHier werden die Abteilungen der Justiz dargestellt."
+      "body": "# Fachabteilungen der Justiz\n\nHier werden die Abteilungen der Justiz dargestellt.",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "polizei",
