@@ -6836,6 +6836,42 @@
       "description": "Verkehrskontrollen, Unfallaufnahme und Verkehrsmaßnahmen.",
       "logo": "",
       "banner": ""
+    },
+    {
+      "factionId": "stadtverwaltung",
+      "name": "Admins",
+      "description": "Die Serveradministration gewährleistet den sicheren, stabilen und reibungslosen Betrieb von Eisenfels RP.",
+      "slug": "",
+      "icon": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "stadtverwaltung",
+      "name": "Supporter",
+      "description": "Das Support-Team unterstützt Euch bei Fragen, Problemen und organisatorischen Anliegen im täglichen Serverbetrieb.",
+      "slug": "",
+      "icon": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "stadtverwaltung",
+      "name": "Fraktionsleitung",
+      "description": "Die Fraktionsleitung organisiert und leitet die jeweiligen Fraktionen innerhalb des Servers.",
+      "slug": "",
+      "icon": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "stadtverwaltung",
+      "name": "Developer",
+      "description": "Die Developer entwickeln, warten und verbessern die Skripte und Funktionen von Eisenfels RP.",
+      "slug": "",
+      "icon": "",
+      "logo": "",
+      "banner": ""
     }
   ],
   "priceLists": [
