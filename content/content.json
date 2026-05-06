@@ -874,6 +874,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/fdwz6S1G/Chat-GPT-Image-6-Mai-2026-21-57-07.png",
       "banner": "https://i.ibb.co/Z1HkhT3C/Chat-GPT-Image-6-Mai-2026-21-59-07.png"
+    },
+    {
+      "id": "seite-jgrbzs",
+      "slug": "justizbeamte",
+      "title": "Justizbeamte",
+      "parentId": "justiz-fachabteilungen",
+      "order": 9,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Justizbeamten der Justiz Eisenfurt bilden das organisatorische Fundament der Rechtspflege und gewährleisten den täglichen, reibungslosen Ablauf innerhalb der Gerichte, Staatsanwaltschaften und Justizbehörden. Durch ihre Arbeit sorgen sie dafür, dass Verfahren effizient, rechtssicher und bürgernah durchgeführt werden können.\n\nZu den Aufgaben der Justizbeamten gehören insbesondere:\n\n- die Verwaltung und Bearbeitung gerichtlicher Akten,\n- die Organisation von Verfahren und Terminen,\n- die Unterstützung von Richter:innen und Staatsanwält:innen,\n- die Bearbeitung von Schriftverkehr und Zustellungen,\n- sowie die Betreuung organisatorischer und administrativer Abläufe innerhalb der Justizverwaltung.\n\nDie Justizbeamten der Justiz Eisenfurt handeln verantwortungsbewusst, zuverlässig und im Einklang mit den geltenden Gesetzen und Verwaltungsvorschriften. Dabei stehen Professionalität, Vertraulichkeit sowie ein respektvoller Umgang mit Bürger:innen und Verfahrensbeteiligten im Mittelpunkt ihrer Tätigkeit.\n\nDurch Fachwissen, Sorgfalt und Engagement leisten die Justizbeamten einen unverzichtbaren Beitrag zur Funktionsfähigkeit des Rechtsstaates und zur Sicherung einer modernen, effizienten und vertrauenswürdigen Justiz.\n\nDie Justizbeamten der Justiz Eisenfurt stehen für Kompetenz, Integrität und einen starken Dienst am Gemeinwohl.\n\n**Kompetent. Verlässlich. Unverzichtbar.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/yFDS0mDh/j1.png",
+          "caption": "Sie finden uns in allen Gebäuden der Justiz Eisenfurt",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/0pLSzTMw/Chat-GPT-Image-6-Mai-2026-22-03-39.png"
     }
   ],
   "lawGroups": [
@@ -6695,7 +6717,9 @@
       "name": "Justizbeamte",
       "description": "Unterstützen Gerichtsbetrieb, Sicherheit und Verwaltung.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "justizbeamte",
+      "icon": ""
     },
     {
       "factionId": "justiz",
