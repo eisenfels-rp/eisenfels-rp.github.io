@@ -5881,7 +5881,170 @@
           "slug": "buergerliches-gesetzbuch",
           "title": "Bürgerliches Gesetzbuch",
           "description": "Das Bürgerliche Gesetzbuch Eisenfels RP (BGB-ESF) regelt die privatrechtlichen Rechtsbeziehungen zwischen natürlichen und juristischen Personen innerhalb des Staatsgebiets Eisenfurt. Es bildet die grundlegende Rechtsordnung für das tägliche Zusammenleben sowie für schuldrechtliche, sachenrechtliche, familienrechtliche und erbrechtliche Angelegenheiten.\n\nZiel dieses Gesetzes ist es, Rechtssicherheit, Rechtsfrieden und einen gerechten Ausgleich privater Interessen zu gewährleisten. Das BGB-ESF schafft verbindliche Regeln für Verträge, Eigentum, Schadensersatzansprüche, Familienverhältnisse sowie weitere zivilrechtliche Beziehungen zwischen Bürger:innen, Unternehmen und sonstigen Rechtsträgern.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie der Privatautonomie, der Vertragsfreiheit, Treu und Glauben sowie der Gleichheit aller vor dem Gesetz. Gleichzeitig schützt es berechtigte Interessen und schafft rechtliche Mechanismen zur Durchsetzung privater Ansprüche und zur Lösung zivilrechtlicher Streitigkeiten.\n\nMit seinem Inkrafttreten gilt das Bürgerliche Gesetzbuch Eisenfels RP als verbindliche Grundlage für sämtliche privatrechtlichen Rechtsverhältnisse im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Rechtsfähigkeit",
+              "description": "Jede natürliche Person ist rechtsfähig. Die Rechtsfähigkeit beginnt mit der Geburt und endet mit dem Tod.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Geschäftsfähigkeit",
+              "description": "(1) Geschäftsfähig ist, wer das 18. Lebensjahr vollendet hat und nicht durch gerichtliche Verfügung in seiner Geschäftsfähigkeit eingeschränkt ist.\n\n(2) Personen ab 7 Jahren gelten als beschränkt geschäftsfähig.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Willenserklärung",
+              "description": "Eine Willenserklärung ist jede auf eine rechtliche Folge gerichtete Äußerung (z. B. Vertragsangebot, Zustimmung).",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Anfechtung",
+              "description": "Eine Willenserklärung kann angefochten werden, wenn sie unter Irrtum, Täuschung oder Drohung abgegeben wurde.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Formvorschriften",
+              "description": "Bestimmte Rechtsgeschäfte bedürfen einer besonderen Form (z. B. schriftlich, notariell, beurkundet). Fehlt diese, ist das Geschäft nichtig.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Vertrag",
+              "description": "Ein Vertrag entsteht durch zwei übereinstimmende Willenserklärungen – Angebot und Annahme.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Leistungsstörungen",
+              "description": "Kommt ein Schuldner seiner Leistung nicht, zu spät oder mangelhaft nach, haftet er für entstandene Schäden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Rücktritt",
+              "description": "Ein Rücktritt vom Vertrag ist möglich, wenn:\n- der Schuldner nicht vertragsgemäß leistet,\n- eine Nachfrist gesetzt wurde und erfolglos verstrich.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Verjährung",
+              "description": "Vertragliche Ansprüche verjähren innerhalb von 3 Monate nach Fälligkeit, sofern keine andere Frist gesetzlich geregelt ist.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Besitz und Eigentum",
+              "description": "(1) Besitz ist die tatsächliche Sachherrschaft über eine Sache.\n\n(2) Eigentum ist das umfassende Recht, über eine Sache zu verfügen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Eigentumserwerb",
+              "description": "Eigentum an beweglichen Sachen geht durch Einigung und Übergabe über.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Neuer Paragraph",
+              "description": "Ein Besitzer darf sich bei verbotener Wegnahme einer Sache angemessen zur Wehr setzen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Ehe",
+              "description": "(1) Die Ehe wird durch beiderseitige Erklärung vor einem Justizbeamten der Stadtverwaltung geschlossen.\n\n(2) Ehegatten sind zur gegenseitigen Fürsorge und Lebensgemeinschaft verpflichtet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Elterliche Sorge",
+              "description": "Eltern haben die Pflicht und das Recht zur Pflege und Erziehung des minderjährigen Kindes.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Unterhalt",
+              "description": "Verwandte in gerader Linie (Eltern – Kind) sind gesetzlich zum gegenseitigen Unterhalt verpflichtet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Erbfähigkeit",
+              "description": "Erbfähig ist, wer zur Zeit des Erbfalls lebt oder zum Zeitpunkt gezeugt war.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Testament",
+              "description": "Ein Testament ist eine formbedürftige, einseitige Verfügung über den Nachlass und bedarf der Schriftform.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Gesetzliche Erbfolge",
+              "description": "Ohne Testament tritt die gesetzliche Erbfolge ein – zuerst erben Ehepartner und Kinder, danach weitere Verwandte.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
