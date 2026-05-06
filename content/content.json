@@ -6971,7 +6971,7 @@
   "priceLists": [
     {
       "factionId": "rettungsdienst",
-      "title": "Rettungsdienst Preisliste",
+      "title": "Rettungsdienst",
       "items": [
         {
           "name": "🧾 1. EINSATZPAUSCHALEN (Grundlage jeder Rechnung)",
@@ -7187,7 +7187,7 @@
     },
     {
       "factionId": "klinikum",
-      "title": "Klinikum Preisliste",
+      "title": "Klinikum ",
       "items": [
         {
           "name": "🧾 1. AUFNAHME & GRUNDKOSTEN",
