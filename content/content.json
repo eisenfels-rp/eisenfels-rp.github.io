@@ -6555,7 +6555,9 @@
       "name": "Oberlandesgericht",
       "description": "Höhere Instanz für besonders wichtige Verfahren.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "oberlandesgericht",
+      "icon": ""
     },
     {
       "factionId": "justiz",
