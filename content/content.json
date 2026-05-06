@@ -4748,7 +4748,7 @@
               "description": "(3) In schweren Fällen:\n- Einziehung von Transportmitteln\n- Temporäres Aufenthaltsverbot für gefährdete oder unter Verdacht stehende Personen\n",
               "minFine": "",
               "maxFine": "50.000 €",
-              "jailMinutes": "",
+              "jailMinutes": "0 - 45",
               "points": ""
             },
             {
@@ -4770,15 +4770,6 @@
               "points": ""
             }
           ],
-          "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
-        },
-        {
-          "slug": "grenzschutzgesetz",
-          "title": "Grenzschutzgesetz",
-          "description": "",
-          "paragraphs": [],
-          "media": [],
-          "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
