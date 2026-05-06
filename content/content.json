@@ -6043,6 +6043,51 @@
               "maxFine": "",
               "jailMinutes": "",
               "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt am Tag der Veröffentlichung durch die Justizverwaltung Eisenfurt in Kraft.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "Anhang A",
+              "title": "Muster-Mietvertrag (Wohnraum)",
+              "description": "- Mietparteien\n- Beschreibung des Mietobjekts\n- Miethöhe & Nebenkosten\n- Kaution\n- Mietdauer & Kündigung\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "Anhang B",
+              "title": "Muster-Testament (Privat)",
+              "description": "„Ich, [Name], bestimme: Mein gesamtes Vermögen geht an [Name].\n Ort, Datum, Unterschrift“",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "Anhang C",
+              "title": "Muster-Sorgerechtsvereinbarung",
+              "description": "- Daten beider Elternteile\n- Regelungen zu Aufenthalt, Bildung, Besuch\n- Unterschriften beider Parteien\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "Anhang D",
+              "title": "Muster-Unterhaltsvereinbarung",
+              "description": "- Beteiligte Parteien\n- Monatlicher Unterhaltsbetrag\n- Zahlungsmodus\n- Dauer & Laufzeit\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
             }
           ],
           "media": [],
