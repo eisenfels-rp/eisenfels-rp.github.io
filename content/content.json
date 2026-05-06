@@ -302,7 +302,7 @@
       "slug": "Verwaltungskosten",
       "title": "Verwaltungskosten",
       "parentId": "justiz",
-      "order": 3,
+      "order": 2,
       "showInSidebar": true,
       "type": "price-list",
       "factionId": "justiz",
