@@ -7356,11 +7356,11 @@
     },
     {
       "factionId": "justiz",
-      "name": "Kontakt folgt",
-      "role": "Ansprechpartner",
+      "name": "Justizverwaltung",
+      "role": "Sam Camillieri",
       "discord": "",
       "email": "",
-      "note": "Kann im CMS geändert werden."
+      "note": "Justizdirektor"
     },
     {
       "factionId": "polizei",
