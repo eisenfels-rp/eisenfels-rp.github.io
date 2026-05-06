@@ -735,6 +735,21 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/BHHzsrf0/Chat-GPT-Image-6-Mai-2026-21-09-12.png"
+    },
+    {
+      "id": "seite-ow4ko1",
+      "slug": "amtsgericht",
+      "title": "Amtsgericht",
+      "parentId": "justiz-fachabteilungen",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Neue Seite",
+      "media": [],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": ""
     }
   ],
   "lawGroups": [
