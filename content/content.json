@@ -6968,7 +6968,7 @@
       "title": "Rettungsdienst Preisliste",
       "items": [
         {
-          "name": "**🧾 1. EINSATZPAUSCHALEN (Grundlage jeder Rechnung)**",
+          "name": "🧾 1. EINSATZPAUSCHALEN (Grundlage jeder Rechnung)",
           "price": "",
           "note": ""
         },
@@ -6993,189 +6993,189 @@
           "note": "Diese wird immer berechnet, sobald EMS ausrückt"
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "🚨 2. NOTFALLVERSORGUNG VOR ORT",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Erste Hilfe (Basic)",
+          "price": "500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Erweiterte Versorgung (Monitoring, Stabilisierung)",
+          "price": "1200 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Schwerverletztenversorgung",
+          "price": "2500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Reanimation (CPR + Defi)",
+          "price": "4500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Langzeit-Reanimation (>10 Minuten)",
+          "price": "6000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Versorgung mehrerer Verletzungen",
+          "price": "2500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "💉 3. MEDIKAMENTE & MATERIAL (separat abrechenbar)",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Schmerzmittel (leicht)",
+          "price": "150 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Schmerzmittel (stark)",
+          "price": "300 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Adrenalin",
+          "price": "250 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Sedierung",
+          "price": "500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Infusion",
+          "price": "300 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Blutstillende Mittel",
+          "price": "500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "weitere Medikamente",
+          "price": "250 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Verband",
+          "price": "50 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Medkit",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Defibrillator Nutzung",
+          "price": "1000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Sauerstoffgabe",
+          "price": "250 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "🚑 4. TRANSPORTKOSTEN",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Standardtransport",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Transport mit Überwachung",
+          "price": "2000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Intensivtransport",
+          "price": "3500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "ransport mit Reanimation",
+          "price": "3000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "🚁 5. SPEZIALEINSÄTZE",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Verkehrsunfall",
+          "price": "1000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Schussverletzung",
+          "price": "2500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Explosion / Großschaden",
+          "price": "5000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Massenunfall (pro Patient)",
+          "price": "2500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Höhenrettung / schwierige Bergung",
+          "price": "4000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Luftrettung Einsatz",
+          "price": "4000 € - 10.000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "🏠 6. NICHT-NOTFALL LEISTUNGEN",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Hausbesuch",
+          "price": "1000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Gesundheitscheck",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Krankentransport geplant",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Event-Absicherung (pro Stunde)",
+          "price": "2000 € - 5000 €",
+          "note": ""
         },
         {
-          "name": "Leistung",
-          "price": "Preis",
-          "note": "Hinweis"
+          "name": "Dienst bei Fraktionen (z. B. Polizei) (pro Stunde)",
+          "price": "3000 €",
+          "note": ""
         }
       ]
     },
