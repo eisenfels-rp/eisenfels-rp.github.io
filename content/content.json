@@ -6686,7 +6686,9 @@
       "name": "Gerichtsvollzieher",
       "description": "Vollstrecken gerichtliche Entscheidungen und Bescheide.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "gerichtsvollzieher",
+      "icon": ""
     },
     {
       "factionId": "justiz",
