@@ -255,7 +255,10 @@
       "type": "departments",
       "factionId": "stadtverwaltung",
       "accent": "blue",
-      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+      "body": "",
+      "logo": "",
+      "banner": "https://i.ibb.co/WNDYdFdL/Chat-GPT-Image-6-Mai-2026-22-50-56.png",
+      "media": []
     },
     {
       "id": "justiz-preisliste",
@@ -989,6 +992,21 @@
       "factionId": "stadtverwaltung",
       "logo": "",
       "banner": "https://i.ibb.co/bj94vZwD/Chat-GPT-Image-6-Mai-2026-22-55-16.png"
+    },
+    {
+      "id": "seite-jf7wao",
+      "slug": "fraktionsleitung",
+      "title": "Fraktzionsleitung",
+      "parentId": "stadtverwaltung-fachbereiche",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Fraktionsleitung\n\nDie Fraktionsleitung von Eisenfels RP ist für die Organisation, Koordination und Verwaltung aller offiziellen Fraktionen innerhalb des Servers zuständig. Sie unterstützt Fraktionsleitungen bei organisatorischen Anliegen, vermittelt bei Konflikten und sorgt für strukturierte sowie faire Abläufe innerhalb des Fraktionssystems.\n\nZu den Aufgaben der Fraktionsleitung gehören insbesondere:\n\n- die Betreuung und Unterstützung bestehender Fraktionen,\n- die Vermittlung bei Problemen und Konflikten,\n- die Überwachung fraktionsbezogener Regelungen,\n- die Beratung bei neuen Fraktionskonzepten,\n- sowie die Prüfung, Genehmigung oder Ablehnung neuer Fraktionen.\n\nDie Fraktionsleitung handelt neutral, verantwortungsbewusst und stets im Interesse eines ausgewogenen und hochwertigen Roleplays. Durch enge Zusammenarbeit mit den Fraktionen sorgt sie für Aktivität, Struktur und langfristige Stabilität innerhalb der Servergemeinschaft.\n\n*Organisation. Verantwortung. Fraktionsroleplay.*",
+      "media": [],
+      "factionId": "stadtverwaltung",
+      "logo": "",
+      "banner": "https://i.ibb.co/B2F6pZW6/Chat-GPT-Image-6-Mai-2026-23-03-08.png"
     }
   ],
   "lawGroups": [
@@ -6893,7 +6911,7 @@
       "factionId": "stadtverwaltung",
       "name": "Fraktionsleitung",
       "description": "Die Fraktionsleitung organisiert und leitet die jeweiligen Fraktionen innerhalb des Servers.",
-      "slug": "",
+      "slug": "fraktionsleitung",
       "icon": "",
       "logo": "",
       "banner": ""
