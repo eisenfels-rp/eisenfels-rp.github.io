@@ -950,7 +950,7 @@
       "showInSidebar": true,
       "type": "page",
       "accent": "orange",
-      "body": "# Neue Seite",
+      "body": "Die Gewerbeaufsicht der Justiz Eisenfurt überwacht die Einhaltung gesetzlicher Vorschriften im Bereich Gewerbe, Arbeitsschutz und betrieblicher Sicherheit innerhalb des Staatsgebiets. Sie sorgt dafür, dass Unternehmen, Betriebe und gewerbliche Einrichtungen ihre gesetzlichen Pflichten erfüllen und wirtschaftliche Tätigkeiten rechtskonform ausgeübt werden.\n\nZu den Aufgaben der Gewerbeaufsicht gehören insbesondere:\n\n- die Kontrolle von Betrieben und gewerblichen Einrichtungen,\n- die Überwachung von Sicherheits- und Arbeitsschutzvorschriften,\n- die Prüfung gewerberechtlicher Auflagen und Genehmigungen,\n- die Ahndung von Verstößen gegen Gewerbe- und Sicherheitsvorschriften,\n- sowie die Beratung von Unternehmen und Beschäftigten zu gesetzlichen Anforderungen.\n\nDie Mitarbeiterinnen und Mitarbeiter der Gewerbeaufsicht handeln sachlich, unabhängig und verantwortungsbewusst. Ziel ihrer Arbeit ist es, sichere Arbeitsbedingungen, faire wirtschaftliche Standards sowie den Schutz von Beschäftigten, Verbraucher:innen und der Allgemeinheit sicherzustellen.\n\nDie Gewerbeaufsicht der Justiz Eisenfurt verbindet moderne Aufsichtsarbeit mit konsequenter Rechtsdurchsetzung und trägt damit wesentlich zu Sicherheit, Ordnung und einem verantwortungsvollen Wirtschaftsleben bei.\n\n**Sicherheit. Recht. Verantwortung.**",
       "media": [
         {
           "type": "image",
@@ -960,7 +960,7 @@
         }
       ],
       "factionId": "justiz",
-      "logo": "",
+      "logo": "https://i.ibb.co/Z12hvxFb/Chat-GPT-Image-6-Mai-2026-22-18-42.png",
       "banner": "https://i.ibb.co/1frqXGH6/Chat-GPT-Image-6-Mai-2026-22-17-02.png"
     }
   ],
