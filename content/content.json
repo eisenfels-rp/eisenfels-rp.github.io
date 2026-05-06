@@ -6779,7 +6779,9 @@
       "name": "Ordnungsbehörde",
       "description": "Ahndet Ordnungsverstöße und überwacht kommunale Regelungen.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "ordnungsbehoerde",
+      "icon": ""
     },
     {
       "factionId": "justiz",
