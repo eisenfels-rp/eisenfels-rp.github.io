@@ -1038,11 +1038,11 @@
       "showInSidebar": true,
       "type": "trainings-list",
       "accent": "orange",
-      "body": "# Neue Seite",
+      "body": "# Öffentliche Bekanntmachungen\n\nAuf dieser Seite veröffentlicht die Justiz Eisenfurt alle wichtigen öffentlichen Bekanntmachungen, Mitteilungen und rechtlichen Hinweise.\n\nHier finden Bürger:innen aktuelle Informationen zu Entscheidungen, Terminen, Verordnungen und weiteren öffentlichen Angelegenheiten der Justiz.",
       "media": [],
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
-      "banner": ""
+      "banner": "https://i.ibb.co/C5BWmnf0/Chat-GPT-Image-6-Mai-2026-23-23-15.png"
     }
   ],
   "lawGroups": [
