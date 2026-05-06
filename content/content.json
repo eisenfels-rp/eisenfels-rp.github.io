@@ -5172,7 +5172,188 @@
           "slug": "frkg",
           "title": "Feuerwehr-, Rettungsdienst- & Katastrophenschutzgesetz",
           "description": "Das Feuerwehr-, Rettungsdienst- & Katastrophenschutzgesetz Eisenfels RP (FRKG-ESF) regelt die Aufgaben, Zuständigkeiten und Befugnisse der Feuerwehr, des Rettungsdienstes sowie der Katastrophenschutzbehörden innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für Maßnahmen zur Gefahrenabwehr, Menschenrettung sowie zum Schutz der Bevölkerung, der Umwelt und staatlicher Einrichtungen.\n\nZiel dieses Gesetzes ist es, eine schnelle, koordinierte und effektive Hilfeleistung bei Bränden, Unglücksfällen, medizinischen Notlagen, Naturereignissen sowie sonstigen Gefahren- und Katastrophenlagen sicherzustellen. Das FRKG-IL dient insbesondere der Aufrechterhaltung der öffentlichen Sicherheit und der Gewährleistung eines funktionierenden Gefahrenabwehrsystems.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie der Verhältnismäßigkeit, der Gefahrenabwehr, der Amtshilfe sowie dem Schutz von Leben, Gesundheit und bedeutenden Sachwerten. Gleichzeitig schafft es klare Zuständigkeiten und Befugnisse für Einsatzkräfte und Behörden zur Durchführung notwendiger Rettungs-, Schutz- und Sicherungsmaßnahmen.\n\nMit seinem Inkrafttreten gilt das Feuerwehr-, Rettungsdienst- & Katastrophenschutzgesetz Eisenfels als verbindliche Grundlage für sämtliche Maßnahmen der nichtpolizeilichen Gefahrenabwehr im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck des Gesetzes",
+              "description": "Dieses Gesetz regelt die Aufgaben, Zuständigkeiten, Organisation und Befugnisse der Feuerwehr, des Rettungsdienstes, des Katastrophenschutzes, des Kampfmittelräumdienstes sowie der freiwilligen Feuerwehren im gesamten Staatsgebiet Eisenfurt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Aufgaben",
+              "description": "(1) Die Feuerwehr leistet Hilfe bei Bränden, Unfällen, Naturkatastrophen, Umweltgefahren und ähnlichen Ereignissen.\n\n(2) Der Rettungsdienst übernimmt Notfallrettung und qualifizierten Krankentransport. Bei Verhinderung des öffentlichen Rettungsdienst, können Uniklinikum Eisenfurt und Berufsfeuerwehr Eisenfurt, die rettungsdienstliche Versorgung übernehmen, bis der Rettungsdienst Eisenfurt wieder einsatzbereit ist. Bei Großschadenslagen, obliegt es dem Rettungsdienst Eisenfurt, weitere Kräfte der anderen Organisationen hinzu zuziehen.\n\n(3) Der Kampfmittelräumdienst ist zuständig für Erkennung, Entschärfung und Beseitigung von explosiven Stoffen.\n\n(4) Der Katastrophenschutz schützt bei Großschadenslagen oder überregionalen Gefahrenlagen.\n\n(5) Alle Einheiten arbeiten präventiv im Bereich Aufklärung, Vorsorge und Gefahrenabwehr.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Organisation",
+              "description": "(1) Eingesetzte Strukturen:\n- Berufsfeuerwehr,\n- Freiwillige Feuerwehr,\n- Rettungsdienste (öffentlich und privat),\n- Katastrophenschutzeinheiten,\n- Kampfmittelräumdienst,\n- Technische Einsatzleitungen (TEL) auf Landes- und Bezirksebene.\n\n(2) Die Koordination und Einsatzleitung erfolgt durch die Justizverwaltung Eisenfurt und die Stadtverwaltung.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Alarmierungsstufen",
+              "description": "Stufe 1 – Kleinlage: lokale Ereignisse ohne externe Hilfe\nStufe 2 – Mittlere Lage: Bedarf überörtlicher Einheiten\nStufe 3 – Großeinsatz: mehrere Einsatzabschnitte, interkommunale Koordination\nStufe 4 – Katastrophenfall: Koordinierung durch Katastrophenschutzstab",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Fahrzeuge & Ausrüstung",
+              "description": "(1) Feuerwehr:\nELW, HLF, DLK, TLF, SW, GW-L, LF-KatS, AB\n\n(2) Rettungsdienst:\nKTW, RTW, NEF\n\n(3) Katastrophenschutz:\nMTW, GW-San, Feldküche, Notstrom, Zelte, Trinkwasser- und Dekon-Einheiten\n\n(4) Kampfmittelräumdienst:\nSpezialfahrzeuge, Explosivstofftransporter, Schutzanzüge\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Einsatzzeiten",
+              "description": "Berufsfeuerwehr: 60 Sek. Ausrückzeit\nFreiwillige Feuerwehr: ≤ 5 Min. nach Alarm\nRettungsdienst: Eintreffzeit ≤ 4 Min.\nKatastrophenschutz: Mobilisierung ≤ 5 Min.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Durchführungsverordnung",
+              "description": "(1) Die Justizverwaltung erlässt verbindliche Regeln zu:\nTaktik, Funk, Einsatzdokumentation, Hygiene, Sicherheitskonzepte\nZusammenarbeit mit Polizei, Justiz und Stadtverwaltung",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Verpflichtung & Ehrenamt",
+              "description": "(1) Freiwillige Kräfte handeln ehrenamtlich.\n\n(2) Sie erhalten eine Aufwandsentschädigung.\n\n(3) Arbeitgeber sind verpflichtet, Freistellungen zu ermöglichen.\n\n(4) Kein beruflicher Nachteil durch Einsätze oder Übungen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Grundsatz  Aus- & Weiterbildung",
+              "description": "(1) Medizinische, rettungsdienstliche und brandschutztechnische Aus- und Weiterbildungen unterliegen der staatlichen Kontrolle und dürfen nur an dafür zugelassenen Einrichtungen durchgeführt werden.\n\n(2) Ziel ist die Sicherstellung einheitlicher Standards, Qualität und Fachkompetenz im gesamten Staatsgebiet von Eisenfurt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Ausbildungsstätten",
+              "description": "(1) Ärztliche Ausbildungen und Weiterbildungen sind ausschließlich am Klinikum Eisenfurt zulässig.\n\n(2) Rettungsdienst- und Sanitätsdienstausbildungen erfolgen ausschließlich beim Rettungsdienst Eisenfurt in Zusammenarbeit mit dem Klinikum Eisenfurt.\n\n(3) Brandschutz- und feuerwehrtechnische Ausbildungen erfolgen ausschließlich bei der Berufsfeuerwehr Bitterhafen.\n\n(4) Auch wenn Personal in anderen Betrieben oder Einrichtungen eingesetzt wird, bleibt die Ausbildungshoheit den genannten Stellen vorbehalten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Ausbildungspläne",
+              "description": "(1) Ausbildungspläne sind in enger Absprache mit der Justizverwaltung zu erstellen und regelmäßig zu aktualisieren.\n\n(2) Inhalte, Dauer, Prüfungen und Qualifikationsnachweise richten sich nach den Vorgaben der Justizverwaltung.\n\n(3) Abschlussprüfungen sind von autorisierten Ausbildern der jeweiligen Ausbildungsstätte abzunehmen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
+              "title": "Fort- und Weiterbildungspflicht",
+              "description": "(1) Ärztliches, rettungsdienstliches und feuerwehrtechnisches Personal ist verpflichtet, regelmäßig an Fortbildungen und Re-Zertifizierungen teilzunehmen.\n\n(2) Der Nachweis über absolvierte Fortbildungen ist halbjährlich an die zuständige Aufsichtsbehörde der Justizverwaltung zu übermitteln.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Sanktionen",
+              "description": "(1) Wer Ausbildungen oder Fortbildungen ohne Zulassung durchführt, handelt ordnungswidrig.\n\n(2) Verstöße können mit Bußgeldern bis zu 15.000 € sowie mit Entzug der Ausbildungserlaubnis sanktioniert werden.\n",
+              "minFine": "0 €",
+              "maxFine": "15.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Meldewege & Einsatzleitung",
+              "description": "(1) Zuständigkeit liegt bei der örtlichen Leitstelle.\n\n(2) Ab Stufe 3 übernimmt die Technische Einsatzleitung.\n\n(3) Im Katastrophenfall entscheidet der Krisenstab.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Katastrophenschutzübungen",
+              "description": "(1) Monatlich ist mindestens eine realistische Übung durchzuführen.\n\n(2) Planung erfolgt interdisziplinär mit allen Organisationen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§16",
+              "title": "Einsatzrichtlinien",
+              "description": "- Priorität: Menschenrettung > Gefahrenabwehr > Sachwertschutz\n- Jeder Einsatz ist vollständig zu dokumentieren\n- Anweisungen der Einsatzleitung sind verbindlich\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§17",
+              "title": "Sonderbefugnisse",
+              "description": "Einsatzkräfte sind bei Gefahr im Verzug berechtigt,\n- Wohnungen & Fahrzeuge zu betreten,\n- Fahrzeuge zur Gefahrenabwehr zu beschlagnahmen,\n- Personen kurzfristig festzuhalten bei Störung des Einsatzes.\nDie Polizei ist zur Amtshilfe verpflichtet.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§18",
+              "title": "Dienstaufsicht & Disziplin",
+              "description": "(1) Fehlverhalten führt zu Verfahren durch die Justizverwaltung.\n\n(2) Gründe:\n- grobe Pflichtverletzung\n- Missachtung von Befehlen\n- Eigen- oder Fremdgefährdung\n\n(3) Maßnahmen:\n- Ermahnung\n- Dienstentbindung\n- Ausschluss vom Dienst\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§19",
+              "title": "Strafvorschriften",
+              "description": "(1) Wer Einsatzkräfte behindert oder angreift, wird nach dem StGB Eisenfels RP bestraft.\n\n(2) Fehlalarme sind kostenpflichtig und strafbar.\n\n(3) Zweckwidrige Nutzung von Ausrüstung ist strafbar & ersatzpflichtig.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§20",
+              "title": "Inkrafttreten",
+              "description": "Mit Veröffentlichung tritt dieses Gesetz in Kraft. Alle früheren Regelungen zu Feuerwehr, Rettungsdienst, KatS und Kampfmittelräumung werden aufgehoben.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
