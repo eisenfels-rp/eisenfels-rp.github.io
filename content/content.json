@@ -4860,8 +4860,35 @@
             },
             {
               "paragraph": "§9",
+              "title": "Luftfahrzeuge & Flugberechtigung",
+              "description": "(1) Das Führen von Luftfahrzeugen innerhalb des Staatsgebiets Inselleben RP ist ausschließlich mit gültiger behördlicher Fluglizenz zulässig.\n\n(2) Als Luftfahrzeuge im Sinne dieses Gesetzes gelten insbesondere:\n- Flugzeuge\n- Hubschrauber\n- sonstige motorisierte Luftfahrzeuge\n\n(3) Für das Führen von Flugzeugen ist eine Fluglizenz Klasse F erforderlich.\n\n(4) Für das Führen von Hubschraubern ist eine Fluglizenz Klasse H erforderlich.\n\n(5) Die Lizenzen werden durch die zuständige Luftfahrt- oder Verwaltungsbehörde Inselleben RP ausgestellt.\n\n(6) Die zuständige Behörde kann:\n- Flugprüfungen,\n- Sicherheitsunterweisungen,\n- medizinische Tauglichkeitsprüfungen\n- sowie regelmäßige Nachweise der Flugfähigkeit verlangen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Zulassung & Betrieb von Luftfahrzeugen",
+              "description": "(1) Luftfahrzeuge dürfen nur betrieben werden, wenn:\n- sie ordnungsgemäß registriert sind,\n- keine Sicherheitsbedenken bestehen,\n- und alle gesetzlichen Voraussetzungen erfüllt werden.\n\n(2) Der Betrieb von Luftfahrzeugen ist verboten:\n- ohne gültige Lizenz,\n- unter Alkohol- oder Drogeneinfluss,\n- bei erheblicher Gefährdung des öffentlichen Luftraums,\n- in gesperrten oder militärischen Flugzonen ohne Genehmigung.\n\n(3) Polizeibehörden, Dicherheitsbehörden sowie Luftaufsichtsstellen sind berechtigt, Luftfahrzeuge zu kontrollieren und bei Gefahr sicherzustellen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Verstöße",
+              "description": "(1) Ordnungswidrig handelt insbesondere, wer:\n- ohne gültige Fluglizenz ein Luftfahrzeug führt,\n- gegen Flugbeschränkungen verstößt,\n- unzulässige Flugmanöver durchführt,\n- Sicherheitsanweisungen missachtet.\n\n(2) Verstöße können mit:\n- Geldbußen bis 100.000 €\n- Flugverboten\n- Lizenzentzug\ngeahndet werden.\n\n(3) In schweren Fällen, insbesondere bei Gefährdung von Menschenleben oder staatlichen Einrichtungen, ist eine Freiheitsstrafe bis zu 45 Hafteinheiten zulässig.\n\n(4) Luftfahrzeuge können beschlagnahmt oder eingezogen werden.",
+              "minFine": "0 €",
+              "maxFine": "100.000 €",
+              "jailMinutes": "0 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§12",
               "title": "Inkrafttreten",
-              "description": "Dieses Gesetz tritt mit Veröffentlichung durch die Justizverwaltung in Kraft. Ergänzende Durchführungsverordnungen, Genehmigungsformulare und Schulungspflichten können durch die Stadtverwaltung geregelt werden.",
+              "description": "Dieses Gesetz tritt mit Veröffentlichung durch die Justizverwaltung Eisenfurt in Kraft.",
               "minFine": "",
               "maxFine": "",
               "jailMinutes": "",
