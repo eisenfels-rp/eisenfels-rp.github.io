@@ -901,7 +901,7 @@
       "id": "seite-2jr066",
       "slug": "vollzugsdienst-naturschutz",
       "title": "Vollzugsdienst Naturschutz",
-      "parentId": "",
+      "parentId": "justiz-fachabteilungen",
       "order": 10,
       "showInSidebar": true,
       "type": "page",
@@ -940,6 +940,18 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/39RPtYVb/Chat-GPT-Image-4-Mai-2026-15-50-30.png",
       "banner": "https://i.ibb.co/VYsxbFky/Chat-GPT-Image-6-Mai-2026-22-10-50.png"
+    },
+    {
+      "id": "seite-envj43",
+      "slug": "neue-seite",
+      "title": "Neue Seite",
+      "parentId": "",
+      "order": 10,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Neue Seite",
+      "media": []
     }
   ],
   "lawGroups": [
