@@ -801,6 +801,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/bMyhVp2D/Chat-GPT-Image-6-Mai-2026-21-25-29.png"
+    },
+    {
+      "id": "seite-h03d7a",
+      "slug": "richter",
+      "title": "Richter",
+      "parentId": "justiz-fachabteilungen",
+      "order": 5,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Richterinnen und Richter der Justiz Eisenfurt bilden das unabhängige Fundament der Rechtsprechung innerhalb des Staatsgebiets. Sie entscheiden unparteiisch, ausschließlich auf Grundlage geltender Gesetze sowie ihres richterlichen Gewissens und tragen die Verantwortung für faire, rechtsstaatliche und nachvollziehbare Entscheidungen.\n\nIm Mittelpunkt ihrer Tätigkeit stehen die Wahrung der Rechtsordnung, der Schutz der Grundrechte sowie die Sicherung eines gerechten Verfahrens für alle Beteiligten. Richter:innen der Justiz Eisenfurt handeln unabhängig von äußeren Einflüssen und gewährleisten eine objektive Prüfung jedes einzelnen Verfahrens.\n\nDie richterliche Arbeit umfasst insbesondere die Verhandlung und Entscheidung strafrechtlicher, zivilrechtlicher sowie öffentlich-rechtlicher Streitigkeiten. Dabei sorgen die Richterinnen und Richter für die konsequente Anwendung der Gesetzbücher und Verfahrensordnungen und stärken das Vertrauen der Bürger:innen in den Rechtsstaat.\n\nDie Richter:innen der Justiz Eisenfurt stehen für Integrität, Neutralität und Verantwortung – im Dienst des Rechts und der Gerechtigkeit.\n\n**Unabhängig. Unparteiisch. Dem Recht verpflichtet.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/84fBb8BV/j3.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/8gxnh8z5/Chat-GPT-Image-6-Mai-2026-21-37-57.png"
     }
   ],
   "lawGroups": [
