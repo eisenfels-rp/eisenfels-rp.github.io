@@ -6860,7 +6860,7 @@
       "factionId": "stadtverwaltung",
       "name": "Admins",
       "description": "Die Serveradministration gewährleistet den sicheren, stabilen und reibungslosen Betrieb von Eisenfels RP.",
-      "slug": "",
+      "slug": "admins",
       "icon": "",
       "logo": "",
       "banner": ""
