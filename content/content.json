@@ -6608,7 +6608,9 @@
       "name": "Richter",
       "description": "Leiten Verfahren, treffen Entscheidungen und sprechen Urteile.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "richter",
+      "icon": ""
     },
     {
       "factionId": "justiz",
