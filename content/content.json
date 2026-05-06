@@ -4651,7 +4651,125 @@
           "body": "",
           "media": [],
           "description": "Das Grenzschutzgesetz Eisenfels (GSG-ESF) regelt den Schutz, die Überwachung und die Sicherung der Staatsgrenzen des Staates Eisenfurt. Es bildet die rechtliche Grundlage für die Aufgaben, Befugnisse und Maßnahmen der zuständigen Grenzschutzbehörden zur Gewährleistung der öffentlichen Sicherheit und Ordnung im Grenzbereich.\n\nZiel dieses Gesetzes ist es, illegale Grenzübertritte, Schmuggel, Menschenhandel sowie sonstige grenzüberschreitende Straftaten zu verhindern und gleichzeitig einen geordneten und sicheren Personen- und Warenverkehr zu gewährleisten. Das GSG-ESF dient dem Schutz der staatlichen Souveränität sowie der Sicherheit der Bevölkerung und staatlicher Einrichtungen.\n\nDas Gesetz orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie der Verhältnismäßigkeit, der Gesetzmäßigkeit staatlichen Handelns sowie dem Schutz der Freiheits- und Persönlichkeitsrechte. Gleichzeitig schafft es klare Befugnisse für Grenzschutzbehörden zur Durchführung von Kontrollen, Identitätsfeststellungen, Überwachungsmaßnahmen und Gefahrenabwehr.\n\nMit seinem Inkrafttreten gilt das Grenzschutzgesetz Eisenfels RP als verbindliche Grundlage für sämtliche Maßnahmen des Grenzschutzes im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck und Geltungsbereich",
+              "description": "(1) Dieses Gesetz regelt die Aufgaben, Befugnisse und Einsatzbedingungen der Zoll- und Grenzschutzeinheit Eisenfurt (ZGR-ESF) im Bereich des Grenzschutzes.\n\n(2) Es gilt für:\n- alle festgelegten Grenzpunkte\n- Zollstationen und Kontrollposten\n- Infrastrukturübergänge (Brücken, Tunnels, Flug- und Wasserverbindungen)\n- temporäre Sperrzonen innerhalb des Staatsgebiets von Eisenfurt",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Definition von Grenzschutzgebieten",
+              "description": "(1) Als Grenzschutzgebiete gelten:\n- fest installierte Kontrollpunkte der ZGR-ESF\n- logistische Knotenpunkte mit sensiblen Verkehrsbewegungen\n- Übergänge zu Sonderzonen, Umlandverbindungen oder abgeschotteten Bezirken\n- temporäre Sperrzonen gemäß Anordnung der Justizverwaltung Eisenfurt\n\n(2) Diese Zonen unterliegen besonderen Überwachungsmaßnahmen sowie Zutritts- und Durchfahrtseinschränkungen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Kontrollbefugnisse",
+              "description": "(1) Die ZGR-ESF ist berechtigt:\n- Personen- und Fahrzeugkontrollen auch ohne konkreten Verdacht durchzuführen\n- Fahrzeuge und Container anzuhalten und zu durchsuchen\n- Transportdokumente auf Echtheit und Richtigkeit zu prüfen\n- temporäre Absperrungen und Durchfahrtskontrollen einzurichten\n- Bodycams zur Eigensicherung einzusetzen\n\n(2) Bei Gefahr im Verzug kann die ZGR-ESF temporär komplette Grenzabschnitte oder Transportachsen sperren und umleiten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Kooperationspflichten",
+              "description": "(1) Alle Betreiber von Speditionen, Logistikzentren, Bahnterminals, Flug- und Wassertransportdiensten sind verpflichtet, auf Anforderung:\n- vollständige Transportdokumentation\n- Ladeverzeichnisse\n- Fahrtrouten\n- Identitätslisten\nvorzulegen.\n\n(2) Die Zusammenarbeit mit Polizei, Stadtverwaltung, Justizverwaltung und externen Sicherheitsdiensten ist bei grenznahen Einsätzen verpflichtend.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Sperr- und Gefahrenzonen",
+              "description": "(1) Die ZGR-ESF kann temporäre Sperrzonen errichten, wenn:\n- ein erhöhtes Gefahrenpotenzial besteht\n- eine Sicherheitslage, Bedrohung oder Zwischenfall erkennbar ist\n- eine geplante Durchsuchungsaktion durchgeführt werden soll\n\n(2) Innerhalb dieser Zonen gelten:\n- Aufenthaltsverbote\n- vollständige Durchfahrtskontrollen\n- Zugangsbeschränkungen für Fahrzeuge und Personen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6a",
+              "title": "Verstöße und Sanktionen - Missachtung von Platzverweis",
+              "description": "",
+              "minFine": "0",
+              "maxFine": "2500 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6b",
+              "title": "Verstöße und Sanktionen - Betreten einer Sperrzone ohne Berechtigung",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "5000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6c",
+              "title": "Verstöße und Sanktionen - Verweigerung von Kontrollmaßnahmen",
+              "description": "",
+              "minFine": "0 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6d",
+              "title": "Verstöße und Sanktionen - Flucht vor Kontrolle",
+              "description": "",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "0 - 30",
+              "points": ""
+            },
+            {
+              "paragraph": "§6e",
+              "title": "Verstöße und Sanktionen - Angriff auf Beamte",
+              "description": "",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "0 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§6f",
+              "title": "Verstöße und Sanktionen - Beihilfe zur illegalen Ein- oder Ausreise",
+              "description": "(3) In schweren Fällen:\n- Einziehung von Transportmitteln\n- Temporäres Aufenthaltsverbot für gefährdete oder unter Verdacht stehende Personen\n",
+              "minFine": "",
+              "maxFine": "50.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Dokumentation & Meldung",
+              "description": "(1) Jeder Einsatz, jede Maßnahme oder Kontrolle ist durch die ZGR-ESF vollständig zu dokumentieren.\n\n(2) Verstöße, Verdachtslagen oder festgestellte Straftaten sind unverzüglich an die Justizverwaltung zu melden.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Inkrafttreten",
+              "description": "(1) Dieses Gesetz tritt mit Veröffentlichung durch die Justizverwaltung Eisenfurt in Kraft.\n\n(2) Es steht als Sondergesetz gleichrangig neben dem Polizeigesetz (PolG-IRP) und ist ausschließlich für grenzschutzbezogene Vollzugsaufgaben innerhalb des RP-Staats vorgesehen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
         },
         {
