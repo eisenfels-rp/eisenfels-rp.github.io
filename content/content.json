@@ -80,7 +80,11 @@
       "showInSidebar": true,
       "type": "faction",
       "accent": "orange",
-      "body": "# Stadtverwaltung\n\nDie Stadtverwaltung bildet das organisatorische Zentrum von Eisenfels. Sie koordiniert öffentliche Anliegen, interne Verwaltungsprozesse, Genehmigungen und behördliche Abläufe."
+      "body": "# Stadtverwaltung\n\nDie Stadtverwaltung bildet das organisatorische Zentrum von Eisenfels. Sie koordiniert öffentliche Anliegen, interne Verwaltungsprozesse, Genehmigungen und behördliche Abläufe.",
+      "factionId": "",
+      "logo": "",
+      "banner": "https://i.ibb.co/WNDYdFdL/Chat-GPT-Image-6-Mai-2026-22-50-56.png",
+      "media": []
     },
     {
       "id": "justiz",
@@ -953,6 +957,21 @@
       "body": "# Neue Seite",
       "media": [],
       "factionId": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "id": "seite-3k05r4",
+      "slug": "admins",
+      "title": "Admins",
+      "parentId": "stadtverwaltung-fachbereiche",
+      "order": 1,
+      "showInSidebar": false,
+      "type": "page",
+      "accent": "orange",
+      "body": "# Admins\n\nDie Serveradministration von Eisenfels RP ist für die Leitung, Überwachung und Verwaltung des gesamten Servergeschehens verantwortlich. Sie sorgt für die Einhaltung der Serverregeln, unterstützt bei Konflikten und gewährleistet ein faires, strukturiertes und hochwertiges Roleplay für alle Spieler:innen.\n\nZu den Aufgaben der Serveradministration gehören insbesondere:\n\n- die Überwachung des Servergeschehens,\n- die Durchsetzung der Community- und Roleplay-Regeln,\n- die Bearbeitung von Regelverstößen und Beschwerden,\n- die Unterstützung von Spieler:innen bei Problemen,\n- sowie die Organisation und Weiterentwicklung des Servers.\n\nDie Administratorinnen und Administratoren handeln neutral, verantwortungsbewusst und stets im Interesse der Community. Durch ihre Arbeit sorgen sie für Ordnung, Fairness und ein angenehmes Spielerlebnis innerhalb von Eisenfels RP.\n\n*Fairness. Ordnung. Hochwertiges Roleplay.*",
+      "media": [],
+      "factionId": "stadtverwaltung",
       "logo": "",
       "banner": ""
     }
