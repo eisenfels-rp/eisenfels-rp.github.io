@@ -6104,7 +6104,188 @@
           "slug": "verkehrsgesetzbuch",
           "title": "Verkehrsgesetzbuch",
           "description": "Das Verkehrsgesetzbuch Eisenfels RP (VG-ESF) regelt die Teilnahme am öffentlichen Straßenverkehr innerhalb des Staatsgebiets Eisenfurt. Es bildet die rechtliche Grundlage für die Sicherheit, Ordnung und den reibungslosen Ablauf des Verkehrs sowie für die Rechte und Pflichten aller Verkehrsteilnehmer:innen.\n\nZiel dieses Gesetzes ist es, Gefahren im Straßenverkehr zu verhindern, die Sicherheit aller Bürger:innen zu gewährleisten und ein verantwortungsbewusstes Verhalten im öffentlichen Verkehrsraum sicherzustellen. Das VG-ESF dient insbesondere der Regelung von Verkehrsverhalten, Fahrzeugzulassung, Fahrerlaubnissen sowie der Ahndung von Verkehrsverstößen und Gefährdungen.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie der gegenseitigen Rücksichtnahme, der Verhältnismäßigkeit staatlicher Maßnahmen sowie dem Schutz von Leben, Gesundheit und Eigentum. Gleichzeitig schafft es klare Zuständigkeiten und Befugnisse für Behörden und Einsatzkräfte zur Verkehrsüberwachung und Gefahrenabwehr.\n\nMit seinem Inkrafttreten gilt das Verkehrsgesetzbuch Eisenfels RP als verbindliche Grundlage für sämtliche straßenverkehrsrechtlichen Regelungen im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck",
+              "description": "Ziel des Gesetzes ist es, die Sicherheit, Ordnung und Umweltverträglichkeit im öffentlichen Straßenverkehr sicherzustellen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Geltungsbereich",
+              "description": "Dieses Gesetz gilt für alle Personen und Fahrzeuge auf Straßen, Wegen und Plätzen im RP-Staatsgebiet Eisenfurt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Grundregeln",
+              "description": "(1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, dass keine Gefährdung, Schädigung oder vermeidbare Behinderung oder Belästigung erfolgt.\n\n(2) Es gilt Rechtsfahrgebot.\n\n(3) Verkehrszeichen und Anordnungen der Behörden sind verbindlich.\n\n(4) Technische Fahrzeugprüfungen (HU) sind in Anlage A geregelt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3a",
+              "title": "Geschwindigkeitsregelungen",
+              "description": "(1) Innerhalb geschlossener Ortschaften (Stadtgebiet) beträgt die zulässige Höchstgeschwindigkeit 80 km/h.\n\n(2) Auf Landstraßen außerhalb geschlossener Ortschaften beträgt die zulässige Höchstgeschwindigkeit 120 km/h\n\n(3) Auf Autobahnen besteht keine generelle Geschwindigkeitsbegrenzung, jedoch gilt eine angepasste Geschwindigkeitspflicht nach den allgemeinen Verkehrsregeln.\n\n(4) Zuwiderhandlungen werden nach dem Bußgeldkatalog Verkehr geahndet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3b",
+              "title": "Mitführen von Warndreieck und Verbandkasten",
+              "description": "(1) Jeder Fahrzeugführer ist verpflichtet, in seinem Fahrzeug mindestens ein funktionsfähiges Warndreieck und einen Verbandskasten mitzuführen.\n\n(2) Bei Pannen oder Unfällen ist das Warndreieck in ausreichendem Abstand zur Absicherung der Unfallstelle aufzustellen.\n\n(3) Der Verbandkasten hat jederzeit mit 5 Pflastern und 5 Verbandpäckchen befüllt zu sein. Dieser ist zur Erstversorgung der Patienten geeignet und einzusetzen.\n\n(4) Verstöße gegen diese Pflicht werden nach dem Bußgeldkatalog Verkehr geahndet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Gefährdung des Straßenverkehrs",
+              "description": "Wer grob verkehrswidrig Leib, Leben oder bedeutende Sachwerte gefährdet, wird mit Freiheitsstrafe bis zu 15 Hafteinheiten und/oder Geldstrafe bis zu 3750 € bestraft.",
+              "minFine": "",
+              "maxFine": "3750 €",
+              "jailMinutes": "15",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Gefährlicher Eingriff in den Straßenverkehr",
+              "description": "Wer vorsätzlich Hindernisse schafft oder Anlagen beschädigt, wird nach StGB §62 bestraft (Freiheitsstrafe bis 20 Hafteinheiten und/oder Geldstrafe).\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "20",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Ordnungswidrigkeiten",
+              "description": "Bußgelder und Verkehrsverstöße werden im Bußgeldkatalog Verkehr geregelt.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6a",
+              "title": "Fahrzeugveränderung & Tuning",
+              "description": "(1) Tuning ist erlaubt, wenn die Verkehrssicherheit nicht gefährdet wird. Zulässig sind:\n- Motortuning\n- Optisches Tuning (Lack, Felgen)\n- Fahrwerk (Tieferlegung)\n- Abgasanlagen (ohne übermäßige Lautstärke)\n\n(2) Verboten sind:\n- scharfe Kanten oder abstehende Bauteile\n- Sichtbehinderung\n- blendende Lichtquellen im Sichtbereich\n- Unterbodenbeleuchtung\n\n(3) HU-Eintragung und Prüfung sind bei sicherheitsrelevanten Umbauten verpflichtend.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6b",
+              "title": "Unterbodenbeleuchtung & Xenon-Beleuchtung",
+              "description": "(1) Unterbodenbeleuchtungist prinzipiell verboten\n\n(2) Xenonscheinwerfer sind erlaubt, außer den Farben Rot, Blau, Orange, Gelb\n\n(2) bei Zuwiederhandlung erfolgt ein Strafmaß von 750€ bei Erstverstoß, bei Wiederholten Verstoß 1500€und 1 Verkehrspunkt\n",
+              "minFine": "750 €",
+              "maxFine": "1500 €",
+              "jailMinutes": "",
+              "points": "0 - 1"
+            },
+            {
+              "paragraph": "§7",
+              "title": "Verkehrspunktesystem",
+              "description": "(1) Verkehrsverstöße werden mit Punkten im Verkehrszentralregister Eisenfurt belegt.\n\n(2) Bei 8 Punkten → Entzug der Fahrerlaubnis.\n\n(3) Punkte verfallen nach 8 Wochen ohne neue Verstöße.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6c",
+              "title": "Verhalten bei Wildunfällen",
+              "description": "(1) Kommt es zu einem Wildunfall, ist der Fahrer verpflichtet:\n- sofort anzuhalten, Unfallstelle zu sichern und ggf. Verletzte zu versorgen,\n- die Polizei oder zuständige Jagdbehörde unverzüglich zu informieren,\n- verletztes oder getötetes Wild nicht eigenmächtig zu entfernen.\n\n(2) Verstöße gegen diese Pflichten werden gemäß Bußgeldkatalog Verkehr geahndet.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Fahrverbot",
+              "description": "(1) Schwere Verstöße führen zu Fahrverbot, ggf. MPU.\n\n(2) Während des Fahrverbots ist das Führen eines Kfz verboten.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Technische Überwachung - Zweck",
+              "description": "Sicherstellung der Verkehrstauglichkeit, Verhinderung technischer Mängel und Schutz von Mensch und Umwelt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§10",
+              "title": "Technische Überwachung - Prüffristen",
+              "description": "HU durch zertifizierte Prüfstellen:\n- PKW, Motorrad, Transporter < 3,5t: alle 4 Wochen\n- LKW, Busse, RTW, Einsatzfahrzeuge: alle 4 Wochen\n- Neuzulassungen: Erste HU nach 8 Wochen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§11",
+              "title": "Technische Überwachung - Nachuntersuchung",
+              "description": "(1) Bei Mängeln: Nachuntersuchung binnen 24 Stunden\n\n(2) Nutzung bis dahin nur eingeschränkt\n\n(3) Wiederzulassung nur bei Beseitigung aller Mängel\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§12 ",
+              "title": "Technische Überwachung - Sanktionen",
+              "description": "≤ 24 h überfällig: 2000 €\n≤ 7 Tage: 5000 €\n7 Tage: 7500 € + 1 Punkt\n14 Tage: 10000 € + 15 Hafteinheiten + Stilllegung\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§13",
+              "title": "Technische Überwachung - Anerkannte Prüfstellen",
+              "description": "(1) Als anerkannt gelten:\n- staatlich zertifizierte Werkstätten\n- autorisierte technische Dienste\n- von der Justiz Eisenfurt lizenzierte Prüfer\n\n(2) Kontrolle durch die Justizverwaltung Eisenfurt\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§14",
+              "title": "Technische Überwachung - Einspruch und Ausnahme",
+              "description": "(1) Einspruch gegen HU-Ergebnisse: binnen 48 Stunden bei der Justiz\n\n(2) Ausnahmen sind auf Antrag möglich (z. B. zur Überführung)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§15",
+              "title": "Inkrafttreten",
+              "description": "Diese Anlage tritt mit Veröffentlichung in Kraft. Frühere Regelungen verlieren ihre Gültigkeit.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
