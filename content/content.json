@@ -5783,8 +5783,90 @@
         {
           "slug": "gewerbeordnung",
           "title": "Gewerbeordnung ",
-          "description": "",
-          "paragraphs": [],
+          "description": "Die Gewerbeordnung Eisenfels RP (GewO-ESF) regelt die Ausübung gewerblicher Tätigkeiten innerhalb des Staatsgebiets Eisenfurt. Sie bildet die rechtliche Grundlage für die Anmeldung, Führung, Überwachung und Beendigung von Gewerbebetrieben sowie für die Rechte und Pflichten von Gewerbetreibenden.\n\nZiel dieses Gesetzes ist es, einen geordneten, fairen und rechtskonformen Wirtschaftsverkehr sicherzustellen sowie die Interessen der Allgemeinheit, der Verbraucher:innen und der Wirtschaft zu schützen. Die GewO-ESF dient insbesondere der Schaffung klarer Rahmenbedingungen für unternehmerisches Handeln, den Schutz vor missbräuchlichen Geschäftspraktiken sowie der Sicherstellung ordnungsgemäßer gewerblicher Tätigkeiten.\n\nDas Gesetz orientiert sich an grundlegenden Prinzipien wie der Gewerbefreiheit, der Gleichbehandlung, der Verhältnismäßigkeit staatlicher Maßnahmen sowie der Rechtssicherheit im Wirtschaftsleben. Gleichzeitig schafft es Kontroll- und Eingriffsmöglichkeiten für zuständige Behörden, um Verstöße gegen gesetzliche Vorgaben wirksam zu verhindern und zu ahnden.\n\nMit ihrem Inkrafttreten gilt die Gewerbeordnung Eisenfels RP als verbindliche Grundlage für sämtliche gewerbe- und wirtschaftsrechtlichen Tätigkeiten im gesamten Staatsgebiet Eisenfurt.",
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Grundsatz der Gewerbefreiheit",
+              "description": "(1) Jeder Bürger im RP-Staat Eisenfurt ist berechtigt, ein Gewerbe auszuüben, soweit gesetzlich keine Einschränkungen bestehen.\n\n(2) Als Gewerbe gilt jede erlaubte, auf Dauer angelegte, eigenverantwortlich betriebene Tätigkeit mit Gewinnerzielungsabsicht.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Anzeigepflicht",
+              "description": "(1) Die Aufnahme eines Gewerbebetriebs ist vor Beginn bei der zuständigen Justizbehörde schriftlich oder digital anzuzeigen.\n\n(2) Die Anzeige muss enthalten:\n- Name, Vorname und Adresse des Gewerbetreibenden\n- Art, Name und Umfang des Gewerbes\n- genaue Betriebsstätte (z. B. Eisenfurt, Marktstraße 3)\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Erlaubnispflichtige Gewerbe",
+              "description": "(1) Für folgende Gewerbe ist eine zusätzliche behördliche Erlaubnis erforderlich:\n- Gastronomie und Schankwirtschaften\n- Sicherheitsdienste, Personenschutz\n- Glücksspiel, Wettbüros\n- Personenbeförderung (Taxi, Bus, Kurierdienste)\n- Vertrieb von Betäubungsmitteln (z. B. Cannabis)\n\n(2) Die Erlaubnis wird nur erteilt, wenn:\n- keine Zweifel an der Zuverlässigkeit bestehen\n- wirtschaftlich geordnete Verhältnisse nachgewiesen sind\n- baurechtliche und sicherheitsrelevante Auflagen erfüllt sind\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Pflichten der Gewerbetreibenden",
+              "description": "Gewerbetreibende sind verpflichtet:\n- gesetzliche und kommunale Vorschriften einzuhalten\n- ihren Betrieb sauber, sicher und zuverlässig zu führen\n- bei Kontrollen mitzuwirken und erforderliche Unterlagen vorzulegen\n- steuerliche und sozialrechtliche Pflichten zu erfüllen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Entzug und Widerruf",
+              "description": "Die Justiz kann eine Gewerbeerlaubnis widerrufen oder entziehen, wenn:\n- der Betreiber als unzuverlässig gilt\n- wiederholt Auflagen verletzt wurden\n- schwerwiegende oder strafbare Verstöße im Betrieb begangen wurden\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Zuständige Behörde",
+              "description": "(1) Zuständig für Genehmigungen, Prüfungen und Durchsetzung ist die Justizverwaltung Eisenfurt – Abteilung Wirtschaft & Ordnung.\n\n(2) Diese kann Prüfungsbeamte oder Ordnungsbehördliche-Kontrolleinheiten beauftragen.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§7",
+              "title": "Sanktionen bei Verstößen",
+              "description": "Verstöße können mit folgenden Maßnahmen geahndet werden:\n- Verwarnung mit Auflage\n- Bußgelder bis zu 10.000 €\n- befristete oder dauerhafte Betriebsschließung\n- Entzug der Gewerbeerlaubnis\n",
+              "minFine": "0 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§8",
+              "title": "Sofortmaßnahmen bei Gefahr",
+              "description": "Bei Gefahr im Verzug, z. B. bei Gesundheitsgefahr, Brandgefahr oder massiven Störungen der öffentlichen Ordnung, ist die sofortige Betriebsschließung zulässig.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Inkrafttreten",
+              "description": "Diese Gewerbeordnung tritt mit ihrer Veröffentlichung im Justizportal Eisenfels RP in Kraft. Frühere Vorschriften sind damit aufgehoben.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
