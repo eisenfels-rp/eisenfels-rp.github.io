@@ -852,6 +852,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/nNx09VvX/Chat-GPT-Image-6-Mai-2026-21-53-25.png",
       "banner": "https://i.ibb.co/Ldjw31dJ/Chat-GPT-Image-6-Mai-2026-21-40-24.png"
+    },
+    {
+      "id": "seite-g9bzsn",
+      "slug": "gerichtsvollzieher",
+      "title": "Gerichtsvollzieher",
+      "parentId": "justiz-fachabteilungen",
+      "order": 8,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Gerichtsvollzieherinnen und Gerichtsvollzieher der Justiz Eisenfurt sind ein wesentlicher Bestandteil der Rechtspflege und sorgen für die praktische Durchsetzung gerichtlicher Entscheidungen und vollstreckbarer Titel. Sie handeln im Auftrag der Gerichte und gewährleisten, dass rechtskräftige Entscheidungen rechtsstaatlich, neutral und ordnungsgemäß umgesetzt werden.\n\nZu den Aufgaben der Gerichtsvollzieher gehören insbesondere:\n\n- die Zustellung gerichtlicher Schriftstücke,\n- die Durchführung von Vollstreckungsmaßnahmen,\n- Pfändungen beweglicher Vermögenswerte,\n- Räumungen und Herausgaben,\n- sowie die Abnahme von Vermögensauskünften.\n\nDabei handeln Gerichtsvollzieher unabhängig, unparteiisch und ausschließlich auf Grundlage geltender Gesetze und gerichtlicher Anordnungen. Sie tragen eine besondere Verantwortung gegenüber Bürger:innen, Gerichten und dem Rechtsstaat und sorgen dafür, dass Recht nicht nur gesprochen, sondern auch durchgesetzt wird.\n\nDie Gerichtsvollzieher der Justiz Eisenfurt stehen für Neutralität, Zuverlässigkeit und konsequente Rechtsdurchsetzung. Ihr Handeln erfolgt stets unter Wahrung der Verhältnismäßigkeit sowie der Rechte aller Beteiligten.\n\nDurch ihre Arbeit leisten sie einen entscheidenden Beitrag zur Funktionsfähigkeit der Justiz und stärken das Vertrauen in die Durchsetzung gerichtlicher Entscheidungen innerhalb des Rechtsstaates.\n\n**Recht durchsetzen. Ordnung sichern. Vertrauen stärken.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/RT6LJzBK/j2.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/fdwz6S1G/Chat-GPT-Image-6-Mai-2026-21-57-07.png",
+      "banner": "https://i.ibb.co/Z1HkhT3C/Chat-GPT-Image-6-Mai-2026-21-59-07.png"
     }
   ],
   "lawGroups": [
