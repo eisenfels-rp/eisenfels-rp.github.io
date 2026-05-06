@@ -713,6 +713,28 @@
       "logo": "",
       "banner": "",
       "media": []
+    },
+    {
+      "id": "seite-lrmpya",
+      "slug": "justizverwaltung",
+      "title": "Justizverwaltung",
+      "parentId": "justiz-fachabteilungen",
+      "order": 1,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Justizverwaltung Eisenfurt steht für Recht, Ordnung und die Wahrung eines fairen sowie unabhängigen Rechtssystems innerhalb des gesamten Staatsgebiets. Als zentrale Institution der Rechtspflege sorgt sie für die Durchsetzung geltender Gesetze, die Organisation gerichtlicher Verfahren sowie die Sicherstellung eines funktionierenden und rechtsstaatlichen Justizwesens.\n\nZu den Aufgaben der Justizverwaltung gehören insbesondere die Verwaltung der Gerichte und Justizeinrichtungen, die Koordination der Strafverfolgung, die Vollstreckung gerichtlicher Entscheidungen sowie die Ausarbeitung und Pflege der gesetzlichen Grundlagen des Staates Eisenfurt. Dabei arbeitet die Justizverwaltung eng mit Polizei-, Verwaltungs- und Sicherheitsbehörden zusammen.\n\nUnter der Leitung von Justizdirektor Sam Camillieri verfolgt die Justizverwaltung das Ziel, Rechtssicherheit, Transparenz und Vertrauen in den Rechtsstaat dauerhaft zu gewährleisten. Im Mittelpunkt stehen dabei die unparteiische Anwendung des Rechts, der Schutz der Bürger:innen sowie die Wahrung der öffentlichen Ordnung.\n\nDie geltenden Gesetzbücher, Verfahrensordnungen und Rechtsgrundlagen bilden das Fundament unserer Arbeit und schaffen die Basis für ein geordnetes und sicheres Zusammenleben innerhalb von Eisenfurt.\n\n**Für Recht. Für Ordnung. Für Gerechtigkeit.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/yFDS0mDh/j1.png",
+          "caption": "Beschriftung",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/BHHzsrf0/Chat-GPT-Image-6-Mai-2026-21-09-12.png"
     }
   ],
   "lawGroups": [
