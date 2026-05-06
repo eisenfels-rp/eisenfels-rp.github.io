@@ -7184,44 +7184,254 @@
       "title": "Klinikum Preisliste",
       "items": [
         {
-          "name": "Notaufnahme Standard",
-          "price": "€800",
-          "note": "Aufnahme und Erstkontakt."
+          "name": "🧾 1. AUFNAHME & GRUNDKOSTEN",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Notaufnahme kritisch",
-          "price": "€1.500",
-          "note": "Kritische Aufnahme."
+          "name": "Notaufnahme (Standard)",
+          "price": "1000 €",
+          "note": ""
         },
         {
-          "name": "Normalstation / 10 Minuten",
-          "price": "€900",
-          "note": "Stationärer Aufenthalt."
+          "name": "Notaufnahme (kritisch)",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Intensivstation / 10 Minuten",
-          "price": "€1.800",
-          "note": "Intensivüberwachung."
+          "name": "Administrative Aufnahmegebühr",
+          "price": "300 €",
+          "note": ""
         },
         {
-          "name": "Kleine OP",
-          "price": "€4.000",
-          "note": "Einfacher Eingriff."
+          "name": "Erstuntersuchung",
+          "price": "500 €",
+          "note": ""
+        },
+        {
+          "name": "Vitalcheck / Diagnose",
+          "price": "500 €",
+          "note": ""
+        },
+        {
+          "name": "🛏️ 2. AUFENTHALT",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Normalstation (pro 10 Minuten)",
+          "price": "1000 €",
+          "note": ""
+        },
+        {
+          "name": "Intensivstation (pro 10 Minuten)",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Überwachungsbett (pro 10 Minuten)",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Kurzaufenthalt (<10 Minuten)",
+          "price": "750 €",
+          "note": ""
+        },
+        {
+          "name": "🩺 3. BEHANDLUNGEN (STANDARD)",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Wundversorgung (klein)",
+          "price": "1000 €",
+          "note": ""
+        },
+        {
+          "name": "Wundversorgung (schwer)",
+          "price": "2000 €",
+          "note": ""
+        },
+        {
+          "name": "Knochenbruch richten",
+          "price": "3000 €",
+          "note": ""
+        },
+        {
+          "name": "Verbrennungen behandeln",
+          "price": "3500 €",
+          "note": ""
+        },
+        {
+          "name": "Innere Verletzungen stabilisieren",
+          "price": "4000 €",
+          "note": ""
+        },
+        {
+          "name": "Kugel entfernen",
+          "price": "2500 €",
+          "note": ""
+        },
+        {
+          "name": "🔪 4. OPERATIONEN",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Kleine OP (z. B. einfache Eingriffe)",
+          "price": "3000 €",
+          "note": ""
         },
         {
           "name": "Mittlere OP",
-          "price": "€6.500",
-          "note": "Mittlerer Eingriff."
+          "price": "4500 €",
+          "note": ""
         },
         {
           "name": "Große OP",
-          "price": "€9.000 – €12.000",
-          "note": "Komplexer Eingriff."
+          "price": "9000 € - 12.000 €",
+          "note": ""
         },
         {
-          "name": "Not-OP",
-          "price": "€12.000 – €15.000",
-          "note": "Akuter Eingriff."
+          "name": "Not-OP (unter Zeitdruck)",
+          "price": "5000 € - 10.000 €",
+          "note": ""
+        },
+        {
+          "name": "Zusatzkosten OP:",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "OP-Saal Nutzung",
+          "price": "2000 €",
+          "note": ""
+        },
+        {
+          "name": "Narkose",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Chirurgenzuschlag",
+          "price": "2000 €",
+          "note": ""
+        },
+        {
+          "name": "Assistenzteam",
+          "price": "1000 €",
+          "note": "Preis wird pro Teammitglied berechnet"
+        },
+        {
+          "name": "💉 5. MEDIKAMENTE & MATERIAL",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Schmerzmittel (leicht)",
+          "price": "150 €",
+          "note": ""
+        },
+        {
+          "name": "Schmerzmittel (stark)",
+          "price": "300 €",
+          "note": ""
+        },
+        {
+          "name": "Antibiotika",
+          "price": "400 €",
+          "note": ""
+        },
+        {
+          "name": "Sedierung",
+          "price": "500 €",
+          "note": ""
+        },
+        {
+          "name": "Infusion",
+          "price": "300 €",
+          "note": ""
+        },
+        {
+          "name": "Spezialmedikation",
+          "price": "500 € - 1000 €",
+          "note": ""
+        },
+        {
+          "name": "Bluttransfusion",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Verband",
+          "price": "120 €",
+          "note": ""
+        },
+        {
+          "name": "Medkit",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "OP-Material",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Beatmung",
+          "price": "1200 €",
+          "note": ""
+        },
+        {
+          "name": "🧠 6. SPEZIALBEHANDLUNGEN",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Psychologische Behandlung",
+          "price": "1500 €",
+          "note": "pro Sitzung"
+        },
+        {
+          "name": "Traumabehandlung",
+          "price": "2000 €",
+          "note": "pro Sitzung"
+        },
+        {
+          "name": "Langzeittherapie",
+          "price": "2000 €",
+          "note": "pro Sitzung"
+        },
+        {
+          "name": "Rehabilitation",
+          "price": "1200 €",
+          "note": "pro Sitzung"
+        },
+        {
+          "name": "⚠️ 7. NOTFALL- & RISIKOZUSCHLÄGE",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Lebensgefahr-Zuschlag",
+          "price": "1500 €",
+          "note": ""
+        },
+        {
+          "name": "Mehrfachverletzung",
+          "price": "1000 €",
+          "note": ""
+        },
+        {
+          "name": "Komplikationen während Behandlung",
+          "price": "1000 €",
+          "note": ""
+        },
+        {
+          "name": "Intensivüberwachung",
+          "price": "2000 €",
+          "note": ""
         }
       ]
     },
