@@ -250,30 +250,6 @@
       "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
     },
     {
-      "id": "stadtverwaltung-termine",
-      "slug": "stadtverwaltung-termine",
-      "title": "Termine",
-      "parentId": "stadtverwaltung",
-      "order": 4,
-      "showInSidebar": true,
-      "type": "events-list",
-      "factionId": "stadtverwaltung",
-      "accent": "blue",
-      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt."
-    },
-    {
-      "id": "stadtverwaltung-ausbildungen",
-      "slug": "stadtverwaltung-ausbildungen",
-      "title": "Ausbildungen",
-      "parentId": "stadtverwaltung",
-      "order": 5,
-      "showInSidebar": true,
-      "type": "trainings-list",
-      "factionId": "stadtverwaltung",
-      "accent": "red",
-      "body": "# Ausbildungen\n\nAlle Ausbildungen dieser Fraktion werden hier gesammelt angezeigt."
-    },
-    {
       "id": "justiz-preisliste",
       "slug": "Verwaltungskosten",
       "title": "Verwaltungskosten",
