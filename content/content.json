@@ -962,6 +962,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/Z12hvxFb/Chat-GPT-Image-6-Mai-2026-22-18-42.png",
       "banner": "https://i.ibb.co/1frqXGH6/Chat-GPT-Image-6-Mai-2026-22-17-02.png"
+    },
+    {
+      "id": "seite-1y7imn",
+      "slug": "lebensmittelaufsicht",
+      "title": "Lebensmittelaufsicht",
+      "parentId": "justiz-fachabteilungen",
+      "order": 13,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Lebensmittelaufsicht der Justiz Eisenfurt überwacht die Einhaltung lebensmittelrechtlicher Vorschriften und sorgt für den Schutz der Gesundheit der Bevölkerung innerhalb des Staatsgebiets. Ihr Ziel ist es, die Sicherheit, Qualität und Hygiene von Lebensmitteln sowie den verantwortungsvollen Umgang mit Lebensmitteln in Betrieben und Einrichtungen sicherzustellen.\n\nZu den Aufgaben der Lebensmittelaufsicht gehören insbesondere:\n\n- die Kontrolle von Restaurants, Geschäften und lebensmittelverarbeitenden Betrieben,\n- die Überwachung hygienischer Standards,\n- die Prüfung von Lagerung, Verarbeitung und Verkauf von Lebensmitteln,\n- die Ahndung lebensmittelrechtlicher Verstöße,\n- sowie die Beratung von Betrieben zu gesetzlichen Vorgaben und Sicherheitsstandards.\n\nDie Mitarbeiterinnen und Mitarbeiter der Lebensmittelaufsicht handeln unabhängig, sachlich und im Interesse des Verbraucherschutzes. Durch regelmäßige Kontrollen, Prävention und konsequente Rechtsdurchsetzung tragen sie dazu bei, Risiken für die Gesundheit frühzeitig zu erkennen und zu verhindern.\n\nDie Lebensmittelaufsicht der Justiz Eisenfurt steht für Verantwortung, Transparenz und Vertrauen. Sie verbindet moderne Kontrollarbeit mit hohen Qualitätsstandards und leistet einen wichtigen Beitrag zum Schutz von Verbraucher:innen und zur Sicherheit des öffentlichen Lebens.\n\n**Sicherheit. Kontrolle. Verantwortung.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/RT6LJzBK/j2.png",
+          "caption": "Sie finden uns hier",
+          "position": "top/bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "https://i.ibb.co/SwW3FB86/Chat-GPT-Image-6-Mai-2026-22-25-26.png",
+      "banner": "https://i.ibb.co/4ZSSvhxp/Chat-GPT-Image-6-Mai-2026-22-26-24.png"
     }
   ],
   "lawGroups": [
