@@ -4776,7 +4776,98 @@
           "slug": "luftraumgesetz",
           "title": "Luftraumgesetz",
           "description": "Das Luftraumgesetz Eisenfels RP (LuftRG-ESF) regelt die Nutzung, Überwachung und Sicherung des Luftraums innerhalb des Staatsgebiets Inselleben RP. Es schafft die rechtliche Grundlage für den Betrieb von Luftfahrzeugen sowie für Maßnahmen zur Gewährleistung der Sicherheit und Ordnung im Luftverkehr.\n\nZiel dieses Gesetzes ist es, einen sicheren, geordneten und kontrollierten Luftverkehr zu gewährleisten sowie Gefahren für die öffentliche Sicherheit, staatliche Einrichtungen und die Bevölkerung abzuwehren. Das LuftRG-ESF dient insbesondere der Regelung von Flugverkehr, Luftraumüberwachung, Flugbeschränkungen sowie dem Schutz vor missbräuchlicher oder rechtswidriger Nutzung des Luftraums.\n\nDas Gesetz orientiert sich an grundlegenden rechtsstaatlichen Prinzipien wie der Verhältnismäßigkeit, der Gesetzmäßigkeit staatlichen Handelns sowie dem Schutz von Leben, Gesundheit und öffentlicher Sicherheit. Gleichzeitig schafft es klare Zuständigkeiten und Befugnisse für Behörden und Luftsicherheitsorgane zur Durchführung von Kontroll-, Überwachungs- und Sicherungsmaßnahmen.\n\nMit seinem Inkrafttreten gilt das Luftraumgesetz Eisenfels RP als verbindliche Grundlage für sämtliche luftverkehrs- und luftraumrechtlichen Regelungen im gesamten Staatsgebiet Eisenfurt.",
-          "paragraphs": [],
+          "paragraphs": [
+            {
+              "paragraph": "§1",
+              "title": "Zweck und Geltungsbereich",
+              "description": "(1) Dieses Gesetz regelt die zivile und behördliche Nutzung unbemannter Luftfahrtsysteme (Drohnen) im gesamten Luftraum von Eisenfurt.\n\n(2) Es gilt für alle öffentlich und privat eingesetzten Flugobjekte, einschließlich aller Drohnen, Multikopter, Fernlenkfluggeräte sowie automatisierter Luftsysteme über Staatsgebiet Eisenfurt, einschließlich Schutz- und Sperrgebieten, Einsatzorten, Einrichtungen und Sonderzonen.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§2",
+              "title": "Begriffsbestimmungen",
+              "description": "(1) Drohnen sind unbemannte Luftfahrzeuge mit Fernsteuerung, GPS, Livebildübertragung oder automatischer Flugprogrammierung.\n\n(2) Einsatzdrohnen sind Drohnen, die durch staatliche oder autorisierte Institutionen wie Polizei, Justizverwaltung, Feuerwehr, Rettungsdienste oder Stadtverwaltung zur Lageerkundung, Sicherheit oder Aufklärung genutzt werden.\n\n(3) Zivildrohnen sind von Bürger:innen, Unternehmen oder Organisationen zu privaten oder kommerziellen Zwecken betriebene Drohnen.\n\n(4) No-Fly-Zones sind geografisch oder temporär definierte Zonen mit vollständigem Flugverbot. Sie werden durch BND oder die jeweilige Einsatzleitung festgelegt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§3",
+              "title": "Allgemeine Flugregeln",
+              "description": "(1) Jeder Drohnenflug hat unter Beachtung von Gefahrenvermeidung, Rücksichtnahme und Schutz der Privatsphäre zu erfolgen.\n\n(2) Verboten sind Flüge:\n- über Menschenansammlungen, Einsatzorte, Sperrzonen und geschützten Anlagen\n- über privaten Grundstücken ohne Erlaubnis\n- innerhalb von 100 Metern zu Gebäuden kritischer Infrastruktur\n\n(3) Die maximale Flughöhe beträgt 100 m über Boden – Ausnahmen bedürfen einer Sonderfreigabe durch Stadtverwaltung oder die Justizverwaltung.\n\n(4) Der Einsatz von Nachtsicht- oder Wärmebildtechnik ist ausschließlich genehmigten Einsatzdrohnen erlaubt.\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§4",
+              "title": "Nutzung durch Behörden und Fraktionen",
+              "description": "(1) Zugelassene Einsatzzwecke für Polizei, Justiz, Feuerwehr, Rettung und Stadtverwaltung:\n- Lageerkundung\n- Vermisstensuche\n- Verkehrs- oder Brandüberwachung\n- Tatortdokumentation\n- Täterverfolgung\n\n(2) Private oder fraktionsinterne Drohnennutzung ist genehmigungspflichtig über die Stadtverwaltung oder die Justizverwaltung.\n\n(3) Einsatzflüge sind vollständig zu dokumentieren und 5 Jahre revisionssicher zu archivieren.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§5",
+              "title": "Flugverbotszonen (No-Fly-Zones)",
+              "description": "(1) Permanente No-Fly-Zones sind u. a.:\n- Gerichte und das Justizzentrum\n- Polizeireviere, Rettungswachen, Feuerwehrstationen\n- Krankenhäuser, Notlandeplätze\n- Strom- und Wasserversorgung, Funktürme\n- Justizvollzugsanstalten, Hafteinrichtungen\n- Flughäfen, Heliports, Militärbereiche\n\n(2) Temporäre Verbotszonen dürfen durch Einsatzleitungen eingerichtet werden, z. B. bei:\n- Bombenfunden\n- Geisellagen\n- Katastrophenlagen\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§6",
+              "title": "Datenschutz & Persönlichkeitsrechte",
+              "description": "(1) Das Filmen oder Fotografieren von Personen ohne deren Einwilligung ist verboten. Ausnahmen gelten nur bei Gefahr im Verzug oder auf richterliche Anordnung.\n\n(2) Speicherung von Bildmaterial ist nur im Einsatzkontext zulässig.\n\n(3) Verstöße gegen den Datenschutz gelten als Ordnungswidrigkeit mit Bußgeld bis zu 10.000 €.\n",
+              "minFine": "0",
+              "maxFine": "10.000 €",
+              "jailMinutes": "",
+              "points": ""
+            },
+            {
+              "paragraph": "§",
+              "title": "Ordnungswidrigkeiten ",
+              "description": "(1) Ordnungswidrig handelt, wer:\n- ohne Genehmigung in No-Fly-Zones fliegt\n- verbotene Technik wie Nachtsicht/Wärmebild nutzt\n- Einsatzmaßnahmen behindert\n- ohne Rechtsgrund Daten filmt, aufzeichnet oder verbreitet\n\n(2) Bußgelder:\nmind. 5.000 €, max. 10.000 €\nWiederholungstäter können mit bis zu 30 Hafteinheiten belegt werden\n",
+              "minFine": "5000 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0 - 30",
+              "points": ""
+            },
+            {
+              "paragraph": "§8a",
+              "title": "Strafbestimmungen",
+              "description": "Wer durch Drohneneinsätze vorsätzlich Leib, Leben oder kritische Infrastruktur gefährdet, wird mit:\n- Freiheitsstrafe bis zu 30 Hafteinheiten oder\n- Geldstrafe bis 10.000 € bestraft.\n",
+              "minFine": "0 €",
+              "maxFine": "10.000 €",
+              "jailMinutes": "0 - 30",
+              "points": ""
+            },
+            {
+              "paragraph": "§8b",
+              "title": "Strafbestimmungen",
+              "description": "Bei Angriffen auf Einsatzkräfte oder gezielter Sabotage:\nbis zu 45 Hafteinheiten Freiheitsstrafe\n",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "0 - 45",
+              "points": ""
+            },
+            {
+              "paragraph": "§9",
+              "title": "Inkrafttreten",
+              "description": "Dieses Gesetz tritt mit Veröffentlichung durch die Justizverwaltung in Kraft. Ergänzende Durchführungsverordnungen, Genehmigungsformulare und Schulungspflichten können durch die Stadtverwaltung geregelt werden.",
+              "minFine": "",
+              "maxFine": "",
+              "jailMinutes": "",
+              "points": ""
+            }
+          ],
           "media": [],
           "body": "",
           "logo": "https://i.ibb.co/vCG2nhCY/Chat-GPT-Image-4-Mai-2026-22-02-07.png"
