@@ -830,6 +830,28 @@
       "factionId": "justiz",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "https://i.ibb.co/8gxnh8z5/Chat-GPT-Image-6-Mai-2026-21-37-57.png"
+    },
+    {
+      "id": "seite-mcqs76",
+      "slug": "anwaelte",
+      "title": "Anwälte",
+      "parentId": "justiz-fachabteilungen",
+      "order": 7,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "Die Anwältinnen und Anwälte der Justiz Eisenfurt nehmen eine zentrale Rolle innerhalb des Rechtsstaates ein und stehen für die unabhängige Wahrnehmung und Verteidigung der Rechte ihrer Mandantinnen und Mandanten. Als freie Organe der Rechtspflege tragen sie maßgeblich dazu bei, ein faires, ausgewogenes und rechtsstaatliches Verfahren sicherzustellen.\n\nDie anwaltliche Tätigkeit umfasst insbesondere die rechtliche Beratung, außergerichtliche Vertretung sowie die Verteidigung und Interessenvertretung vor den Gerichten der Justiz Eisenfurt. Anwältinnen und Anwälte wirken daran mit, Konflikte rechtlich zu klären, die Rechte der Bürger:innen zu schützen und den Zugang zu einer gerechten Rechtsprechung zu gewährleisten.\n\nDie Anwaltskammer Justiz Eisenfurt bildet die berufsständische Vertretung aller zugelassenen Rechtsanwältinnen und Rechtsanwälte innerhalb des Staatsgebiets. Sie wacht über die Einhaltung beruflicher Pflichten, fördert die Qualität anwaltlicher Arbeit und stärkt die Unabhängigkeit des Anwaltsberufs als unverzichtbaren Bestandteil eines funktionierenden Rechtsstaates.\n\nZu den Aufgaben der Anwaltskammer gehören insbesondere:\n\n- die Zulassung und Registrierung von Anwältinnen und Anwälten,\n- die Überwachung beruflicher Standards und Verhaltenspflichten,\n- die Förderung von Fort- und Weiterbildungen,\n- die Vermittlung bei berufsrechtlichen Angelegenheiten,\n- sowie die Wahrung der Interessen der Anwaltschaft gegenüber Gerichten, Behörden und staatlichen Institutionen.\n\nDie Anwältinnen und Anwälte der Justiz Eisenfurt handeln unabhängig, verschwiegen und ausschließlich im Interesse einer rechtmäßigen und fairen Vertretung ihrer Mandantschaft. Dabei sind sie den Grundsätzen der Integrität, Vertraulichkeit, Professionalität und dem Schutz rechtsstaatlicher Prinzipien verpflichtet.\n\nDie Anwaltschaft bildet gemeinsam mit Gerichten und Staatsanwaltschaft einen unverzichtbaren Bestandteil der Justiz und trägt entscheidend dazu bei, das Vertrauen der Bürger:innen in Recht, Freiheit und Gerechtigkeit zu sichern.\n\n**Unabhängig. Kompetent. Dem Recht verpflichtet.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/RT6LJzBK/j2.png",
+          "caption": "Sie finden uns hier",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "justiz",
+      "logo": "",
+      "banner": "https://i.ibb.co/Ldjw31dJ/Chat-GPT-Image-6-Mai-2026-21-40-24.png"
     }
   ],
   "lawGroups": [
