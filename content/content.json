@@ -285,9 +285,9 @@
       "type": "events-list",
       "factionId": "justiz",
       "accent": "blue",
-      "body": "# Termine\n\nAlle Termine dieser Fraktion werden hier gesammelt angezeigt.\n\n**Ausbildung Test**\nDatum xx.xx.xxxx\nUhrzeit xx.xx.xxxx\nOrt Ausbildungsraum Amtsgericht",
-      "logo": "",
-      "banner": "",
+      "body": "# Termine\n\nAuf dieser Seite veröffentlicht die Justiz Eisenfurt alle öffentlichen Termine und Veranstaltungen innerhalb der Justiz. Dazu gehören insbesondere öffentliche Verhandlungen, Anhörungen, Ausbildungen sowie weitere Termine mit öffentlichem Charakter.\n\nBürger:innen erhalten hier einen Überblick über anstehende Verfahren, Schulungen und justizbezogene Veranstaltungen. Ziel ist es, Transparenz zu schaffen und Interessierten die Möglichkeit zu geben, öffentliche Termine der Justiz Eisenfurt nachzuverfolgen und daran teilzunehmen.\n\n**Transparent. Öffentlich. Nachvollziehbar.**",
+      "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
+      "banner": "https://i.ibb.co/bjCQLBKf/Chat-GPT-Image-6-Mai-2026-23-13-16.png",
       "media": []
     },
     {
