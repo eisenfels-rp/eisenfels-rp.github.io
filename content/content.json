@@ -6484,7 +6484,9 @@
       "name": "Justizverwaltung",
       "description": "Organisation, Verwaltung und interne Koordination der Justiz.",
       "logo": "",
-      "banner": ""
+      "banner": "",
+      "slug": "justizverwaltung",
+      "icon": ""
     },
     {
       "factionId": "justiz",
