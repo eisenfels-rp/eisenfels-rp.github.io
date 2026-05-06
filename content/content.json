@@ -61,11 +61,15 @@
       "slug": "staat-behoerden",
       "title": "Staat & Behörden",
       "parentId": "",
-      "order": 3,
+      "order": 4,
       "showInSidebar": true,
       "type": "group",
       "accent": "blue",
-      "body": "# Staat & Behörden\n\nÜbersicht aller staatlichen Einrichtungen und Fraktionen von Eisenfels RP."
+      "body": "# Staat & Behörden\n\nÜbersicht aller staatlichen Einrichtungen und Fraktionen von Eisenfels RP.",
+      "factionId": "",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "stadtverwaltung",
