@@ -471,14 +471,17 @@
     {
       "id": "freiwillige-feuerwehr-fachbereiche",
       "slug": "freiwillige-feuerwehr-fachbereiche",
-      "title": "Fachbereiche",
+      "title": "Wachen",
       "parentId": "freiwillige-feuerwehr",
       "order": 1,
       "showInSidebar": true,
       "type": "departments",
       "factionId": "freiwillige-feuerwehr",
       "accent": "blue",
-      "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
+      "body": "# Wachen der Freiwilligen Feuerwehr\n\nUnsere Freiwilligen Feuerwehren stellen sich vor",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
+      "banner": "https://i.ibb.co/671ZgjWy/Chat-GPT-Image-7-Mai-2026-15-07-38.png",
+      "media": []
     },
     {
       "id": "freiwillige-feuerwehr-preisliste",
