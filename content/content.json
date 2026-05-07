@@ -1106,7 +1106,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://i.ibb.co/KzBWtmS3/Chat-GPT-Image-7-Mai-2026-16-07-53.png",
+          "url": "https://i.ibb.co/C5VSrYtp/ffweisenfurt.png",
           "caption": "Freiwillige Feuerwehr Eisenfurt",
           "position": "bottom"
         }
@@ -1114,6 +1114,28 @@
       "factionId": "freiwillige-feuerwehr",
       "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
       "banner": "https://i.ibb.co/KzBWtmS3/Chat-GPT-Image-7-Mai-2026-16-07-53.png"
+    },
+    {
+      "id": "seite-1ab768",
+      "slug": "ffwglutheim",
+      "title": "Glutheim",
+      "parentId": "freiwillige-feuerwehr-fachbereiche",
+      "order": 2,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# 🚒 Freiwillige Feuerwehr Glutheim\n\nDie Freiwillige Feuerwehr Glutheim übernimmt als Stützpunktfeuerwehr eine zentrale Rolle innerhalb des Feuerwehrwesens von Eisenfurt und den umliegenden Ortsteilen. Durch ihre umfangreiche Ausstattung, moderne Technik und hohe Einsatzbereitschaft dient die Wache als wichtiger Unterstützungs- und Koordinationsstandort bei größeren Einsatzlagen und besonderen Schadensereignissen.\n\nDie Feuerwehr Glutheim unterstützt sowohl die Berufsfeuerwehr als auch andere freiwillige Standorte bei:\n\nGroßschadenslagen\ntechnischen Hilfeleistungen\nBrandeinsätzen\nüberörtlicher Unterstützung\nsowie komplexen Einsatzlagen mit erhöhtem Personal- oder Materialbedarf\n\nAls Stützpunktfeuerwehr verfügt Glutheim über zusätzliche Spezialfahrzeuge, umfangreiche Ausrüstung und ausgebildete Einsatzkräfte für vielseitige Einsatzszenarien. Darüber hinaus dient der Standort als wichtiger Ausbildungs- und Schulungsbereich innerhalb der Feuerwehrstruktur von Eisenfurt.\n\nRegelmäßige Übungen, moderne Technik und eine enge Zusammenarbeit mit anderen Wachen gewährleisten eine schnelle und professionelle Hilfeleistung – auch über die eigenen Ortsgrenzen hinaus.\n\nDie Kameradinnen und Kameraden der Freiwilligen Feuerwehr Glutheim stehen für Verantwortung, Zusammenhalt und ehrenamtlichen Einsatz im Dienst der Sicherheit aller Bürger:innen.\n\n**Zentrale Unterstützung. Starke Gemeinschaft. Für alle.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/2YWy7PX7/ffwglutheim.png",
+          "caption": "Freiwillige Feuerwehr Glutheim",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "freiwillige-feuerwehr",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
+      "banner": "https://i.ibb.co/1Yp014bg/Chat-GPT-Image-7-Mai-2026-16-11-40.png"
     }
   ],
   "lawGroups": [
