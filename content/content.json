@@ -199,7 +199,18 @@
       "showInSidebar": true,
       "type": "faction",
       "accent": "orange",
-      "body": "# Berufsfeuerwehr\n\nDie Berufsfeuerwehr übernimmt professionelle Brandbekämpfung, technische Hilfeleistung und Gefahrenabwehr."
+      "body": "# Berufsfeuerwehr\n\nDie Berufsfeuerwehr Eisenfurt ist für die Sicherheit der Bürger:innen und die Gefahrenabwehr innerhalb des Staatsgebiets im Einsatz. Sie übernimmt Aufgaben der Brandbekämpfung, technischen Hilfeleistung, Rettung sowie Unterstützung bei Großschadenslagen und Notfällen aller Art.\n\nUnsere Einsatzkräfte handeln schnell, professionell und verantwortungsbewusst – egal ob bei Bränden, Verkehrsunfällen, Gefahrgutlagen oder medizinischen Notfällen. Durch moderne Ausrüstung, regelmäßige Ausbildungen und enge Zusammenarbeit mit anderen Behörden sorgt die Berufsfeuerwehr für ein sicheres und funktionierendes Zusammenleben innerhalb von Eisenfels RP.\n\nNeben dem Einsatzdienst engagiert sich die Feuerwehr auch in der Ausbildung neuer Mitglieder, der Prävention sowie der öffentlichen Aufklärung rund um Sicherheit und Gefahrenabwehr.\n\nDie Berufsfeuerwehr Eisenfels RP steht für Teamgeist, Einsatzbereitschaft und professionelle Hilfe – jederzeit und für jeden.\n\n**Retten. Löschen. Bergen. Schützen.**",
+      "factionId": "",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
+      "banner": "https://i.ibb.co/xqxPhYkL/Chat-GPT-Image-7-Mai-2026-14-40-37.png",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/4xv1byH/bf1.png",
+          "caption": "Berufsfeuerwehr Eisenfurt",
+          "position": "bottom"
+        }
+      ]
     },
     {
       "id": "freiwillige-feuerwehr",
