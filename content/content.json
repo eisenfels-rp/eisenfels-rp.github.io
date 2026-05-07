@@ -7009,6 +7009,15 @@
       "icon": "",
       "logo": "",
       "banner": ""
+    },
+    {
+      "factionId": "freiwillige-feuerwehr",
+      "name": "Freiwillige Feuerwehr Eisenfurt",
+      "description": "Die Freiwillige Feuerwehr Eisenfurt bildet den zentralen Standort für Wasserrettung und gewässerbezogene Einsätze innerhalb des Stadtgebiets.",
+      "slug": "",
+      "icon": "",
+      "logo": "",
+      "banner": ""
     }
   ],
   "priceLists": [
