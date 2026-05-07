@@ -310,7 +310,7 @@
       "type": "price-list",
       "factionId": "justiz",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt.",
+      "body": "# Verwaltungskosten\n\nÜbersicht über die Verwaltungsgebühren der Justizverwaltung Eisenfurt",
       "logo": "https://i.ibb.co/4RV3zTXV/jusitz.png",
       "banner": "",
       "media": []
@@ -430,8 +430,8 @@
       "type": "price-list",
       "factionId": "berufsfeuerwehr",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt.",
-      "logo": "",
+      "body": "# Gebührenordnung\n\nÜbersicht über die Gebührenordnung der Feuerwehr Eisenfurt.",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
       "banner": "",
       "media": []
     },
