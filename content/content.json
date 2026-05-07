@@ -1158,6 +1158,28 @@
       "factionId": "freiwillige-feuerwehr",
       "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
       "banner": "https://i.ibb.co/nqQxP1W4/Chat-GPT-Image-7-Mai-2026-16-19-09.png"
+    },
+    {
+      "id": "seite-8u68eo",
+      "slug": "ffwkaltesende",
+      "title": "Kaltes Ende",
+      "parentId": "freiwillige-feuerwehr-fachbereiche",
+      "order": 4,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# ⛰️ Freiwillige Feuerwehr Kaltes Ende\n\nDie Freiwillige Feuerwehr Kaltes Ende ist auf Einsätze in schwer zugänglichem und anspruchsvollem Gelände spezialisiert. Durch die geografische Lage mit Gebirgszügen, Waldwegen, steilen Hängen und abgelegenen Regionen übernimmt die Wache eine wichtige Rolle bei Spezialrettungen und technischen Hilfeleistungen außerhalb befestigter Einsatzbereiche.\n\nDie Einsatzkräfte der Feuerwehr Kaltes Ende sind speziell für schwierige Einsatzlagen ausgebildet und verfügen über umfangreiche Erfahrung im Umgang mit unwegsamem Gelände sowie besonderen Rettungssituationen. Unterstützt wird dies durch geländegängige Fahrzeuge, Spezialausrüstung und moderne Kommunikationstechnik.\n\nZu den Aufgaben der Feuerwehr Kaltes Ende gehören insbesondere:\n\nRettung in schwer zugänglichem Gelände\nBerg- und Höhenrettung\ntechnische Hilfeleistungen im Gelände\nUnterstützung bei Naturereignissen und Unfällen\nSpezialtransporte und Materialversorgung in abgelegenen Bereichen\n\nDurch enge Zusammenarbeit mit anderen Feuerwehren, Rettungsdiensten und Spezialkräften kann die Feuerwehr Kaltes Ende auch bei komplexen und zeitkritischen Einsatzlagen schnell und professionell handeln.\n\nRegelmäßige Ausbildungen, anspruchsvolle Übungen und ein starker kameradschaftlicher Zusammenhalt machen die Freiwillige Feuerwehr Kaltes Ende zu einer unverzichtbaren Einheit innerhalb der regionalen Gefahrenabwehr.\n\nDie Kameradinnen und Kameraden stehen für Einsatzbereitschaft, Durchhaltevermögen und professionelle Hilfe – auch dort, wo andere nicht mehr weiterkommen.\n\n**Wir gehen hin, wo andere nicht können.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/1tL6GFFy/ffw-kaltes-ende.png",
+          "caption": "Freiwillige Feuerwehr Kaltes Ende",
+          "position": "top/bottom"
+        }
+      ],
+      "factionId": "freiwillige-feuerwehr",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
+      "banner": "https://i.ibb.co/Z6Qv8Jfb/Chat-GPT-Image-7-Mai-2026-16-25-44.png"
     }
   ],
   "lawGroups": [
@@ -7099,6 +7121,15 @@
       "name": "Freiwillige Feuerwehr Hohenriff",
       "description": "Die Freiwillige Feuerwehr Hohenriff ist auf die Bekämpfung von Wald-, Vegetations- und Flächenbränden spezialisiert und übernimmt eine zentrale Rolle im Natur- und Waldschutz innerhalb der Region.",
       "slug": "ffwhohenriff",
+      "icon": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "freiwillige-feuerwehr",
+      "name": "Freiwillige Feuerwehr Kaltes Ende",
+      "description": "Die Freiwillige Feuerwehr Kaltes Ende ist auf Einsätze in schwer zugänglichem und anspruchsvollem Gelände spezialisiert. \n\n",
+      "slug": "ffwkaltesende",
       "icon": "",
       "logo": "",
       "banner": ""
