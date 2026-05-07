@@ -7062,6 +7062,15 @@
       "icon": "",
       "logo": "",
       "banner": ""
+    },
+    {
+      "factionId": "frewillige-feuerwehr",
+      "name": "Freiwillige Feuerwehr Glutheim",
+      "description": "Die Freiwillige Feuerwehr Glutheim übernimmt als Stützpunktfeuerwehr eine zentrale Rolle innerhalb des Feuerwehrwesens von Eisenfurt und den umliegenden Ortsteilen.",
+      "slug": "ffwglutheim",
+      "icon": "",
+      "logo": "",
+      "banner": ""
     }
   ],
   "priceLists": [
