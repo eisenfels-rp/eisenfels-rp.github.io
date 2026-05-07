@@ -1136,6 +1136,28 @@
       "factionId": "freiwillige-feuerwehr",
       "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
       "banner": "https://i.ibb.co/1Yp014bg/Chat-GPT-Image-7-Mai-2026-16-11-40.png"
+    },
+    {
+      "id": "seite-lrinqz",
+      "slug": "ffwhohenriff",
+      "title": "Hohenriff",
+      "parentId": "freiwillige-feuerwehr-fachbereiche",
+      "order": 3,
+      "showInSidebar": true,
+      "type": "page",
+      "accent": "orange",
+      "body": "# 🌲 Freiwillige Feuerwehr Hohenriff\n\nDie Freiwillige Feuerwehr Hohenriff ist auf die Bekämpfung von Wald-, Vegetations- und Flächenbränden spezialisiert und übernimmt eine zentrale Rolle im Natur- und Waldschutz innerhalb der Region. Durch die umliegenden Waldgebiete, schwer zugänglichen Einsatzorte und trockenen Vegetationsflächen ist die Feuerwehr Hohenriff besonders auf großflächige Brandeinsätze vorbereitet.\n\nDie Einsatzkräfte verfügen über spezielle Ausrüstung und Fahrzeuge zur Waldbrandbekämpfung und sind darauf ausgebildet, auch unter schwierigen Bedingungen schnell und effektiv zu handeln. Zu den Aufgaben der Feuerwehr Hohenriff gehören insbesondere:\n\nWald- und Vegetationsbrandbekämpfung\nLöschwasserversorgung in abgelegenen Gebieten\nUnterstützung bei großflächigen Bränden\nBrandschutzüberwachung und Prävention\ntechnische Hilfeleistungen im Wald- und Geländegebiet\n\nDurch enge Zusammenarbeit mit anderen Feuerwehren, Behörden und Luftunterstützungseinheiten kann die Feuerwehr Hohenriff auch bei komplexen Einsatzlagen schnell reagieren und eine effektive Brandbekämpfung sicherstellen.\n\nRegelmäßige Ausbildungen, moderne Technik und ein starker kameradschaftlicher Zusammenhalt machen die Freiwillige Feuerwehr Hohenriff zu einer wichtigen Säule der Gefahrenabwehr und des Naturschutzes innerhalb von Eisenfurt.\n\nDie Kameradinnen und Kameraden der Feuerwehr Hohenriff stehen für Einsatzbereitschaft, Verantwortung und den Schutz unserer Heimat.\n\n**Schützen, was unsere Heimat ausmacht.**",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://i.ibb.co/FkHZXB0z/ffw-hohenriff.png",
+          "caption": "Freiwillige Feuerwehr Hohenriff",
+          "position": "bottom"
+        }
+      ],
+      "factionId": "freiwillige-feuerwehr",
+      "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
+      "banner": "https://i.ibb.co/nqQxP1W4/Chat-GPT-Image-7-Mai-2026-16-19-09.png"
     }
   ],
   "lawGroups": [
@@ -7068,6 +7090,15 @@
       "name": "Freiwillige Feuerwehr Glutheim",
       "description": "Die Freiwillige Feuerwehr Glutheim übernimmt als Stützpunktfeuerwehr eine zentrale Rolle innerhalb des Feuerwehrwesens von Eisenfurt und den umliegenden Ortsteilen.",
       "slug": "ffwglutheim",
+      "icon": "",
+      "logo": "",
+      "banner": ""
+    },
+    {
+      "factionId": "freiwillige-feuerwehr",
+      "name": "Freiwillige Feuerwehr Hohenriff",
+      "description": "Die Freiwillige Feuerwehr Hohenriff ist auf die Bekämpfung von Wald-, Vegetations- und Flächenbränden spezialisiert und übernimmt eine zentrale Rolle im Natur- und Waldschutz innerhalb der Region.",
+      "slug": "ffwhohenriff",
       "icon": "",
       "logo": "",
       "banner": ""
