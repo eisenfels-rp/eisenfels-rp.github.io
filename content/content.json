@@ -7600,39 +7600,218 @@
       ]
     },
     {
-      "factionId": "berufsfeuerwehr",
-      "title": "Berufsfeuerwehr Preisliste",
+      "factionId": "feuerwehr",
+      "title": "Gebührenordnung Feuerwehr",
       "items": [
         {
-          "name": "Brandbekämpfung Standard",
-          "price": "€2.500",
-          "note": "Standard Einsatz."
+          "name": "🚒 Allgemeine Dienstleistungen",
+          "price": "",
+          "note": ""
         },
         {
-          "name": "Technische Hilfeleistung",
-          "price": "€1.800",
-          "note": "Absicherung, Bergung, Hilfeleistung."
+          "name": "Türöffnung",
+          "price": "2500 €",
+          "note": ""
         },
         {
-          "name": "Gefahrgut-Einsatz",
-          "price": "€5.000",
-          "note": "Spezialmaterial erforderlich."
-        }
-      ]
-    },
-    {
-      "factionId": "freiwillige-feuerwehr",
-      "title": "Freiwillige Feuerwehr Preisliste",
-      "items": [
-        {
-          "name": "Unterstützungseinsatz",
-          "price": "€1.200",
-          "note": "Unterstützende Maßnahmen."
+          "name": "Fahrzeugöffnung",
+          "price": "1500 €",
+          "note": ""
         },
         {
-          "name": "Brandsicherheitswache",
-          "price": "€2.000 / Stunde",
-          "note": "Event- oder Objektabsicherung."
+          "name": "Kleinere technische Hilfeleistung",
+          "price": "3500 €",
+          "note": ""
+        },
+        {
+          "name": "Verkehrsabsicherung",
+          "price": "2000 €",
+          "note": ""
+        },
+        {
+          "name": "Ölspur beseitigen",
+          "price": "1000 €",
+          "note": "Pro Ölfleck"
+        },
+        {
+          "name": "Fehlalarm ohne Eingreifen",
+          "price": "2500 €",
+          "note": ""
+        },
+        {
+          "name": "🔥 Brandeinsätze",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Kleinbrand",
+          "price": "5000 €",
+          "note": ""
+        },
+        {
+          "name": "Fahrzeugbrand",
+          "price": "7500 €",
+          "note": ""
+        },
+        {
+          "name": "Gebäudebrand klein",
+          "price": "10.000 €",
+          "note": ""
+        },
+        {
+          "name": "Gebäudebrand groß",
+          "price": "20.000 €",
+          "note": ""
+        },
+        {
+          "name": "Wald-/Vegetationsbrand",
+          "price": "ab 25.000 €",
+          "note": ""
+        },
+        {
+          "name": "Tankstellenbrand",
+          "price": "ab 35.000 €",
+          "note": ""
+        },
+        {
+          "name": "Gefahrgut-/Spezialeinsatz",
+          "price": "ab 30.000 €",
+          "note": ""
+        },
+        {
+          "name": "🚑 Rettung & Bergung",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Personenrettung",
+          "price": "5000 €",
+          "note": ""
+        },
+        {
+          "name": "Wasserrettung",
+          "price": "10.000 €",
+          "note": ""
+        },
+        {
+          "name": "Höhen-/Tiefenrettung",
+          "price": "12.500 €",
+          "note": ""
+        },
+        {
+          "name": "Bergung aus schwerem Gelände",
+          "price": "15.000 €",
+          "note": ""
+        },
+        {
+          "name": "Fahrzeugbergung",
+          "price": "7500 €",
+          "note": ""
+        },
+        {
+          "name": "🚤 Spezialbereiche Freiwillige Feuerwehr",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Standort Eisenfurt – Wasserrettung",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Bootseinsatz",
+          "price": "7500 €",
+          "note": ""
+        },
+        {
+          "name": "Taucherunterstützung",
+          "price": "10.000 €",
+          "note": ""
+        },
+        {
+          "name": "Hochwasserhilfe",
+          "price": "ab 15.000 €",
+          "note": ""
+        },
+        {
+          "name": "Leistung",
+          "price": "Preis",
+          "note": "Hinweis)"
+        },
+        {
+          "name": "🚤 Spezialbereiche Freiwillige Feuerwehr",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Standort Hohenriff – Waldbrandbekämpfung",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Vegetationsbrandbekämpfung",
+          "price": "ab 20.000 €",
+          "note": ""
+        },
+        {
+          "name": "Löschwasserversorgung Gelände",
+          "price": "7500 €",
+          "note": ""
+        },
+        {
+          "name": "Brandwache Waldgebiet",
+          "price": "5000 €",
+          "note": "je Stunde"
+        },
+        {
+          "name": "🚤 Spezialbereiche Freiwillige Feuerwehr",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Standort Glutheim – Stützpunktfeuerwehr",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Großschadenslagen-Unterstützung",
+          "price": "ab 25.000 €",
+          "note": ""
+        },
+        {
+          "name": "Spezialfahrzeugeinsatz",
+          "price": "ab 10.000 €",
+          "note": ""
+        },
+        {
+          "name": "Überörtliche Unterstützung",
+          "price": "7500 €",
+          "note": "je Stunde"
+        },
+        {
+          "name": "🚤 Spezialbereiche Freiwillige Feuerwehr",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Standort Kaltes Ende – Schweres Gelände",
+          "price": "",
+          "note": ""
+        },
+        {
+          "name": "Bergrettung",
+          "price": "15.000 €",
+          "note": ""
+        },
+        {
+          "name": "Spezialrettung Gelände",
+          "price": "ab 20.000 €",
+          "note": ""
+        },
+        {
+          "name": "Geländefahrzeugeinsatz",
+          "price": "8500 €",
+          "note": ""
         }
       ]
     },
