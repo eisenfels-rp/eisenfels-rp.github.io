@@ -421,14 +421,14 @@
       "body": "# Fachbereiche\n\nPlatzhalter für Fachbereiche und Abteilungen."
     },
     {
-      "id": "berufsfeuerwehr-preisliste",
+      "id": "feuerwehr-preisliste",
       "slug": "feuerwehr-preisliste",
       "title": "Gebührenordnung",
       "parentId": "feuerwehr",
       "order": 3,
       "showInSidebar": true,
       "type": "price-list",
-      "factionId": "berufsfeuerwehr",
+      "factionId": "feuerwehr",
       "accent": "orange",
       "body": "# Gebührenordnung\n\nÜbersicht über die Gebührenordnung der Feuerwehr Eisenfurt.",
       "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
