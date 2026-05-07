@@ -422,15 +422,18 @@
     },
     {
       "id": "berufsfeuerwehr-preisliste",
-      "slug": "berufsfeuerwehr-preisliste",
-      "title": "Preisliste",
-      "parentId": "berufsfeuerwehr",
+      "slug": "feuerwehr-preisliste",
+      "title": "Gebührenordnung",
+      "parentId": "feuerwehr",
       "order": 3,
       "showInSidebar": true,
       "type": "price-list",
       "factionId": "berufsfeuerwehr",
       "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
+      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt.",
+      "logo": "",
+      "banner": "",
+      "media": []
     },
     {
       "id": "berufsfeuerwehr-termine",
@@ -482,18 +485,6 @@
       "logo": "https://i.ibb.co/qL2cmLsZ/file-00000000fac871f48d942eda6e8b9814.png",
       "banner": "https://i.ibb.co/671ZgjWy/Chat-GPT-Image-7-Mai-2026-15-07-38.png",
       "media": []
-    },
-    {
-      "id": "freiwillige-feuerwehr-preisliste",
-      "slug": "freiwillige-feuerwehr-preisliste",
-      "title": "Preisliste",
-      "parentId": "freiwillige-feuerwehr",
-      "order": 3,
-      "showInSidebar": true,
-      "type": "price-list",
-      "factionId": "freiwillige-feuerwehr",
-      "accent": "orange",
-      "body": "# Preisliste\n\nDie Preise werden im CMS gepflegt."
     },
     {
       "id": "freiwillige-feuerwehr-termine",
